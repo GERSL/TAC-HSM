@@ -1,4 +1,4 @@
-# 🌱 TAC–HSM 
+# TAC–HSM 
 
 This repository hosts code, data workflows, and figures for validating the relationship between **lag-1 Temporal Autocorrelation (TAC)** derived from satellite vegetation indices and **Hydraulic Safety Margin (HSM)** measured in the field.  
 The project examines how **resistance** (hydraulic traits) and **resilience** (recovery speed, captured by 1-TAC) are linked across Amazonian forests.
@@ -18,19 +18,47 @@ By integrating field datasets with satellite TAC time series, we provide mechani
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
+
+```plaintext
 TAC-HSM/
-├── data/ # Input datasets (field traits, TAC timeseries, climate forcing)
-│ ├── Hydraulic_traits_dataset_TAVARES_et_al_2023.csv
-│ ├── Plot_data_TAVARES_et_al_2023.csv
-│ ├── enhancedTAC.csv
-│ └── ...
-├── scripts/ # MATLAB/Python scripts for data processing and analysis
-│ ├── HSM_TAC_regression.m
-│ └── plot_relationships.py
-│ └── readme.txt # Code overview
-├── figures/ # Generated figures for publication
-├── results/ # Processed outputs (regression coefficients, R² values, bootstraps)
+├── data/                       # Input datasets (not tracked in Git if large)
+│   ├── Hydraulic_traits_dataset_TAVARES_et_al_2023.csv
+│   ├── Plot_data_TAVARES_et_al_2023.csv
+│   ├── enhancedTAC.csv
+│   └── README_data.md          # Notes on data sources, formats, and preprocessing
+│
+├── scripts/                    # Analysis scripts
+│   ├── matlab/                 # MATLAB code
+│   │   ├── R2_bootstrap.m
+│   │   ├── HSM_TAC_regression.m
+│   │   └── plot_geospatial.m
+│   │
+│   └── python/                 # Python code
+│       ├── plot_relationships.py
+│       ├── preprocess_data.py
+│       └── utils.py
+│
+├── results/                    # Processed outputs
+│   ├── regression_results.csv
+│   ├── bootstrap_R2_summary.csv
+│   └── model_selection_AIC.csv
+│
+├── figures/                    # Figures for paper / presentations
+│   ├── Fig1_TAC_HSM_relationship.png
+│   ├── Fig2_R2_heatmap.png
+│   └── example_relationship.png
+│
+├── docs/                       # Documentation, notes, manuscripts
+│   ├── methods_notes.md
+│   └── references.bib
+│
+├── .gitignore                  # Ignore temp/large files (e.g., *.mat, *.asv, __pycache__/)
+├── LICENSE                     # License file (MIT/Apache 2.0/etc.)
+├── requirements.txt            # Python dependencies
+├── README.md                   # Project overview
+└── CITATION.cff                # Citation metadata for GitHub
+
 └── README.md # Project overview
 
 
