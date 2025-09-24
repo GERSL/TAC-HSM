@@ -1,0 +1,85 @@
+
+--------------------------------------------------------------------------------
+          Segmentation violation detected at 2025-09-21 22:34:22 -0400
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.28 stable
+  Graphics Driver          : Uninitialized software 
+  Graphics card 1          : 0x102b ( 0x102b ) 0x536 Version 0.0.0.0 (0-0-0)
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 3164371
+  MATLAB Root              : /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b
+  MATLAB Version           : 24.2.0.2740171 (R2024b) Update 1
+  OpenGL                   : software
+  Operating System         : "Red Hat Enterprise Linux release 8.10 (Ootpa)"
+  Process ID               : 445430
+  Processor ID             : x86 Family 25 Model 1 Stepping 1, AuthenticAMD
+  Session Key              : d92df31b-ebdc-4fb7-8300-713c322acdbe
+  Window System            : No active display
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'GTP_3' id 140066466817792
+
+Register State (from fault):
+  RAX = 0000000000000000  RBX = 00007f604c015de0
+  RCX = 0000000000000004  RDX = 0000000000000000
+  RSP = 00007f63c3ffc530  RBP = 00007f63ac012698
+  RSI = 00007f63ac0008d0  RDI = 00007f63c3ffc3f0
+
+   R8 = 00007f63ac022570   R9 = 00007f63ac0008d0
+  R10 = 0000000000000007  R11 = 0000000000000003
+  R12 = 00007f63ac012660  R13 = 00007f63c3ffc550
+  R14 = 00007f63c3ffc570  R15 = 00007f604c015e20
+
+  RIP = 00007f659dcafef2  EFL = 0000000000010206
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007f659dcafef2 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00229106
+[  1] 0x00007f659dd21910 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00694544
+[  2] 0x00007f659dd27fd7 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00720855
+[  3] 0x00007f659dcf90c2 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00528578
+[  4] 0x00007f659dd157b9 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00645049
+[  5] 0x00007f659dd233a5 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00701349
+[  6] 0x00007f659dd1a03a /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00663610
+[  7] 0x00007f659dd1c472 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00672882
+[  8] 0x00007f65c3c8c233 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463411
+[  9] 0x00007f65c3c8c2d1 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463569
+[ 10] 0x00007f65c3c9c542 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00529730 _ZN16cppmicroservices23ServiceRegistrationBase10UnregisterEv+00000530
+[ 11] 0x00007f659dd1f55d /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00685405
+[ 12] 0x00007f659dd2b5ee /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00734702
+[ 13] 0x00007f659dd0d359 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00611161
+[ 14] 0x00007f65c3a0ab07                             /lib64/libpthread.so.0+00064263
+[ 15] 0x00007f659dd2bc4e /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00736334
+[ 16] 0x00007f659dcf8e80 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00528000
+[ 17] 0x00007f659dd157b9 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00645049
+[ 18] 0x00007f659dd23878 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00702584
+[ 19] 0x00007f659dd1a03a /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00663610
+[ 20] 0x00007f659dd1c472 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00672882
+[ 21] 0x00007f65c3c8c233 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463411
+[ 22] 0x00007f65c3c8c2d1 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463569
+[ 23] 0x00007f65c3c9c542 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00529730 _ZN16cppmicroservices23ServiceRegistrationBase10UnregisterEv+00000530
+[ 24] 0x00007f655057e9d8 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/spf/framework/agent/spf/framework/libmwagentspfframework.so+00571864
+[ 25] 0x00007f655057f842 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/spf/framework/agent/spf/framework/libmwagentspfframework.so+00575554
+[ 26] 0x00007f655054b975 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/spf/framework/agent/spf/framework/libmwagentspfframework.so+00362869
+[ 27] 0x00007f65c38b28c3 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/../../sys/os/glnxa64/libstdc++.so.6+00903363
+[ 28] 0x00007f65c3a031ca                             /lib64/libpthread.so.0+00033226
+[ 29] 0x00007f65c34178d3                                   /lib64/libc.so.6+00235731 clone+00000067
+
+** This crash report has been saved to disk as /home/kes20012/matlab_crash_dump.445430-1 **
+
+
+
+MATLAB is exiting because of fatal error
+/var/spool/slurm/job19755316/slurm_script: line 18: 445430 Killed                  matlab -nojvm -nodisplay -nosplash -singleCompThread -r "trainRFmodel('ci',$SLURM_ARRAY_TASK_ID, 'cn',$SLURM_ARRAY_TASK_MAX');exit"

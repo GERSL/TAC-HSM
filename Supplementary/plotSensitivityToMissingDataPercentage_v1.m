@@ -1,0 +1,243 @@
+function plotSensitivityToMissingDataPercentage_v1()
+% ks 20250909: use dynamic equivalence level (0.5*std of TAC)
+    % PLOTSENSITIVITYTOMISSINGDATAPERCENTAGE
+    close all;
+    msg = 0;%true;%false;
+
+    directory = '/gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/';
+
+    % composite_interval = 'biweekly';
+    % composite_interval = 'monthly';
+    % composite_interval = 'bimonthly';
+    % composite_interval = 'quarterly';
+    equivalence_level = 0.01; % choose 0.2–0.5 typically
+
+    Composite_Intervals = {'biweekly','monthly','bimonthly','quarterly'};
+    rolling_window_yr =  [1 2 3 4 5 6 7]; % [1]; % extend if needed:
+
+    for ic = 1:length(Composite_Intervals)
+        composite_interval = Composite_Intervals{ic};
+        switch composite_interval
+            case 'biweekly'
+                rolling_window = rolling_window_yr * 26;
+            case 'monthly'
+                rolling_window = rolling_window_yr * 12;
+            case 'bimonthly'
+                rolling_window = rolling_window_yr * 6;
+            case 'quarterly'
+                rolling_window = rolling_window_yr * 4;
+            otherwise
+                error('Unsupported composite_interval: %s', composite_interval);
+        end
+    
+        missing_data_pct_thresholds = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9];
+    
+        Equivalence_Outcome = struct([]);
+    
+        for ir = 1:length(rolling_window_yr)
+            w = rolling_window(ir);
+            fprintf('Processing rolling window = %d-year.\n', rolling_window_yr(ir));
+    
+            % Collect TAC data per missing-data threshold
+            TACs = struct('missing_data_pct', num2cell(missing_data_pct_thresholds), 'y', []);
+            for j = 1:length(missing_data_pct_thresholds)
+                pct = missing_data_pct_thresholds(j);
+    
+                % Folder path for this threshold
+                folderpath_Results_s1 = fullfile(directory, ...
+                    ['s1_Landsat_', composite_interval], ...
+                    ['missing_', num2str(pct * 100)]);
+    
+                if ~isfolder(folderpath_Results_s1)
+                    warning('Folder not found: %s', folderpath_Results_s1);
+                    TACs(j).y = [];
+                    continue;
+                end
+    
+                files = dir(fullfile(folderpath_Results_s1, 'TAC*.mat'));
+    
+                if msg
+                    fprintf('Processing missing data pct=%.1f\n', pct);
+                    fprintf('Total of %d files.\n', length(files));
+                end
+    
+                y = [];
+                for i = 1:length(files)
+                    S = load(fullfile(folderpath_Results_s1, files(i).name));
+                    % Expect variable TAC_record_change with nested fields:
+                    %   .(['TAC_',composite_interval]).(['TAC_NIRv_',num2str(w)])
+                    if ~isfield(S, 'TAC_record_change')
+                        warning('Missing TAC_record_change in %s', files(i).name);
+                        continue;
+                    end
+                    T = S.TAC_record_change;
+                    tacRoot = ['TAC_', composite_interval];
+                    tacLeaf = ['TAC_NIRv_', num2str(w)];
+                    if isfield(T, tacRoot) && ismember(tacLeaf, T.(tacRoot).Properties.VariableNames)
+                        tac = T.(tacRoot).(tacLeaf);
+                        % tac is expected to be a vector; adjust if it’s a matrix
+                        y = [y; tac]; %#ok<AGROW>
+                    else
+                        warning('Expected field %s.%s not found in %s', tacRoot, tacLeaf, files(i).name);
+                    end
+                end
+    
+                TACs(j).y = y;
+            end
+    
+            % --------- TOST Equivalence testing vs baseline (90% missing) ---------
+            if isempty(TACs(end).y)
+                warning('Baseline TAC (90%% missing) is empty. Skipping TOST for rolling window %d-year.', rolling_window_yr(ir));
+                Equivalence_Outcome(ir).rolling_window_yr = rolling_window_yr(ir);
+                Equivalence_Outcome(ir).tost = struct([]);
+                continue;
+            end
+    
+            % % calculate the standard deviation of the base line TAC
+            % (optimal)
+            % sd = std(TACs(end).y,'omitmissing');
+            % equivalence_level = equivalence_level_k*sd;
+
+            Equivalence_Outcome(ir).rolling_window_yr = rolling_window_yr(ir);
+            Equivalence_Outcome(ir).tost = struct([]);
+    
+            lowerBound = -equivalence_level;  % your requested equivalence interval
+            upperBound =  equivalence_level;
+            fprintf('Requested equivalence interval is %.2f.\n',upperBound);
+    
+            baseY = TACs(end).y;
+    
+            for j = 1:length(missing_data_pct_thresholds)
+                yj = TACs(j).y;
+    
+                if isempty(yj)
+                    warning('TAC at %.1f missing is empty. Skipping.', missing_data_pct_thresholds(j));
+                    continue;
+                end
+    
+                % Align lengths (truncate to common length) to avoid size mismatch
+                n = min(numel(baseY), numel(yj));
+                data1 = baseY(1:n);
+                data2 = yj(1:n);
+    
+                % Remove NaN pairs explicitly
+                valid = ~isnan(data1) & ~isnan(data2);
+                d = data1(valid) - data2(valid);
+    
+                if isempty(d)
+                    warning('No valid pairs after NaN removal at %.1f missing. Skipping.', missing_data_pct_thresholds(j));
+                    continue;
+                end
+    
+                % TOST - paird t-test
+                [h1,p1,~,stats1] = ttest(d, lowerBound, 'Tail', 'right');
+                [h2,p2,~,stats2] = ttest(d, upperBound, 'Tail', 'left');
+                isEquivalent = (h1 && h2);
+    
+                meanDiff = mean(d, 'omitnan');
+                ci_alpha = 0.05;
+                % Two-sided 95% CI for the mean difference (against 0)
+                [~,~,ci0] = ttest(d, 0, 'Alpha', ci_alpha);
+    
+                if msg
+                    fprintf('\rMissing pct = %.1f\n', missing_data_pct_thresholds(j));
+                    fprintf('Mean difference = %.6f (n=%d)\n', meanDiff, numel(d));
+                    fprintf('Test1 (mean > %.3f): h=%d, p=%.4g, t=%.4f\n', lowerBound, h1, p1, stats1.tstat);
+                    fprintf('Test2 (mean < %.3f): h=%d, p=%.4g, t=%.4f\n', upperBound, h2, p2, stats2.tstat);
+                    fprintf('95%% CI for mean difference (vs 0): [%.6f, %.6f]\n', ci0(1), ci0(2));
+                    fprintf('Conclusion: Equivalent within [%.3f, %.3f]? %d\n', lowerBound, upperBound, isEquivalent);
+                end
+    
+                k = numel(Equivalence_Outcome(ir).tost) + 1;
+                Equivalence_Outcome(ir).tost(k).maxMissing       = missing_data_pct_thresholds(j);
+                Equivalence_Outcome(ir).tost(k).isEquivalent     = isEquivalent;
+                Equivalence_Outcome(ir).tost(k).meanDiff         = meanDiff;
+                Equivalence_Outcome(ir).tost(k).n                = numel(d);
+                Equivalence_Outcome(ir).tost(k).p_right          = p1;
+                Equivalence_Outcome(ir).tost(k).p_left           = p2;
+                Equivalence_Outcome(ir).tost(k).t_right          = stats1.tstat;
+                Equivalence_Outcome(ir).tost(k).t_left           = stats2.tstat;
+                Equivalence_Outcome(ir).tost(k).ci95_vs0         = ci0;  % for reference
+                Equivalence_Outcome(ir).tost(k).bounds           = [lowerBound, upperBound];
+            end
+        end
+    
+    
+        %% ==== DISPLAY EQUIVALENCE OUTCOME (rolling window 1..7) ====
+        % Columns = missing_data_pct thresholds EXCLUDING the baseline 0
+        missPcts = missing_data_pct_thresholds(2:end);  % e.g., 0.1:0.1:0.9
+        
+        % Prepare matrices (rows = rolling windows, cols = missing thresholds)
+        eqMat = nan(numel(rolling_window_yr), numel(missPcts));   % 1/0 equivalence
+        nMat  = nan(numel(rolling_window_yr), numel(missPcts));   % sample sizes used
+        mdMat = nan(numel(rolling_window_yr), numel(missPcts));   % mean differences
+        
+        % Fill from Equivalence_Outcome
+        for ir = 1:numel(rolling_window_yr)
+            if ~isfield(Equivalence_Outcome, 'tost') || isempty(Equivalence_Outcome(ir).tost)
+                continue
+            end
+            % Build a map from maxMissing -> index in missPcts
+            for k = 1:numel(Equivalence_Outcome(ir).tost)
+                rec = Equivalence_Outcome(ir).tost(k);
+                % find column for this missing pct
+                j = find(abs(missPcts - rec.maxMissing) < 1e-12, 1);
+                if ~isempty(j)
+                    eqMat(ir, j) = double(rec.isEquivalent);
+                    nMat(ir, j)  = rec.n;
+                    mdMat(ir, j) = rec.meanDiff;
+                end
+            end
+        end
+        
+        % ---- Print a readable table in Command Window ----
+        varNames = compose('miss_%d%%', round(missPcts*100));
+        rowNames = compose('%dyr', rolling_window_yr);
+        
+        T_equiv = array2table(eqMat, 'VariableNames', matlab.lang.makeValidName(varNames));
+        T_equiv.Properties.RowNames = rowNames;
+        
+        T_n     = array2table(nMat,  'VariableNames', matlab.lang.makeValidName(varNames));
+        T_n.Properties.RowNames = rowNames;
+        
+        T_meanD = array2table(mdMat, 'VariableNames', matlab.lang.makeValidName(varNames));
+        T_meanD.Properties.RowNames = rowNames;
+        
+        disp('=== Equivalence (1=yes, 0=no) ===');
+        disp(T_equiv);
+        disp('=== Sample sizes (n) used ===');
+        disp(T_n);
+        disp('=== Mean differences (data1 - data2) ===');
+        disp(T_meanD);
+        
+        % ---- Heatmap of Equivalence Outcomes ----
+        figure('Position',[100 100 900 420]);
+        imagesc(missPcts*100, rolling_window_yr, eqMat);
+        set(gca, 'YDir', 'normal');
+        xlabel('Missing data (%)');
+        ylabel('Rolling window (years)');
+        title('TOST Equivalence Outcome (1 = Equivalent, 0 = Not Equivalent)');
+        
+        % cb = colorbar; cb.Label.String = 'Equivalence';
+        % caxis([0 1]); % ensures 0..1 mapping
+        
+        % Optional: annotate each cell with 0/1 (skip NaNs)
+        hold on
+        for r = 1:size(eqMat,1)
+            for c = 1:size(eqMat,2)
+                if ~isnan(eqMat(r,c))
+                    text(missPcts(c)*100, rolling_window_yr(r), sprintf('%d', eqMat(r,c)), ...
+                        'HorizontalAlignment','center','FontSize',10,'Color','k');
+                end
+            end
+        end
+        hold off
+        
+        % Optional: save figure
+        outFig = fullfile('./Figures/',sprintf('equivalence_heatmap_%s_%s.fig', composite_interval,num2str(equivalence_level)));
+        % exportgraphics(gcf, outFig, 'Resolution', 300);
+        savefig(gcf,outFig);
+        fprintf('Saved heatmap: %s\n', outFig);
+    end
+
+end

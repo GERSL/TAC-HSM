@@ -1,0 +1,16 @@
+cn576
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+For online documentation, see https://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Processing vi=kNDVI, composite interval=monthly, rolling window = 6-year
+Updated table saved to: /gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/Input/TAC_kNDVI_monthly_6year/Sample_multipleInPlot_HPC_input_6yr_use_2000_climateTAC_TAC_kNDVI_monthly_6year_updated.csv
+(0068/0294) Finished /gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/Input/TAC_kNDVI_monthly_6year/Sample_multipleInPlot_HPC_input_6yr_use_2000_climateTAC_TAC_kNDVI_monthly_6year_updated.csv with 0.15 mins

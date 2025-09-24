@@ -1,0 +1,46 @@
+
+------------------------------------------------------------------------
+       Segmentation violation detected at Sun Sep 21 22:33:25 2025
+------------------------------------------------------------------------
+Architecture     : glnxa64
+Processor ID     : AMD EPYC 7H12 64-Core Processor
+Host Name        : cn493.storrs.hpc.uconn.edu
+Locale           : en_US
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'FTP_2_0' id 140566293636864
+
+Register State (from fault):
+  RAX = 0038004000000000  RBX = 00007fd8e00b1eb0
+  RCX = 0000000000000005  RDX = 00007fd80c002c50
+  RSP = 00007fd823ffd2f0  RBP = 00007fd823ffd470
+  RSI = 00007fd823ffd360  RDI = 00007fd9ab4e25a0
+
+   R8 = 0000000000000000   R9 = cf0f6bf8ad247e5d
+  R10 = 00007fd8e001bb18  R11 = 0000000000000007
+  R12 = 00007fd823ffd360  R13 = 00007fd8b41f5d60
+  R14 = 00007fd9ab4e25a0  R15 = 00007fd823ffd320
+
+  RIP = 00007fd9023add0c  EFL = 0000000000010246
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007fd9023add0c /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/spf/serviceproviders/login/spf/matlabloginserviceprovider/libmwmatlabloginserviceprovider.so+00404748
+[  1] 0x00007fd903e134c7 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/spf/servicepublishers/agent/spf/legacyservicepublisher/../../../../../../../bin/glnxa64/libmwagentspflegacyservicewrapper.so+00189639
+[  2] 0x00007fd98980107b /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/mathworksservicehost/rcf/matlabconnector/serviceprocess/rcf/client-v1/../../../../../../../../bin/glnxa64/libmwagentspfcore.so+00106619 _ZNK5agent3spf4core16ExportedFunctionclEN10foundation10concurrent10threadpool10stop_tokenEONS1_14GenericPayloadE+00000347
+[  3] 0x00007fd903e04b26 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/spf/servicepublishers/agent/spf/legacyservicepublisher/../../../../../../../bin/glnxa64/libmwagentspflegacyservicewrapper.so+00129830
+[  4] 0x00007fd903e04bb1 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/spf/servicepublishers/agent/spf/legacyservicepublisher/../../../../../../../bin/glnxa64/libmwagentspflegacyservicewrapper.so+00129969
+[  5] 0x00007fd903d680b0 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/spf/servicepublishers/agent/spf/legacyservicepublisher/../../../../../../../bin/glnxa64/libmwagentnanomsgtransport.so+00082096
+[  6] 0x00007fd9aafbc334 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/libmwfoundation_threadpool.so+00148276
+[  7] 0x00007fd9aafc1308 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/libmwfoundation_threadpool.so+00168712
+[  8] 0x00007fd9aafc1744 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/libmwfoundation_threadpool.so+00169796
+[  9] 0x00007fd9abb638c3 /home/kes20012/.MathWorks/ServiceHost/-mw_shared_installs/v2024.9.0.2/bin/glnxa64/../../sys/os/glnxa64/libstdc++.so.6+00903363
+[ 10] 0x00007fd9abcb41ca                             /lib64/libpthread.so.0+00033226
+[ 11] 0x00007fd9ab6c88d3                                   /lib64/libc.so.6+00235731 clone+00000067
+
+
+** This crash report has been written to /home/kes20012/.MathWorks/ServiceHost/cn493/logs/MathWorksServiceHost_crash_3027992.log **

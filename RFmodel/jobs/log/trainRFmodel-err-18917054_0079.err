@@ -1,0 +1,2 @@
+Command `client-v1` threw an exception
+Failed to publish ServiceInterface (processcontrol) to ServicePublisher legacyservicepublisher for PublisherConfiguration msh::rcf::common::default from msh::rcf::common

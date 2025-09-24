@@ -1,0 +1,48 @@
+function plotHeatMap()
+    % Function to visualize a 7 × 6 matrix of R² values as a heatmap.
+    % 
+    % INPUTS:
+    %   R2_matrix  - A 7×6 matrix of R² values
+    %   save_fig   - (Optional) Boolean, whether to save the figure (default: false)
+    %   save_path  - (Optional) Path to save the figure if save_fig = true
+    %
+    % Example:
+    %   R2_matrix = rand(7,6);  % Example R² matrix
+    %   plotHeatMap(R2_matrix, true, 'C:\Users\YourName\Documents\heatmap.png')
+    
+    save_fig = false;
+    
+    directory = '/gpfs/sharedfs1/zhulab/SCRATCH/kes20012/ProjectTACValidation/';
+    load(fullfile(directory,'R2res',sensor,"HSM_p50_R2_results.mat"));
+
+    % Labels for the axes
+    vegetation_indices = {'NDVI', 'kNDVI', 'NIRv', 'NBR', 'NDMI', 'EVI', 'EVI2'};
+    rolling_windows = {'1 Year', '2 Years', '3 Years', '4 Years', '5 Years', '6 Years'};
+
+    % Set the colormap range
+    colormap_range = [0, 0.5]; % Define range for colormap
+
+    % Create the heatmap
+    figure;
+    h = heatmap(rolling_windows, vegetation_indices, R2_matrix, ...
+        'Colormap', parula, 'ColorbarVisible', 'on');
+
+    % Handle missing/negative values
+    h.ColorData(R2_matrix < 0) = NaN; % Mark negative values as NaN
+    h.ColorLimits = colormap_range;   % Set the colormap range
+    h.MissingDataLabel = 'R² ≤ 0';    % Label for NaN values
+    h.MissingDataColor = [0, 0, 0];   % Display NaN values in black
+
+    % Customize appearance
+    title('R² Heatmap');
+    set(gca, 'FontSize', 16);
+
+    % Save figure if required
+    if save_fig
+        exportgraphics(gcf, save_path, 'Resolution', 600);
+        fprintf('Figure saved to: %s\n', save_path);
+    end
+end
+
+
+

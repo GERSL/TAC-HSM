@@ -1,0 +1,2 @@
+/var/spool/slurm/job18967614/slurm_script: line 18: 2999147 Killed                  matlab -nojvm -nodisplay -nosplash -singleCompThread -r "trainRFmodel('ci',$SLURM_ARRAY_TASK_ID, 'cn',$SLURM_ARRAY_TASK_MAX');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18967614.batch. Some of the step tasks have been OOM Killed.

@@ -1,0 +1,168 @@
+function obtainEnhancedTAC()
+    close all;
+    do_plot = true;
+    % do_plot = false;%true;%;
+    directory = '/gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/';
+    
+    
+    VIs = {'EVI'};
+    composite_intervals = {'bimonthly'};
+    rolling_windows_y = 6;
+
+    for iV = 1:length(VIs)
+        VI = VIs{iV};
+        
+        for ic = 1:length(composite_intervals)
+            composite_interval = composite_intervals{ic};
+    
+            for ir = 1:length(rolling_windows_y)
+                rolling_window_y = rolling_windows_y(ir);  % rolling window in year
+                switch composite_interval
+                    case 'biweekly'
+                        rolling_window = rolling_window_y*26;
+                    case 'monthly'
+                        rolling_window = rolling_window_y*12;
+                    case 'bimonthly'
+                        rolling_window = rolling_window_y*6;
+                end
+                fprintf('Processing vi=%s, composite interval=%s, rolling window = %d-year\n',...
+                    VI,composite_interval,rolling_window_y);
+    
+                response_var = ['TAC_',VI,'_',composite_interval,'_',num2str(rolling_window)];
+                response_variable_short = ['TAC_',VI,'_',num2str(rolling_window)];
+                response_var_Inyear = ['TAC_',VI,'_',composite_interval,'_',num2str(rolling_window_y),'year'];
+    
+                %% Load original TAC
+                filename = fullfile(directory,'Input',response_var_Inyear,'random_sample_forest_cover_input_TAC_EVI_bimonthly_6year_updated.csv');
+                % filename = fullfile(directory,'Input',response_var_Inyear,'random_forest_input_4184_TAC_EVI2_bimonthly_5year.csv');
+                T = readtable(filename);
+                TAC = T.(response_var);
+
+                %% Calculate RF(Xt)                     
+                [RF_X,valid_idx] = testRFmodel_AllSample(directory,response_var_Inyear,response_var,0);
+                
+                %% Calculate RF(X-act, Xac2000)  
+                [RF_X_minus_ac,~] = testRFmodel_AllSample(directory,response_var_Inyear,response_var,1);
+
+                %% Calculate TACt|Xac ≈ RF(Xt)-RF(X-act, Xac2000) 
+                diff = NaN(length(TAC),1);
+                diff(valid_idx) = RF_X - RF_X_minus_ac;
+                
+                %% Manually correct for idx 39,43,44 (No COLD coefficients)
+                % for 39, use the mean value from nearby pixels 36-40.
+                % if isnan(diff(39))
+                %     diff(39) = nanmean(diff(35:40));
+                % end
+                % for 41,44 use mean value from nearby pixels 41-45.
+                % if isnan(diff(41))
+                %     diff(41) = nanmean(diff(41:45));
+                % end
+                % if isnan(diff(44))
+                %     diff(44) = nanmean(diff(41:45));
+                % end
+                % ignore 52 due to missing climate data.
+                
+                %% enhanced TAC = observed TAC - TACt|Xac
+                % filter out missing data
+                good_idx = ~isnan(diff);
+                TAC = TAC(good_idx);
+                eTAC = TAC - diff(good_idx);
+                
+                %% Save output 
+                folderpath_output = fullfile(directory,'enhancedTAC_allSample');
+                if ~exist(folderpath_output)
+                    mkdir(folderpath_output);
+                end
+                output_filename = fullfile(folderpath_output,[response_var_Inyear,'.csv']);
+                %% output_filename = fullfile(folderpath_output,[response_var_Inyear,'_noOutlierRemoval.csv']);
+                T.diff = diff;
+                T.eTAC = T.("TAC_EVI_bimonthly_36")-T.diff;
+                writetable(T, output_filename);
+                
+                if do_plot
+                    %% Plot enhanced TAC vs TAC
+                    figure;
+                    set(gcf, 'Units', 'centimeters', 'Position', [2, 2, 17, 15]);
+                    scatter( TAC, eTAC, 'filled');
+                    hold on;
+                    
+                    mdl = fitlm(TAC,eTAC);
+                    fprintf('R2 = %.3f\n',mdl.Rsquared.Ordinary);
+                    hold on;
+                    
+                    plot(TAC,TAC,'r--', 'LineWidth', 1.5);
+                    hold off;
+                    xlim([0,0.52]);
+                    ylim([0,0.52]);
+                    ylabel('Enhanced TAC');
+                    xlabel('Observed TAC');
+                    grid on;
+                    legend('', '1:1 line', 'Location', 'Best');
+                    set(gca,'fontsize',14)
+                end   % end of do_plot
+            end    % end of ir
+        end   % end of ic
+    end   % end of iv
+end   % end of function
+
+
+
+function [Y_pred,valid_idx] = testRFmodel_AllSample(directory,response_var_Inyear,response_var,use_2000_climateTAC)
+
+    %% Load trained Random Forest model
+    model_filename = fullfile(directory, 'RFmodel/', ['random_forest_model_',response_var_Inyear,'.mat']);
+    if ~isfile(model_filename)
+        error('Random Forest model not found! Train the model first.');
+    end
+    load(model_filename, 'rf_model', 'predictor_vars');
+    % fprintf('Loading %s\n',model_filename);
+
+    %% Load test dataset
+    if use_2000_climateTAC
+        filename = fullfile(directory,'Input',response_var_Inyear,'random_sample_forest_cover_input_use_2000_climateTAC_TAC_EVI_bimonthly_6year_updated.csv');
+    else
+        filename = fullfile(directory,'Input',response_var_Inyear,'random_sample_forest_cover_input_TAC_EVI_bimonthly_6year_updated.csv'); % Output CSV file
+    end
+    T = readtable(filename);
+    % TODO:
+    % Rename 't2m_ave' to 't2_ave'   (here's a typo in the previous csvfile)
+    try
+        T = renamevars(T, 't2m_ave', 't2_ave');
+    catch
+    end
+
+    % Exclude non-predictor columns (lat, lon, sampleID)
+    exclude_vars = {'sampleLat', 'sampleLon', 'sampleID', 'plotID' response_var};
+    
+    % Identify predictor variables
+    predictor_vars_test = setdiff(T.Properties.VariableNames, exclude_vars);
+
+    % Check if predictor names match the trained model
+    if ~isequal(sort(predictor_vars_test), sort(predictor_vars))
+        error('Mismatch in predictor variable names between training and test data.');
+    end
+
+    % Extract predictors (X_test) and true response values (Y_test)
+    X_test = T{:, predictor_vars};
+    Y_test = T{:, response_var};  % Actual TAC values
+
+    % Remove rows with missing values
+    valid_idx = all(~isnan(X_test), 2);
+    X_test = X_test(valid_idx, :);
+    Y_test = Y_test(valid_idx);
+
+    % Predict TAC using the trained Random Forest model
+    Y_pred = predict(rf_model, X_test);
+
+    % % Save predictions
+    % T.Predicted_TAC = nan(height(T), 1);  % Initialize full column
+    % T.Predicted_TAC(valid_idx) = Y_pred;  % Assign predictions to valid rows
+    % if use_2000_climateTAC
+    %     output_filename = fullfile(directory,'Input','Sample_multipleInPlot_HPC_output_use_2000_climateTAC.csv');
+    % else
+    %     output_filename = fullfile(directory,'Input','Sample_multipleInPlot_HPC_output.csv'); % Output CSV file
+    % end
+    % writetable(T, output_filename);
+
+    
+end

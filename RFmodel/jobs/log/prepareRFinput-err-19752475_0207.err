@@ -1,0 +1,9 @@
+An error occurred while extracting product files.
+Try rerunning the installer.
+
+For help, see this <a href="https://www.mathworks.com/pi_ee_mci_glnxa64">support article</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+/home/kes20012/.MathWorks/ServiceHost/cn615/temp/8b7e-eda0-162c-b2d1/v2025.4.0.4/_tempinstaller_glnxa64/bin/glnxa64/InstallMathWorksServiceHost: error while loading shared libraries: libCppMicroServices.so.3.8.5: cannot open shared object file: No such file or directory

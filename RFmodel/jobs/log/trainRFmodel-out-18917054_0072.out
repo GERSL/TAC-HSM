@@ -1,0 +1,20 @@
+cn576
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Unable to load Toolbox Path Cache
+/home/kes20012/.matlab/R2024b/toolbox_cache-24.2.0-109453024-glnxa64.xml. The
+cache file is not in the correct format. It will be regenerated upon quitting
+MATLAB.] 
+ 
+For online documentation, see https://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Processing vi=NBR, composite interval=monthly, rolling window = 2-year
+Random Forest model saved to: /gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/RFmodel/random_forest_model_TAC_NBR_monthly_2year.mat
+(0072/0147) Finished /gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/RFmodel/random_forest_model_TAC_NBR_monthly_2year.mat with 2.37 mins

@@ -1,0 +1,5 @@
+ prepareResponseVariable('ci',20, 'cn',98');exit#
+                                                |
+{Error: Invalid text character. Check for unsupported symbol, invisible
+character, or pasting of non-ASCII characters.
+} 

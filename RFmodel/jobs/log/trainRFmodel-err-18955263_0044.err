@@ -1,0 +1,6 @@
+{Unrecognized function or variable 'rolling_window'.
+
+Error in trainRFmodel (line 58)
+                response_var = ['TAC_',VI,'_',composite_interval,'_',num2str(rolling_window)];
+                                                                             ^^^^^^^^^^^^^^
+} 

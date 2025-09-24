@@ -1,0 +1,85 @@
+
+--------------------------------------------------------------------------------
+          Segmentation violation detected at 2025-09-21 22:35:25 -0400
+--------------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding           : Disabled - No sandbox or build area path
+  Crash Mode               : continue (default)
+  Default Encoding         : UTF-8
+  Deployed                 : false
+  GNU C Library            : 2.28 stable
+  Graphics Driver          : Uninitialized software 
+  Graphics card 1          : 0x102b ( 0x102b ) 0x536 Version 0.0.0.0 (0-0-0)
+  MATLAB Architecture      : glnxa64
+  MATLAB Entitlement ID    : 3164371
+  MATLAB Root              : /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b
+  MATLAB Version           : 24.2.0.2740171 (R2024b) Update 1
+  OpenGL                   : software
+  Operating System         : "Red Hat Enterprise Linux release 8.10 (Ootpa)"
+  Process ID               : 3222646
+  Processor ID             : x86 Family 25 Model 1 Stepping 1, AuthenticAMD
+  Session Key              : c9fcf336-decc-4652-bc86-a0e92470183c
+  Window System            : No active display
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Current Thread: 'GTP_2' id 139784206931712
+
+Register State (from fault):
+  RAX = 0000000000000000  RBX = 00007f1eb4029ac0
+  RCX = 0000000000000004  RDX = 0000000000000000
+  RSP = 00007f220bffb530  RBP = 00007f21e003b418
+  RSI = 00007f21e00008d0  RDI = 00007f220bffb3f0
+
+   R8 = 00007f21e0030140   R9 = 00007f21e00008d0
+  R10 = 0000000000000003  R11 = 0000000000000003
+  R12 = 00007f21e003b3e0  R13 = 00007f220bffb550
+  R14 = 00007f220bffb570  R15 = 00007f1eb4029b00
+
+  RIP = 00007f241d4a6ef2  EFL = 0000000000010206
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x00007f241d4a6ef2 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00229106
+[  1] 0x00007f241d518910 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00694544
+[  2] 0x00007f241d51efd7 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00720855
+[  3] 0x00007f241d4f00c2 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00528578
+[  4] 0x00007f241d50c7b9 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00645049
+[  5] 0x00007f241d51a3a5 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00701349
+[  6] 0x00007f241d51103a /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00663610
+[  7] 0x00007f241d513472 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00672882
+[  8] 0x00007f2443483233 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463411
+[  9] 0x00007f24434832d1 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463569
+[ 10] 0x00007f2443493542 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00529730 _ZN16cppmicroservices23ServiceRegistrationBase10UnregisterEv+00000530
+[ 11] 0x00007f241d51655d /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00685405
+[ 12] 0x00007f241d5225ee /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00734702
+[ 13] 0x00007f241d504359 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00611161
+[ 14] 0x00007f2443201b07                             /lib64/libpthread.so.0+00064263
+[ 15] 0x00007f241d522c4e /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00736334
+[ 16] 0x00007f241d4efe80 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00528000
+[ 17] 0x00007f241d50c7b9 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00645049
+[ 18] 0x00007f241d51a878 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00702584
+[ 19] 0x00007f241d51103a /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00663610
+[ 20] 0x00007f241d513472 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libDeclarativeServices.so.1.5.9+00672882
+[ 21] 0x00007f2443483233 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463411
+[ 22] 0x00007f24434832d1 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00463569
+[ 23] 0x00007f2443493542 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/libCppMicroServices.so.3.8.3+00529730 _ZN16cppmicroservices23ServiceRegistrationBase10UnregisterEv+00000530
+[ 24] 0x00007f23bbce89d8 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/spf/framework/agent/spf/framework/libmwagentspfframework.so+00571864
+[ 25] 0x00007f23bbce9842 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/spf/framework/agent/spf/framework/libmwagentspfframework.so+00575554
+[ 26] 0x00007f23bbcb5975 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/spf/framework/agent/spf/framework/libmwagentspfframework.so+00362869
+[ 27] 0x00007f24430a98c3 /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/bin/glnxa64/../../sys/os/glnxa64/libstdc++.so.6+00903363
+[ 28] 0x00007f24431fa1ca                             /lib64/libpthread.so.0+00033226
+[ 29] 0x00007f2442c0e8d3                                   /lib64/libc.so.6+00235731 clone+00000067
+
+** This crash report has been saved to disk as /home/kes20012/matlab_crash_dump.3222646-1 **
+
+
+
+MATLAB is exiting because of fatal error
+/var/spool/slurm/job19755388/slurm_script: line 18: 3222646 Killed                  matlab -nojvm -nodisplay -nosplash -singleCompThread -r "trainRFmodel('ci',$SLURM_ARRAY_TASK_ID, 'cn',$SLURM_ARRAY_TASK_MAX');exit"

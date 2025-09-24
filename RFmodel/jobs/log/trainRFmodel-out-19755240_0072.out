@@ -1,0 +1,16 @@
+cn603
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+For online documentation, see https://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Processing vi=NIRv, composite interval=bimonthly, rolling window = 2-year
+Random Forest model saved to: /gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/RFmodel/random_forest_model_TAC_NIRv_bimonthly_2year.mat
+(0072/0196) Finished /gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/RFmodel/random_forest_model_TAC_NIRv_bimonthly_2year.mat with 1.81 mins

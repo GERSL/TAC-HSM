@@ -1,0 +1,187 @@
+function preparePredictorVariables()
+% MATLAB Script to compute climate mean/var and TAC using adaptive rolling windows.
+% ks 20250810
+
+    clc; close all;
+    addpath("../TAC/");
+    
+    use_2000_climateTAC = true;
+    % use_2000_climateTAC = false;            % old TAC slice behavior
+    temporal_range = (2000:2024).';         % target years to report
+    rolling_window_yrs = 1:7;               % try 1..7 years
+    rolling_windows = rolling_window_yrs*12; % months
+
+    % ---- Paths ----
+    folderpath = '/gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/';
+    csv_file   = fullfile(folderpath,'Input','random_samples_4184.csv');
+    t2m_file   = fullfile(folderpath,'ClimateData','t2m_2000_2024.nc');
+    tp_file    = fullfile(folderpath,'ClimateData','tp_2000_2024.nc');
+    def_file   = fullfile(folderpath,'ClimateData','def_2000_2024.nc');
+    ssrd_file  = fullfile(folderpath,'ClimateData','ssrd_2000_2024.nc');
+    fc_file    = fullfile(folderpath,'ForestCover','random_sample_forest_cover.csv');
+
+    [~, base] = fileparts(csv_file);
+
+    % ---- Read sample points ----
+    T = readtable(csv_file);
+    latitudes  = T.sampleLat(:);
+    longitudes = T.sampleLon(:);
+    sampleID   = T.sampleID(:);
+    m360 = longitudes > 180;                 % convert 0–360 → −180–180 if needed
+    longitudes(m360) = longitudes(m360) - 360;
+
+    % ---- Forest cover lookup ----
+    Tfc  = readtable(fc_file);               % must have sampleID, FC
+    FCmap = containers.Map(Tfc.sampleID, Tfc.FC);
+
+    % ---- Read climate cubes & construct time ----
+    nc_lats = ncread(t2m_file, 'latitude');
+    nc_lons = ncread(t2m_file, 'longitude');
+
+    t2m  = ncread(t2m_file,  't2m');   % expect 3D
+    tp   = ncread(tp_file,   'tp');
+    def  = ncread(def_file,  'def');
+    ssrd = ncread(ssrd_file, 'ssrd');
+
+    time_size = size(t2m, 3);
+    timeDT = datetime(2000,1,1) + calmonths(0:time_size-1);  % monthly timeline
+
+    % Dim order detector
+    sz = size(t2m);
+    if numel(nc_lons)==sz(1) && numel(nc_lats)==sz(2)
+        slicer = @(A,lon_idx,lat_idx) squeeze(A(lon_idx, lat_idx, :)); % [lon,lat,time]
+    elseif numel(nc_lats)==sz(1) && numel(nc_lons)==sz(2)
+        slicer = @(A,lon_idx,lat_idx) squeeze(A(lat_idx, lon_idx, :)); % [lat,lon,time]
+    else
+        error('Cannot match dims: t2m size=%s, lats=%d, lons=%d', ...
+              mat2str(sz), numel(nc_lats), numel(nc_lons));
+    end
+
+    Np = numel(sampleID);
+    Ny = numel(temporal_range);
+
+    % ===== Loop rolling windows (one output per window size) =====
+    for ir = 1:numel(rolling_windows)
+        W_yrs = rolling_window_yrs(ir);
+        rolling_window = rolling_windows(ir);     % months
+        fprintf('Processing rolling window of %d years...\n', W_yrs);
+
+        % Preallocate per-window outputs
+        rows = Np * Ny;
+        rr = 0;
+
+        out_sampleID = zeros(rows,1,'like',sampleID);
+        out_lat      = zeros(rows,1);
+        out_lon      = zeros(rows,1);
+        out_year     = zeros(rows,1);
+        out_fc       = NaN(rows,1);
+        out_winyrs   = repmat(W_yrs, rows, 1);
+
+        out_t2m_mean = NaN(rows,1); out_t2m_var = NaN(rows,1); out_t2m_ac = NaN(rows,1);
+        out_tp_mean  = NaN(rows,1); out_tp_var  = NaN(rows,1); out_tp_ac  = NaN(rows,1);
+        out_def_mean = NaN(rows,1); out_def_var = NaN(rows,1); out_def_ac = NaN(rows,1);
+        out_ssrd_mean= NaN(rows,1); out_ssrd_var= NaN(rows,1); out_ssrd_ac= NaN(rows,1);
+
+        % ---- Points ----
+        for i = 1:Np
+            if mod(i,100)==0 || i==1 || i==Np
+                fprintf('  point %d / %d (%.1f%%)\n', i, Np, 100*i/Np);
+            end
+
+            [~, lat_idx] = min(abs(nc_lats - latitudes(i)));
+            [~, lon_idx] = min(abs(nc_lons - longitudes(i)));
+
+            % Full monthly series
+            s_t2m  = slicer(t2m,  lon_idx, lat_idx);
+            s_tp   = slicer(tp,   lon_idx, lat_idx);
+            s_def  = slicer(def,  lon_idx, lat_idx);
+            s_ssrd = slicer(ssrd, lon_idx, lat_idx);
+
+            % Deseason/detrend
+            d_t2m  = climateDeseasonDetrend(s_t2m);
+            d_tp   = climateDeseasonDetrend(s_tp);
+            d_def  = climateDeseasonDetrend(s_def);
+            d_ssrd = climateDeseasonDetrend(s_ssrd);
+
+            % TAC over full record with this window (month-based)
+            w = ones(numel(d_t2m),1);
+            tac_t2m  = calEmprAC(d_t2m,  w, rolling_window);
+            tac_tp   = calEmprAC(d_tp,   w, rolling_window);
+            tac_def  = calEmprAC(d_def,  w, rolling_window);
+            tac_ssrd = calEmprAC(d_ssrd, w, rolling_window);
+
+            % FC for this site
+            fc_i = NaN;
+            if isKey(FCmap, sampleID(i)), fc_i = FCmap(sampleID(i)); end
+
+            % ---- Years (adaptive window) ----
+            for k = 1:Ny
+                y = temporal_range(k);
+                % trailing window: [y-W+1 Jan 1, y Dec 31]
+                winStart = datetime(y - (W_yrs-1), 1, 1);
+                winEnd   = datetime(y, 12, 31);
+                idxWin   = (timeDT >= winStart) & (timeDT <= winEnd);
+
+                if ~any(idxWin), continue; end
+
+                rr = rr + 1;
+
+                % Mean/variance over the window
+                out_t2m_mean(rr)  = mean(s_t2m(idxWin),  'omitnan');
+                out_t2m_var(rr)   = var( s_t2m(idxWin),  0, 'omitnan');
+                out_tp_mean(rr)   = mean(s_tp(idxWin),   'omitnan');
+                out_tp_var(rr)    = var( s_tp(idxWin),   0, 'omitnan');
+                out_def_mean(rr)  = mean(s_def(idxWin),  'omitnan');
+                out_def_var(rr)   = var( s_def(idxWin),  0, 'omitnan');
+                out_ssrd_mean(rr) = mean(s_ssrd(idxWin), 'omitnan');
+                out_ssrd_var(rr)  = var( s_ssrd(idxWin), 0, 'omitnan');
+
+                % TAC averaged over the same months in the window
+                if use_2000_climateTAC
+                    a = rolling_window;                          % first index after window
+                    b = min(a + 12, numel(tac_t2m));             % ~one year after
+                    out_t2m_ac(rr)  = mean(tac_t2m(a:b),  'omitnan');
+                    out_tp_ac(rr)   = mean(tac_tp(a:b),   'omitnan');
+                    out_def_ac(rr)  = mean(tac_def(a:b),  'omitnan');
+                    out_ssrd_ac(rr) = mean(tac_ssrd(a:b), 'omitnan');
+                else
+                    out_t2m_ac(rr)  = mean(tac_t2m(idxWin),  'omitnan');
+                    out_tp_ac(rr)   = mean(tac_tp(idxWin),   'omitnan');
+                    out_def_ac(rr)  = mean(tac_def(idxWin),  'omitnan');
+                    out_ssrd_ac(rr) = mean(tac_ssrd(idxWin), 'omitnan');
+                end
+
+                % keys
+                out_sampleID(rr) = sampleID(i);
+                out_lat(rr)      = latitudes(i);
+                out_lon(rr)      = longitudes(i);
+                out_year(rr)     = y;
+                out_fc(rr)       = fc_i;
+            end
+        end
+
+        % Build output table (trim unused rows)
+        keep = (out_year ~= 0);
+        data = table;
+        data.sampleID  = out_sampleID(keep);
+        data.sampleLat = out_lat(keep);
+        data.sampleLon = out_lon(keep);
+        data.year      = out_year(keep);
+        data.window_years = out_winyrs(keep);
+        data.fc        = out_fc(keep);
+
+        data.t2m_mean  = out_t2m_mean(keep);   data.t2m_var  = out_t2m_var(keep);   data.t2m_ac  = out_t2m_ac(keep);
+        data.tp_mean   = out_tp_mean(keep);    data.tp_var   = out_tp_var(keep);    data.tp_ac   = out_tp_ac(keep);
+        data.def_mean  = out_def_mean(keep);   data.def_var  = out_def_var(keep);   data.def_ac  = out_def_ac(keep);
+        data.ssrd_mean = out_ssrd_mean(keep);  data.ssrd_var = out_ssrd_var(keep);  data.ssrd_ac = out_ssrd_ac(keep);
+
+        % Save per window size
+        if use_2000_climateTAC
+            output_csv = fullfile(folderpath,'Input',sprintf('%s_input_%dyr_use_2000_climateTAC.csv', base, W_yrs));
+        else
+            output_csv = fullfile(folderpath,'Input',sprintf('%s_input_%dyr.csv', base, W_yrs));
+        end
+        writetable(data, output_csv);
+        fprintf('Output saved: %s\n', output_csv);
+    end
+end

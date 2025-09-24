@@ -1,0 +1,175 @@
+function obtainDeltaEnhancedTAC()
+    close all;
+    do_plot = true;
+    msg = true;
+    % do_plot = false;%true;%;
+    directory = '/gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/';
+    
+    VIs = {'EVI'};
+    composite_intervals = {'bimonthly'};
+    rolling_windows_y = 6;
+
+    % Define your time period
+    t0 = datetime(2006,1,1);
+    t1 = datetime(2009,12,31);
+    t2 = datetime(2021,1,1);
+    t3 = datetime(2024,12,31);
+    
+   
+    for iV = 1:length(VIs)
+        VI = VIs{iV};
+        for ic = 1:length(composite_intervals)
+            composite_interval = composite_intervals{ic};
+            for ir = 1:length(rolling_windows_y)
+                rolling_window_y = rolling_windows_y(ir);  % rolling window in year
+                switch composite_interval
+                    case 'biweekly'
+                        rolling_window = rolling_window_y*26;
+                    case 'monthly'
+                        rolling_window = rolling_window_y*12;
+                    case 'bimonthly'
+                        rolling_window = rolling_window_y*6;
+                end
+                fprintf('Processing vi=%s, composite interval=%s, rolling window = %d-year\n',...
+                    VI,composite_interval,rolling_window_y);
+    
+                % response_var = ['TAC_',VI,'_',composite_interval,'_',num2str(rolling_window)];
+                response_variable_short = ['TAC_',VI,'_',num2str(rolling_window)];
+                response_var_Inyear = ['TAC_',VI,'_',composite_interval,'_',num2str(rolling_window_y),'year'];
+    
+                %% Load all sampple ids
+                filename = fullfile(directory,'enhancedTAC_allSample',[response_var_Inyear,'.csv']);
+                T2 = readtable(filename);
+                Plot_Ids = T2.sampleID;  % Assumed column name for plot IDs
+                diff = T2.diff;
+            
+                % Initialize new columns for response and predictor variables
+                num_samples = length(Plot_Ids);
+                TAC_t0 = nan(num_samples, 1);  % mean TAC during 2000 - 2012
+                TAC_t2 = nan(num_samples, 1);  % mean TAC during 2013 - 2024
+                dTAC = nan(num_samples, 1);
+            
+                for i = 1:num_samples
+                    try
+                        % Construct the .mat file path for each plot
+                        tac_filename = fullfile(directory, 'TACResults_AllForestPixels_2025-08-04/',['Landsat_',composite_interval], sprintf('TAC_record_change_plot%05d.mat',Plot_Ids(i)));
+                        % fprintf('Processing #%d \n', Plot_Ids(i));
+                    catch
+                        if msg
+                            fprintf('Not forest pixel. Skip #%d..\n', Plot_Ids(i));
+                        end
+                        continue;
+                    end
+            
+                    % Check if file exists
+                    if isfile(tac_filename)
+                        % Load .mat file
+                        data_struct = load(tac_filename);
+                        TAC_record_change = data_struct.TAC_record_change;
+            
+                        % Extract response variable
+                        if isfield(TAC_record_change, ['TAC_',composite_interval])
+                            % Select the subse for 2000 - 2012
+                            TR = timerange(t0, t1, 'closed'); % inclusive
+                            subsetTT = TAC_record_change.(['TAC_',composite_interval])(TR, :);
+                            TAC_t0(i) = nanmean(subsetTT.(response_variable_short),'all') - diff(i);
+                           
+                            % Select the subse for 2013 - 2024
+                            TR = timerange(t2, t3, 'closed'); % inclusive
+                            subsetTT = TAC_record_change.(['TAC_',composite_interval])(TR, :);
+                            TAC_t2(i) = nanmean(subsetTT.(response_variable_short),'all') - diff(i);
+                     
+                        else
+                            if msg
+                                warning('Field TAC_bimonthly missing in %s', tac_filename);
+                            end
+                        end
+                    else
+                        warning('File not found: %s', tac_filename);
+                    end
+                end   % end of i=1:num_samples
+
+                % Calculate the deltaTAC = TAC_t1 - TAC_t0
+                dTAC = TAC_t2 - TAC_t0;
+                
+                %% Display dTAC
+                % Custom colormap: more vivid for >0
+                nColors = 256;                  % total colors
+                nHalf = round(nColors/2);
+                neg_colors = repmat([0 0 0], nHalf-1, 1);   % black for negatives
+                pos_colors = gray(nHalf);                  % hot colormap for positives
+                custom_cmap = [neg_colors; pos_colors];
+                
+                fig = figure("Name","Scatter plot: Amazon Forest dTAC (last 10 years - first 10 years)");
+                fig.Position = [50 50 900 500];
+                % nan_mask = isnan(dTAC);
+                % dTAC(nan_mask) = -1; 
+                geoscatter(T2.sampleLat, T2.sampleLon,20, dTAC, 'filled', 'MarkerFaceAlpha', 0.7);
+                colormap(custom_cmap) % scatter(T2.sampleLon,T2.sampleLat,20,dTAC,'filled');
+                colorbar;
+                caxis([-0.4,0.4])
+                geobasemap("colorterrain");
+               
+
+                
+
+                % Define bin edges (0.1 deg resolution)
+                bin_size = 0.5; % degrees instead of 0.1
+                lon_edges = floor(min(T2.sampleLon)):bin_size:ceil(max(T2.sampleLon));
+                lat_edges = floor(min(T2.sampleLat)):bin_size:ceil(max(T2.sampleLat));
+
+                % Bin and compute mean for each grid cell
+                [lon_grid, lat_grid] = meshgrid( ...
+                    lon_edges(1:end-1) + bin_size/2, ... % bin centers for lon
+                    lat_edges(1:end-1) + bin_size/2);    % bin centers for lat
+                
+                % Discretize coordinates into bin indices
+                [~, lon_bin] = histc(T2.sampleLon, lon_edges);
+                [~, lat_bin] = histc(T2.sampleLat, lat_edges);
+                
+                % Prepare matrix for mean dTAC values
+                mean_dTAC = nan(length(lat_edges)-1, length(lon_edges)-1);
+                
+                for i = 1:length(lat_edges)-1
+                    for j = 1:length(lon_edges)-1
+                        idx = (lat_bin == i) & (lon_bin == j);
+                        if any(idx)
+                            mean_dTAC(i,j) = mean(dTAC(idx), 'omitnan');
+                        end
+                    end
+                end
+                
+                % Plot as a map
+                fig = figure("Name","Colormap: Amazon Forest dTAC (last 10 years - first 10 years)");
+                fig.Position = [50 50 900 500];
+                pcolor(lon_grid, lat_grid, mean_dTAC);
+                shading flat;                 % remove grid lines
+                colormap(custom_cmap);
+                colorbar;
+                caxis([-0.6,0.4]);
+                xlabel('Longitude');
+                ylabel('Latitude');
+                title(sprintf('Binned mean dTAC (%.2f° grid)',bin_size));
+                axis equal tight;
+
+              
+                %% Save output 
+                folderpath_output = fullfile(directory,'enhancedTAC_delta_allSample');
+                if ~exist(folderpath_output)
+                    mkdir(folderpath_output);
+                end
+                output_filename = fullfile(folderpath_output,[response_var_Inyear,'.csv']);
+
+                %% output_filename = fullfile(folderpath_output,[response_var_Inyear,'_noOutlierRemoval.csv']);
+                T2.dTAC = dTAC;
+                T2.TAC_t0 = TAC_t0;
+                T2.TAC_t2 = TAC_t2;
+                writetable(T2, output_filename);
+                
+              
+            end    % end of ir
+        end   % end of ic
+    end   % end of iv
+end   % end of function
+
+

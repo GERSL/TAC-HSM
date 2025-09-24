@@ -1,0 +1,185 @@
+function obtainEnhancedTAC_AllForestSample()
+    close all;
+    do_plot = false;%true;%;
+    directory = '/gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/';
+    
+    
+    VIs = {'EVI'};%{'NDVI','kNDVI','NIRv','NBR','NDMI','EVI','EVI2'};
+    composite_intervals = {'bimonthly'};%{'biweekly','monthly','bimonthly'};%{'bimonthly'};
+    rolling_windows_y = 6;%[1,2,3,4,5,6,7];
+
+
+    for iV = 1:length(VIs)
+        VI = VIs{iV};
+        
+        for ic = 1:length(composite_intervals)
+            composite_interval = composite_intervals{ic};
+    
+            for ir = 1:length(rolling_windows_y)
+                rolling_window_y = rolling_windows_y(ir);  % rolling window in year
+                switch composite_interval
+                    case 'biweekly'
+                        rolling_window = rolling_window_y*26;
+                    case 'monthly'
+                        rolling_window = rolling_window_y*12;
+                    case 'bimonthly'
+                        rolling_window = rolling_window_y*6;
+                end
+                fprintf('Processing vi=%s, composite interval=%s, rolling window = %d-year\n',...
+                    VI,composite_interval,rolling_window_y);
+    
+                response_var = ['TAC_',VI,'_',composite_interval,'_',num2str(rolling_window)];
+                response_variable_short = ['TAC_',VI,'_',num2str(rolling_window)];
+                response_var_Inyear = ['TAC_',VI,'_',composite_interval,'_',num2str(rolling_window_y),'year'];
+    
+                %% Load original TAC
+                % csv_file = 'Sample_multipleInPlot_HPC.csv';
+                csv_file = 'radom_sample_forest_cover_input.csv';
+                [~, base] = fileparts(csv_file);
+                % if use_2000_climateTAC
+                %     filename = fullfile(folderpath,'Input',sprintf('%s_input_%dyr_use_2000_climateTAC.csv', base, rolling_window_y));
+                % else
+                filename0 = fullfile(directory,'Input',sprintf('%s_input_%dyr.csv', base, rolling_window_y));
+                % end
+                parts = split(filename0,'/');
+                parts = split(parts{end},'.');            
+                filename = fullfile(directory,'Input',response_var_Inyear,[parts{1},'_',response_var_Inyear,'_updated.csv']);
+                T = readtable(filename);
+                TAC = T.(response_var);
+
+                %% Calculate RF(Xt)                     
+                [RF_X,valid_idx] = testRFmodel_FieldSample(directory,response_var_Inyear,response_var,rolling_window_y,0);
+                
+                %% Calculate RF(X-act, Xac2000)  
+                [RF_X_minus_ac,~] = testRFmodel_FieldSample(directory,response_var_Inyear,response_var,rolling_window_y,1);
+
+                %% Calculate TACt|Xac ≈ RF(Xt)-RF(X-act, Xac2000) 
+                diff = NaN(length(TAC),1);
+                diff = RF_X - RF_X_minus_ac;
+                
+                %% Manually correct for idx 39,43,44 (No COLD coefficients)
+                % for 39, use the mean value from nearby pixels 36-40.
+                % if isnan(diff(39))
+                %     diff(39) = nanmean(diff(35:40));
+                % end
+                % for 41,44 use mean value from nearby pixels 41-45.
+                % if isnan(diff(41))
+                %     diff(41) = nanmean(diff(41:45));
+                % end
+                % if isnan(diff(44))
+                %     diff(44) = nanmean(diff(41:45));
+                % end
+                % ignore 52 due to missing climate data.
+                
+                %% enhanced TAC = observed TAC - TACt|Xac
+                % filter out missing data
+                % good_idx = ~isnan(diff);
+                % TAC = TAC(good_idx);
+                % eTAC = TAC - diff(good_idx);
+                eTAC = TAC - diff;
+                
+                %% Save output 
+                folderpath_output = fullfile(directory,'enhancedTAC');
+                if ~exist(folderpath_output)
+                    mkdir(folderpath_output);
+                end
+                output_filename = fullfile(folderpath_output,[response_var_Inyear,'.csv']);
+               
+                %% output_filename = fullfile(folderpath_output,[response_var_Inyear,'_noOutlierRemoval.csv']);
+                T.diff = diff;
+                T.eTAC = eTAC;
+                writetable(T, output_filename);
+                
+                if do_plot
+                    %% Plot enhanced TAC vs TAC
+                    figure;
+                    set(gcf, 'Units', 'centimeters', 'Position', [2, 2, 17, 15]);
+                    scatter( TAC, eTAC, 'filled');
+                    hold on;
+                    
+                    mdl = fitlm(TAC,eTAC);
+                    fprintf('R2 = %.3f\n',mdl.Rsquared.Ordinary);
+                    hold on;
+                    
+                    plot(TAC,TAC,'r--', 'LineWidth', 1.5);
+                    hold off;
+                    xlim([0,0.52]);
+                    ylim([0,0.52]);
+                    ylabel('Enhanced TAC');
+                    xlabel('Observed TAC');
+                    grid on;
+                    legend('', '1:1 line', 'Location', 'Best');
+                    set(gca,'fontsize',14)
+                end   % end of do_plot
+            end    % end of ir
+        end   % end of ic
+    end   % end of iv
+end   % end of function
+
+
+
+function [Y_pred,valid_idx] = testRFmodel_FieldSample(directory,response_var_Inyear,response_var,rolling_window_y,use_2000_climateTAC)
+
+    %% Load trained Random Forest model
+    model_filename = fullfile(directory, 'RFmodel/', ['random_forest_model_',response_var_Inyear,'.mat']);
+    if ~isfile(model_filename)
+        error('Random Forest model not found! Train the model first.');
+    end
+    load(model_filename, 'rf_model', 'predictor_vars');
+    % fprintf('Loading %s\n',model_filename);
+
+    %% Load test dataset
+    csv_file = 'Sample_multipleInPlot_HPC.csv';
+    [~, base] = fileparts(csv_file);
+    filename0 = fullfile(directory,'Input',sprintf('%s_input_%dyr.csv', base, rolling_window_y));
+    parts = split(filename0,'/');
+    parts = split(parts{end},'.');
+
+    if use_2000_climateTAC
+        filename = fullfile(directory,'Input',response_var_Inyear,[parts{1},'_use_2000_climateTAC_',response_var_Inyear,'_updated.csv']);%sprintf('%s_input_%dyr_use_2000_climateTAC.csv', base, rolling_window_y));
+    else
+        filename = fullfile(directory,'Input',response_var_Inyear,[parts{1},'_',response_var_Inyear,'_updated.csv']);%sprintf('%s_input_%dyr.csv', base, rolling_window_y));
+    end
+   
+   
+    T = readtable(filename);
+    % TODO:
+    % Rename 't2m_ave' to 't2_ave'   (here's a typo in the previous csvfile)
+    % T = renamevars(T, 't2m_ave', 't2_ave');
+
+    % Exclude non-predictor columns (lat, lon, sampleID)
+    exclude_vars = {'sampleLat', 'sampleLon', 'sampleID', 'plotID','window_years','year', response_var};
+    
+    % Identify predictor variables
+    predictor_vars_test = setdiff(T.Properties.VariableNames, exclude_vars);
+
+    % Check if predictor names match the trained model
+    if ~isequal(sort(predictor_vars_test), sort(predictor_vars))
+        error('Mismatch in predictor variable names between training and test data.');
+    end
+
+    % Extract predictors (X_test) and true response values (Y_test)
+    X_test = T{:, predictor_vars};
+    Y_test = T{:, response_var};  % Actual TAC values
+
+    % Remove rows with missing values
+    valid_idx = all(~isnan(X_test), 2);
+    X_test = X_test(valid_idx, :);
+    Y_test = Y_test(valid_idx);
+
+    % Predict TAC using the trained Random Forest model
+    Y_pred = NaN(size(T,1),1);
+    Y_pred(valid_idx) = predict(rf_model, X_test);
+
+    % % Save predictions
+    % T.Predicted_TAC = nan(height(T), 1);  % Initialize full column
+    % T.Predicted_TAC(valid_idx) = Y_pred;  % Assign predictions to valid rows
+    % if use_2000_climateTAC
+    %     output_filename = fullfile(directory,'Input','Sample_multipleInPlot_HPC_output_use_2000_climateTAC.csv');
+    % else
+    %     output_filename = fullfile(directory,'Input','Sample_multipleInPlot_HPC_output.csv'); % Output CSV file
+    % end
+    % writetable(T, output_filename);
+
+    
+end
