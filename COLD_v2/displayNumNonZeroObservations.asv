@@ -1,0 +1,56 @@
+% This script is used to show the time series density (number of non-zero observations) for each pixel.
+
+folderpath_cold = '/shared/cn449/Kexin/COLDFusionResults/18TYM/';
+folderpath_stack = fullfile(folderpath_cold,'StackDataSingleOrbit');
+folderpath_num = fullfile(folderpath_cold,'NumberObservations');
+if ~exist(folderpath_num)
+    mkdir(folderpath_num)
+end
+
+stackrows = dir(fullfile(folderpath_stack, 'R*'));
+num_stacks = length(stackrows);
+tasks_per = ceil(num_stacks/ntasks);
+start_i = (task-1)*tasks_per + 1;
+end_i = min(task*tasks_per, num_stacks);
+
+%% Parallel starts here... Locate to a certain task, one task for one row folder
+for i_task = start_i:end_i
+   
+    %% load metadata.mat for having the basic info of the dataset that is in proccess
+    load(fullfile(folderpath_stackrows, 'metadata.mat'));
+
+    %% according to the name of stacking row dataset, the rows # at start and
+    % end can be known well.
+    foldername_stackrows = stackrows(i).name;
+    % name format: R xxxxx xxxxx
+    row_start = str2num(foldername_stackrows(2:6));
+    row_end = str2num(foldername_stackrows(7:11));
+    rows = row_start: row_end;
+    folderpath_stackrows = fullfile(folderpath_stack, foldername_stackrows);
+    
+    
+    %% read stack data
+    for ir = 1: length(rows)
+        fprintf('\nProcessing row #%d \n', rows(ir));
+        [sdate, line_t] = readStackLineData(folderpath_stackrows, metadata.ncols, metadata.nbands, rows(ir), []);
+        % extract years, fmask, and swir1
+        years = year(datetime(sdate,'ConvertFrom','datenum'));
+        fmask = line_t(:,11:11:end);
+        swir1 = line_t(:,8:11:end);
+        % filter non-zero observations in 2017
+        num_nzeros = sum(swir1 > 0 & years==2017);
+        % filter clear observations in 2017
+        num_good = sum(swir1 >0 & fmask<2 & years==2017);
+        
+        %% save records
+        filepath_num = fullfile(folderpath_num, sprintf('record_change_r%05d.mat', rows(ir))); % r: row
+        save([filepath_rcg, '.part'] ,'rec_cg'); % save as .part
+        clear rec_cg;
+        movefile([filepath_rcg, '.part'], filepath_rcg);  % and then rename it as normal format
+        close all;
+        
+        if msg
+            fprintf('ProcesingTimeSingleRow = %0.2f mins for row #%d with %d images\r\n', toc/60, rows(ir), metadata.nimages); 
+        end
+    end
+end

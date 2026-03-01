@@ -1,0 +1,93 @@
+cn654
+#######################################################
+Working on appending ideal solar angles on the table
+ci: 173
+cn: 200
+raw: /gpfs/sharedfs1/zhulab/Yang/GlobalGreeningData/LandsatData/Reflectance/
+des: /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/
+target: SurfaceReflectanceAngles
+***********************************************************
+Working for plot_0172001_0173000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0172001_0173000_brdf.csv
+***********************************************************
+Working for plot_0372001_0373000.csv
+File saved as plot_0372001_0373000_brdf.csv
+***********************************************************
+Working for plot_0572001_0573000.csv
+File saved as plot_0572001_0573000_brdf.csv
+***********************************************************
+Working for plot_0772001_0773000.csv
+File saved as plot_0772001_0773000_brdf.csv
+***********************************************************
+Working for plot_0972001_0973000.csv
+File saved as plot_0972001_0973000_brdf.csv

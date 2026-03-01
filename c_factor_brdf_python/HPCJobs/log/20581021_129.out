@@ -1,0 +1,57 @@
+cn655
+#######################################################
+Working on appending ideal solar angles on the table
+ci: 129
+cn: 200
+raw: /gpfs/sharedfs1/zhulab/Yang/GlobalGreeningData/LandsatData/Reflectance/
+des: /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/
+target: SurfaceReflectanceAngles
+***********************************************************
+Working for plot_0128001_0129000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0128001_0129000_brdf.csv
+***********************************************************
+Working for plot_0328001_0329000.csv
+File saved as plot_0328001_0329000_brdf.csv
+***********************************************************
+Working for plot_0528001_0529000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0528001_0529000_brdf.csv
+***********************************************************
+Working for plot_0728001_0729000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0728001_0729000_brdf.csv
+***********************************************************
+Working for plot_0928001_0929000.csv
+File saved as plot_0928001_0929000_brdf.csv

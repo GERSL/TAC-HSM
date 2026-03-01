@@ -27,7 +27,7 @@ function runTAC_Landsat_allSample(varargin)
     addParameter(p,'do_harmo', true); 
     addParameter(p,'use_TACabs',false);
     addParameter(p,'remove_outliers',true);
-    addParameter(p,'composite_interval','quarterly');
+    addParameter(p,'composite_interval','bimonthly');
 
     % request user's input
     parse(p,varargin{:});
@@ -50,12 +50,7 @@ function runTAC_Landsat_allSample(varargin)
     l9_acq_date = datetime('2021-10-31');
 
     %% define the TAC output folder
-    folderpath_TACResults = fullfile(directory,'TACResults_2025-08-04',[sensor,'_',composite_interval]);
-    % if remove_outliers
-    %     folderpath_TACResults = fullfile(directory,['TACResults_',datestr(now, 'yyyy-mm-dd')],[sensor,'_',composite_interval]);
-    % else
-    %     folderpath_TACResults = fullfile(directory,['TACResults_',datestr(now, 'yyyy-mm-dd'),'noOutlierRemoval'],[sensor,'_',composite_interval]);       
-    % end
+    folderpath_TACResults = fullfile(directory,'TACResults',[sensor,'_',composite_interval]);
     if ~exist(folderpath_TACResults)
         mkdir(folderpath_TACResults);
     end
@@ -66,7 +61,7 @@ function runTAC_Landsat_allSample(varargin)
 
     %% load input data
     % filename = fullfile(directory,'Input_backup','random_samples_4184.csv');
-    filename = fullfile(directory,'Input_backup','random_forest_input_4184.csv');%samples_4184.csv');
+    filename = fullfile(directory,'Input_backup','random_forest_input_4184.csv');
     T2 = readtable(filename);
     FC = T2.fc;
     % filter forest pixels (forest cover >=10%)
@@ -77,7 +72,7 @@ function runTAC_Landsat_allSample(varargin)
     Plot_Ids = T2.sampleID;
     
     %% All Landsat surface reflectance files
-    sr_files = dir(fullfile(directory,'LandsatData/SurfaceReflectance/','random_samples_10000_surface_reflectance_*.csv'));
+    sr_files = dir(fullfile(directory,'LandsatData/SurfaceReflectanceAnglesBRDF/','random_samples_10000_surface_reflectance_*.csv'));
     
     %% Check unprocessed pixels before parallel
     id_unprocessed = [];
@@ -178,8 +173,6 @@ function runTAC_Landsat_allSample(varargin)
                 Lsensor = string(plot_data.sensor);
                 L57_id = Lsensor=='LE07'|Lsensor=='LT05';
                 L89_id = Lsensor=='LC09'|Lsensor=='LC08';
-                % L57_dates = plot_data.date(L57_id);
-                % L89_dates = plot_data.date(L89_id);
 
                 for iband = 1:length(band_names)
                     band_name = band_names{iband};

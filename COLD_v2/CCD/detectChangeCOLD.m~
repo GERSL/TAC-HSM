@@ -1,0 +1,162 @@
+function detectChangeCOLD(folderpath_cold, task,ntasks)
+% only run the non-exit lines.
+% create the record of the rows that have not been processed yet before
+% parallel.
+%
+% Matlab code for Continous Change Detection (for standalone version)
+% Inputs:
+% T_cg:   change probability threshold
+% conse:  number of consecutive observations
+% max_c:  maximum number of coefficients used
+% task:   The task CPU used
+% ntasks: number of CPUs used
+% profile on;
+% Get variable and path 
+
+folderpath_cold = '/lustre/scratch/qiu25856/TestGERSToolbox/h029v005/';
+folderpath_stack = fullfile(folderpath_cold, 'StackData');
+folderpath_tsf = fullfile(folderpath_cold, 'TSFitLine');
+
+% add the matlab search path of GLMnet
+addpath(fullfile(fileparts(fileparts(mfilename('fullpath'))), 'GLMnet'));
+    
+if ~exist('task', 'var')
+    task = 1;
+end
+if ~exist('ntasks', 'var')
+    ntasks = 1;
+end
+onceread = true;
+if 
+landsatpath = 'single';
+singlepath = false;
+
+stackrows = dir(fullfile(folderpath_stack, 'R*'));
+
+%% Tuning variables for continuous change detection
+% probability for detecting surface change
+T_cg = 0.99; % (default) 
+% number of consecutive observation 
+conse = 6; % (default)
+% number of maximum coefficients
+max_c = 8; % (default)
+
+%% Constants:
+% Bands for detection change
+B_detect = 2:6;
+% version of COLD
+cold_v = 2.00;
+% Treshold of noisercg_new
+Tmax_cg = 1-1e-5;
+
+
+%% make TSFitLine folder for storing coefficients of Time Series Fitting
+if ~isfolder(folderpath_tsf)
+    mkdir(folderpath_tsf);
+end
+
+%% Parallel tasks on the row datasats
+num_stacks = length(stackrows);
+tasks_per = ceil(num_stacks/ntasks);
+start_i = (task-1)*tasks_per + 1;
+end_i = min(task*tasks_per, num_stacks);
+
+%% Locate to a certain task with one task for one row folder
+for i_task = start_i:end_i
+    % according to the name of stacking row dataset, the rows # at start and
+    % end can be known well.
+    foldername_stackrows = stackrows(i_task).name;
+    % name format: R xxxxx xxxxx
+    row_start = str2num(foldername_stackrows(2:6));
+    row_end = str2num(foldername_stackrows(7:11));
+    rows = row_start: row_end;
+    folderpath_stackrows = fullfile(folderpath_stack, foldername_stackrows);
+    
+    
+    %% check exsiting record files, and remain the id of the rows that have no results
+    ids_more = [];
+    for ir = 1: length(rows)
+        filepath_rcg = fullfile(folderpath_tsf, sprintf('record_change_r%05d.mat', rows(ir))); % r: row
+        if isfile(filepath_rcg)
+            ids_more = [ids_more; ir];
+            continue;
+        end
+    end
+    rows(ids_more) = [];
+    if isempty(rows)
+        continue;
+    end
+    
+    %% load metadata.mat for having the basic info of the dataset that is in proccess
+    load(fullfile(folderpath_stackrows, 'metadata.mat'));
+    
+    %% report log of CCD only for the first first task
+    if task == 1 && i_task == 1
+        reportLog(folderpath_cold, ntasks, folderpath_cold, metadata.nimages, landsatpath, T_cg, conse, max_c);
+    end
+    
+    %% read single path data
+    if singlepath
+        singlepathlayer = imread(fullfile(folderpath_stackrows, 'singlepath_landsat.tif'));
+        singlepathlayer = singlepathlayer(rows,:); % only sub rows for lowing memery
+    end
+    
+    %% read all the time series data ahead of time if enough memory
+    if onceread
+        %     For instance, to process a stacked row dataset with 10 rows by 5000
+        %     columns by 8 bands by 2000 images, with uint16 format, more 1.5 G
+        %     memory (1,600,000,000 bytes) is required
+        %     1) 10 rows by 5000 pixels by 1300 images will need 1 G mememory
+        %     2) 10 rows by 5000 pixels by 2600 images will need 2 G mememory for
+        %     the places that have very dense landsat data
+
+        % ~8 secs for loading 2000 images; if single row, ~2 secs
+        [sdate, line_t_all, path_t] = readStackLineData(folderpath_stackrows, metadata.ncols, metadata.nbands, rows, singlepathlayer);
+    end
+
+    %% for each row, CCD
+    for ir = 1: length(rows)
+        tic % start to count computing time
+        
+        %% based on single path Landsat data, ...
+        if singlepath
+            
+            % singlepathlayer(ir,:) means the single path value for the
+            % pixel in the current row
+            path_r = singlepathlayer(ir,:);
+            if onceread
+                line_t = line_t_all(:,:,1);
+                line_t_all(:,:,1) = []; % when loading successfully, empty the row data for saving memeory
+            else
+                [sdate, line_t, path_t] = readStackLineData(folderpath_stackrows, metadata.ncols, metadata.nbands, rows(ir), path_r);
+            end
+            % ccd processing
+            rec_cg = TrendSeasonalFit_COLDLine(sdate, line_t, path_t, path_r, ...
+                metadata.ncols, rows(ir), ...
+                T_cg, Tmax_cg, conse, max_c, metadata.nbands, B_detect);
+        else
+            %% based on all path Landsat data, ...
+            if onceread
+                line_t = line_t_all(:,:,1);
+                line_t_all(:,:,1) = []; % when loading successfully, empty the row data for saving memeory
+            else
+                [sdate, line_t] = readStackLineData(folderpath_stackrows, metadata.ncols, metadata.nbands, rows(ir), []);
+            end
+            % ccd processing
+            rec_cg = TrendSeasonalFit_COLDLine(sdate, line_t, [], [], ...
+                metadata.ncols, rows(ir), ...
+                T_cg, Tmax_cg, conse, max_c, metadata.nbands, B_detect);
+        end
+        
+        %% save record of time series segments
+        filepath_rcg = fullfile(folderpath_tsf, sprintf('record_change_r%05d.mat', rows(ir))); % r: row
+        save([filepath_rcg, '.part'] ,'rec_cg'); % save as .part
+        movefile([filepath_rcg, '.part'], filepath_rcg);  % and then rename it as normal format
+        close all;
+        
+        fprintf('ProcesingTimeSingleRow = %0.2f mins for row #%d with %d images\r\n', toc/60, rows(ir), metadata.nimages); 
+        
+    end
+end
+
+end % end of function 

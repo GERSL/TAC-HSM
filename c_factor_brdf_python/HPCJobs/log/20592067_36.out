@@ -1,0 +1,24 @@
+cn632
+#######################################################
+Working on appending ideal solar angles on the table
+ci: 36
+cn: 200
+raw: /gpfs/sharedfs1/zhulab/Yang/GlobalGreeningData/LandsatData/Reflectance/
+des: /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/
+target: SurfaceReflectanceAngles
+***********************************************************
+Working for plot_0035001_0036000.csv
+Skip the file (data exist): /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/SurfaceReflectanceAnglesBRDF/plot_0035001_0036000_brdf.csv
+***********************************************************
+Working for plot_0235001_0236000.csv
+Skip the file (data exist): /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/SurfaceReflectanceAnglesBRDF/plot_0235001_0236000_brdf.csv
+***********************************************************
+Working for plot_0435001_0436000.csv
+Skip the file (data exist): /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/SurfaceReflectanceAnglesBRDF/plot_0435001_0436000_brdf.csv
+***********************************************************
+Working for plot_0635001_0636000.csv
+Skip the file (data exist): /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/SurfaceReflectanceAnglesBRDF/plot_0635001_0636000_brdf.csv
+***********************************************************
+Working for plot_0835001_0836000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0835001_0836000_brdf.csv

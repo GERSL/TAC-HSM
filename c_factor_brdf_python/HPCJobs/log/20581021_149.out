@@ -1,0 +1,39 @@
+cn654
+#######################################################
+Working on appending ideal solar angles on the table
+ci: 149
+cn: 200
+raw: /gpfs/sharedfs1/zhulab/Yang/GlobalGreeningData/LandsatData/Reflectance/
+des: /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/
+target: SurfaceReflectanceAngles
+***********************************************************
+Working for plot_0148001_0149000.csv
+File saved as plot_0148001_0149000_brdf.csv
+***********************************************************
+Working for plot_0348001_0349000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0348001_0349000_brdf.csv
+***********************************************************
+Working for plot_0548001_0549000.csv
+File saved as plot_0548001_0549000_brdf.csv
+***********************************************************
+Working for plot_0748001_0749000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0748001_0749000_brdf.csv
+***********************************************************
+Working for plot_0948001_0949000.csv
+File saved as plot_0948001_0949000_brdf.csv

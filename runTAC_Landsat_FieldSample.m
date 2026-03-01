@@ -7,7 +7,9 @@ function runTAC_Landsat_FieldSample(varargin)
     warning('off','all')   
     addpath(fullfile(pwd),'TAC');
 
-    directory = '/gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/';
+    % directory = '/gpfs/sharedfs1/zhulab/Kexin/ProjectTACValidation/';
+    directory = 'C:/ProjectTACValidation';
+    
 
     p = inputParser;
     addParameter(p,'task', 1);                     % 1st task
@@ -25,9 +27,14 @@ function runTAC_Landsat_FieldSample(varargin)
     use_TACabs = p.Results.use_TACabs;
 
     % composite_interval = 'quarterly';
-    % composite_interval = 'bimonthly';
-    % % composite_interval = 'monthly';
-    composite_interval = 'biweekly';
+    composite_interval = 'bimonthly';
+    % composite_interval = 'monthly';
+    % composite_interval = 'biweekly';
+
+    % conse_gap = 0;
+    conse_gap = 1;
+    % conse_gap = 2;
+
     sensor = 'Landsat';
 
     band_names = {'blue','green','red'...
@@ -39,11 +46,11 @@ function runTAC_Landsat_FieldSample(varargin)
      l9_acq_date = datetime('2021-10-31');
 
     %% load TIF coefficients
-    TIFname = fullfile('/home/kes20012/ProjectTACValidation/L57_L89_Harmonization/TIFResults/TIFbrdf_coefficient_r00001c00001.mat');
+    TIFname = fullfile('./L57_L89_Harmonization/TIFResults/TIFbrdf_coefficient_r00001c00001.mat');
     load(TIFname);
 
     %% define the TAC output folder
-    folderpath_TACResults = fullfile(directory,['TACResults_FieldSample_',datestr(now, 'yyyy-mm-dd')],[sensor,'_',composite_interval]);
+    folderpath_TACResults = fullfile(directory,'result',['TACResults_FieldSample_',datestr(now, 'yyyy-mm-dd')],[sensor,'_',composite_interval,'_conseGap',int2str(conse_gap)]);
     if ~exist(folderpath_TACResults)
         mkdir(folderpath_TACResults);
     end
@@ -55,13 +62,13 @@ function runTAC_Landsat_FieldSample(varargin)
     Lon = T2.sampleLon;
     Plot_Ids = T2.sampleID;
 
-    filename_plotName = fullfile(directory,'FieldData/hydraulic_data_compiled_allSample_HPC.csv');
+    filename_plotName = fullfile(directory,'data','/FieldData/hydraulic_data_compiled_allSample_HPC.csv');
     T3 = readtable(filename_plotName);
     Sitenames = T3.Site;
 
     
     %% All Landsat surface reflectance files
-    sr_files = dir(fullfile(directory,'LandsatData/SurfaceReflectanceAnglesBRDF/','Sample_multipleInPlot_HPC_surface_reflectance_000001_000053_angles_brdf.csv'));
+    sr_files = dir(fullfile(directory,'data','/LandsatData/SurfaceReflectanceAnglesBRDF/','Sample_multipleInPlot_HPC_surface_reflectance_000001_000045_angles_brdf.csv'));
     filename = fullfile(sr_files(1).folder,sr_files(1).name);
     T = readtable(filename);
 
@@ -93,6 +100,7 @@ function runTAC_Landsat_FieldSample(varargin)
     %% Parallel starts here ...
     %  Locate to a certain task, one task for one S2 row folder
     for i_task = start_i:end_i
+    % for i_task = 26
     % for i_task = 35  % 35 is a good pixel to visuliaze the TAC time series
     % for i_task = 16    % FEC 
     % for i_task = 26    % TAM
@@ -181,50 +189,14 @@ function runTAC_Landsat_FieldSample(varargin)
         end
             
         %% run TAC
-        % do plot
         TAC_record_change = autoTAC_sample(sensor,plot_data,'composite_interval',{composite_interval},'VI',{'NDVI','kNDVI','NIRv','NBR','NDMI','EVI','EVI2'},...
-            'plot_id',id,'plot_lat',lat,'plot_lon',lon,'plot_name',site_name,'savefig',false,'doplot',true,'plot_VI','NIRv');
-        % don't plot
-        % TAC_record_change = autoTAC_sample(sensor,plot_data,'composite_interval',{composite_interval},'VI',{'NDVI','kNDVI','NIRv','NBR','NDMI','EVI','EVI2'},...
-        % 'plot_id',id,'plot_lat',lat,'plot_lon',lon,'plot_name','test','savefig',false,'doplot',false,'plot_VI','EVI2');         
-        % 
-        
-        %% Calculate data density (the percentage of valid quarterly data within the 25 years)
-        if ~isempty(TAC_record_change)
-            fprintf([site_name,' density: \n']);
-            data_count = TAC_record_change.(['TAC_',composite_interval]).data_count;
-            
-
-            % Logical vector: where are the zeros?
-            isZero = (data_count == 0)';
-            
-            % Find run lengths of consecutive zeros
-            d = diff([0 isZero 0]);       % detect starts (+1) and ends (−1)
-            runStarts = find(d == 1);
-            runEnds   = find(d == -1) - 1;
-            runLengths = runEnds - runStarts + 1;
-            
-            % Count runs of different lengths
-            n1 = sum(runLengths == 1);     % single 0
-            n2 = sum(runLengths == 2);     % exactly two 0s in a row
-            nMore = sum(runLengths > 2);   % more than two 0s in a row
-
-            valid_data_pct = sum(data_count>0)./size(data_count,1);
-            single_missing_pct = n1./size(data_count,1);
-            double_missing_pct = n2./size(data_count,1);
-            more_missing_pct = nMore./size(data_count,1);
-
-            fprintf('The percentage of valid data pct is %.3f %%\n',valid_data_pct*100);   
-            fprintf('The percentage of single missing data is %.3f %%\n',single_missing_pct*100);
-            fprintf('The percentage of double missing data in a row is %.3f %%\n',double_missing_pct*100);
-            fprintf('The percentage of more than two missing data in a row is %.3f %%\n',more_missing_pct*100);
-          
-        end   % end of ~isempty
+        'plot_id',id,'plot_lat',lat,'plot_lon',lon,'plot_name','test','savefig',false,'doplot',false,'plot_VI','NIRv','conse_gap',conse_gap);         
+     
 
         %% Save results
-        % filepath_rcg = fullfile(folderpath_TACResults, sprintf('TAC_record_change_plot%05d.mat', id)); % r: row
-        % save([filepath_rcg, '.part'] ,'TAC_record_change'); % save as .part
-        % movefile([filepath_rcg, '.part'], filepath_rcg);  % and then rename it as normal format
+        filepath_rcg = fullfile(folderpath_TACResults, sprintf('TAC_record_change_plot%05d.mat', id)); % r: row
+        save([filepath_rcg, '.part'] ,'TAC_record_change'); % save as .part
+        movefile([filepath_rcg, '.part'], filepath_rcg);  % and then rename it as normal format
           
         fprintf('Processing %.2f%%..\n',i_task/length(Plot_Ids)*100);
         

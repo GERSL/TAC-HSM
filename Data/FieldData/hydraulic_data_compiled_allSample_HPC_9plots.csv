@@ -1,0 +1,10 @@
+﻿ID,pointID,Site,rank,ForestType,FullName,LongitudeDecimal,LatitudeDecimal,SampleYear,SampleMonth,ContryName,PlatArea (ha),p50,p88,HSM_p50,HSM_p88,Psi_min,P_tlp,p50_SamplePeriod,Psi_min_SamplePeriod,source,MCWD,hydraulic traits sampled or compiled?,original source
+1,1,ALP2,1,Aseasonal,,-73.4399997,-3.95000028,2017,10,PERU,0.44,-1.44,-2.26,0.72,1.56,-0.71,,17-Oct,17-Oct,Tavares_et_al_2023,-23.27687769,sampled,
+2,6,ALP1,1,Aseasonal,,-73.42999786,-3.95000531,2017,10,PERU,0.48,-1.97,-3.28,1.02,2.33,-0.96,,17-Oct,17-Oct,Tavares_et_al_2023,-23.1076032,sampled,
+3,11,CAX,1,Inter DSL,,-51.45000117,-1.70999799,2016,10,BRAZIL,0.81,-2.18,-4.17,-0.32,1.66,-2.51,,Sep/Oct-2016,Sep/Oct-2016,Tavares_et_al_2023,-256.0901071,compiled,Bittencourt et al 2020
+4,16,FEC,1,Inter DSL,,-67.61669678,-10.06670471,2017,8,BRAZIL,1,-2.26,-3.85,-0.32,1.33,-2.62,,17-Apr,July/Aug-2017,Tavares_et_al_2023,-288.7350259,sampled,
+5,21,MAN,1,Inter DSL,,-60.19999678,-2.59999931,2016,8,BRAZIL,1,-2.07,-3.3,0.59,1.81,-1.48,,15-Aug,16-Aug,Tavares_et_al_2023,-184.2566168,compiled,Barros et. al 2019
+6,26,TAM,1,Inter DSL,,-69.30000205,-12.79999537,2017,9,PERU,1,-1.54,-2.57,-0.01,1.04,-1.52,,Jan/Feb-2017,17-Sep,Tavares_et_al_2023,-195.2607285,sampled,
+7,31,NVX,2,Long DSL,,-52.16799773,-14.83300007,2016,8,BRAZIL,0.6,-2.95,-4.1,-1,0.15,-3.95,,17-Mar,"Aug-2016, Aug/Sep-2017",Tavares_et_al_2023,-643.3014819,compiled,Jancoski et al. (unplublished) 
+8,36,SUC,1,Aseasonal,,-72.89999976,-3.29999504,2017,11,PERU,1,-1.29,-2.09,0.32,1.13,-0.97,,17-Nov,17-Nov,Tavares_et_al_2023,-15.08827426,sampled,
+9,41,KEN1,2,Long DSL,,-62.72999797,-16.0199992,2017,8,BOLIVIA,1,-2.44,-3.86,0.34,1.76,-2.1,,17-Mar,"Aug/Sep-2017, July-2018",Tavares_et_al_2023,-472.4509994,sampled,

@@ -1,0 +1,26 @@
+{Array indices must be positive integers or logical values.
+
+Error in COLDHLS (line 171)
+    stackrows = stackrows(ids);
+                ^^^^^^^^^^^^^^
+Error in batchCOLD (line 44)
+        COLDHLS(folderpath_tilecold, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+slurmstepd: error: *** JOB 18491635 ON cn497 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491618 ON cn501 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491623 ON cn499 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491580 ON cn532 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491597 ON cn483 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491633 ON cn497 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491603 ON cn600 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491582 ON cn640 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491631 ON cn497 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491583 ON cn640 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491620 ON cn499 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491632 ON cn497 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491605 ON cn483 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491595 ON cn483 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491604 ON cn483 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18491596 ON cn483 CANCELLED AT 2025-07-20T01:28:18 ***
+slurmstepd: error: *** JOB 18489839 ON cn510 CANCELLED AT 2025-07-20T01:30:10 ***

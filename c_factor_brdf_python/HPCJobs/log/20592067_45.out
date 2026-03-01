@@ -1,0 +1,23 @@
+cn644
+#######################################################
+Working on appending ideal solar angles on the table
+ci: 45
+cn: 200
+raw: /gpfs/sharedfs1/zhulab/Yang/GlobalGreeningData/LandsatData/Reflectance/
+des: /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/
+target: SurfaceReflectanceAngles
+***********************************************************
+Working for plot_0044001_0045000.csv
+File saved as plot_0044001_0045000_brdf.csv
+***********************************************************
+Working for plot_0244001_0245000.csv
+File saved as plot_0244001_0245000_brdf.csv
+***********************************************************
+Working for plot_0444001_0445000.csv
+File saved as plot_0444001_0445000_brdf.csv
+***********************************************************
+Working for plot_0644001_0645000.csv
+File saved as plot_0644001_0645000_brdf.csv
+***********************************************************
+Working for plot_0844001_0845000.csv
+File saved as plot_0844001_0845000_brdf.csv

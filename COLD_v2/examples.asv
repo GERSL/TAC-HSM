@@ -1,0 +1,21 @@
+%% This page demonstrates the examples of running the Matlab functions in COLD version 2.0
+% If any questions, please feel free to contact Shi Qiu (shi.qiu@uconn.edu).
+
+
+%% Step 1.Stack Landsat ARD by lines
+% see batchStackLandatARD2Line.m
+% see arrayTasks.sh at <HPCJobs> for parallel
+
+%% Step 2. Continuous change detection using COLD v2.0
+% see batchCOLD.m
+% see arrayRunCOLD.sh at <HPCJobs> for parallel
+
+%% Step 3. Post-processing, such as exporting maps, syntheticing images, ploting time series.
+% see batchPostProcess.m
+% modify arrayTasks.sh at <HPCJobs> for parallel
+
+%% Others good to learn how to submit parallel jobs from Matlab program
+% see sutoSubmitJObsTTU.m
+% it should be noted that this example was created for TTU HPCC, rather
+% than UCONN HPC.
+% 

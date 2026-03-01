@@ -1,0 +1,1929 @@
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 8/20 to process 30 images
+Loading matlab/R2024b
+  Loading requirement: pre-module post-moduleLoading matlab/R2024b
+  Loading requirement: pre-module post-module
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+Start to stack ARD Tile 18TXM
+Start to stack ARD Tile 18TXM
+Start to stack ARD Tile 18TXM
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 5/20 to process 30 images
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXM
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXM.2019238T153819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXM
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXM.2019241T154819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+Finished 3.33 percent at task# 4/20 with total 0.30 mins
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 9/20 to process 30 images
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXM.2019243T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 1/20 to process 30 images
+ 
+/var/spool/slurm/job18491648/slurm_script: line 22: 1007130 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXM
+Start to stack ARD Tile 18TXM
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 7/20 to process 30 images
+[Warning: Error for HLS.S30.T18TXM.2019246T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2020353T154649.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 15/20 to process 30 images
+At task# 14/20 to process 30 images
+Start to stack ARD Tile 18TXM
+Start to stack ARD Tile 18TXM
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+At task# 16/20 to process 30 images
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+Start to stack ARD Tile 18TXM
+[Warning: Error for HLS.S30.T18TXM.2019248T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2022155T154809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491673/slurm_script: line 22: 2380859 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+ 
+ 
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+[Warning: Error for HLS.S30.T18TXM.2020358T154651.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0592 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 13/20 to process 30 images
+[Warning: Error for HLS.S30.T18TXM.2023125T154811.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2022157T153821.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXM
+Start to stack ARD Tile 18TXM
+[Warning: Error for HLS.S30.T18TXM.2020188T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491649/slurm_script: line 22: 1007136 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+[Warning: Error for HLS.S30.T18TXM.2020361T155651.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2022160T154821.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491674/slurm_script: line 22: 2380928 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+[Warning: Error for HLS.S30.T18TXM.2015354T154652.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2022070T155051.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2022170T154821.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2021002T154641.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2015357T160132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2022072T153929.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491671/slurm_script: line 22: 2380897 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+[Warning: Error for HLS.S30.T18TXM.2022182T153819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2021007T154629.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491672/slurm_script: line 22: 2380879 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXM.2021010T155629.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 2/20 to process 30 images
+Start to stack ARD Tile 18TXL
+/var/spool/slurm/job18491667/slurm_script: line 22: 1659128 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 20/20 to process 21 images
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 17/20 to process 30 images
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 18/20 to process 30 images
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 19/20 to process 30 images
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 6/20 to process 30 images
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXM.2016339T155132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+[Warning: Error for HLS.S30.T18TXM.2023225T154941.v2.0] 
+For product information, visit www.mathworks.com.
+ 
+> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+.v2.0] 
+ 
+> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2024272T153929.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+Start to stack ARD Tile 18TXL
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXM.2023252T153821.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2024275T154959.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Error for HLS.S30.T18TXM.2024132T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2017013T155121.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+Start to stack ARD Tile 18TXL
+[Warning: Error for HLS.S30.T18TXM.2023275T155101.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Error for HLS.S30.T18TXM.2024277T154111.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+[Warning: Error for HLS.S30.T18TXM.2017016T155601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2020126T154809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2017106T160131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 10/20 to process 30 images
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 12/20 to process 30 images
+A total of 0591 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 11/20 to process 30 images
+[Warning: Error for HLS.S30.T18TXM.2017146T160131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2021195T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 4/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXM.2020128T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2017176T154901.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2021197T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2021255T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2020131T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2017198T153909.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2017201T160129.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2021267T153859.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 15/20 to process 58 images
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 16/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXM.2021270T154929.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2017243T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 13/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXM.2017286T160131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 14/20 to process 58 images
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 5/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXM.2017288T155119.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2021337T154619.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491671/slurm_script: line 23: 2382545 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+[Warning: Error for HLS.S30.T18TXM.2017306T160131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2018073T154009.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2017331T155559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491649/slurm_script: line 23: 1015202 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+[Warning: Error for HLS.S30.T18TXM.2018006T155629.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491646/slurm_script: line 22: 3082938 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 9/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXL.2019323T154541.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2019328T154549.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+/var/spool/slurm/job18491667/slurm_script: line 23: 1659790 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+Finished 3.33 percent at task# 8/20 with total 2.95 mins
+A total of 0996 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 13/20 to process 50 images
+A total of 0996 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 5/20 to process 50 images
+[Warning: Error for HLS.S30.T18TYL.2021294T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2018135T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+/var/spool/slurm/job18491649/slurm_script: line 24: 1021744 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491649.batch. Some of the step tasks have been OOM Killed.
+[Warning: Error for HLS.S30.T18TYL.2021297T154229.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TYL.2021302T154401.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0996 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 9/20 to process 50 images
+[Warning: Error for HLS.S30.T18TYL.2019340T153631.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 1160 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 2/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXL.2016202T154912.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+/var/spool/slurm/job18491669/slurm_script: line 22: 4156300 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+Finished 1.72 percent at task# 14/20 with total 3.07 mins
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+/var/spool/slurm/job18491667/slurm_script: line 24: 1660519 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491667.batch. Some of the step tasks have been OOM Killed.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+Finished 1.72 percent at task# 15/20 with total 4.00 mins
+Finished 1.72 percent at task# 16/20 with total 4.00 mins
+/var/spool/slurm/job18491652/slurm_script: line 22: 1658495 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+Finished 1.72 percent at task# 4/20 with total 4.41 mins
+/var/spool/slurm/job18491648/slurm_script: line 23: 1014100 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+A total of 1157 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 11/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXL.2021010T155629.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 6.67 percent at task# 3/20 with total 6.16 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+/var/spool/slurm/job18491645/slurm_script: line 22: 2549955 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+Finished 19.05 percent at task# 20/20 with total 5.62 mins
+Finished 3.33 percent at task# 18/20 with total 5.62 mins
+Finished 10.00 percent at task# 19/20 with total 5.62 mins
+Finished 13.33 percent at task# 17/20 with total 5.62 mins
+A total of 1156 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 8/20 to process 58 images
+A total of 0996 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+Finished 8.00 percent at task# 13/20 with total 3.39 mins
+[Warning: Error for HLS.S30.T18TXL.2019158T153819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017333T155131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017335T153609.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491648/slurm_script: line 24: 1040174 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491648.batch. Some of the step tasks have been OOM Killed.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+/var/spool/slurm/job18491652/slurm_script: line 23: 1661687 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+A total of 1156 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 1/20 to process 58 images
+Finished 3.45 percent at task# 14/20 with total 5.92 mins
+[Warning: Error for HLS.S30.T18TXL.2015334T155132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXL.2015337T155632.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0995 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 8/20 to process 50 images
+[Warning: Error for HLS.S30.T18TYL.2019183T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2019185T153609.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491652/slurm_script: line 24: 1662380 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491652.batch. Some of the step tasks have been OOM Killed.
+Finished 3.33 percent at task# 12/20 with total 7.30 mins
+Finished 3.33 percent at task# 10/20 with total 7.30 mins
+/var/spool/slurm/job18491645/slurm_script: line 23: 2554293 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+Finished 3.45 percent at task# 15/20 with total 6.99 mins
+Finished 3.45 percent at task# 16/20 with total 6.98 mins
+/var/spool/slurm/job18491670/slurm_script: line 22: 4156293 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+Finished 10.00 percent at task# 13/20 with total 6.17 mins
+A total of 0994 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 1/20 to process 50 images
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+Finished 10.00 percent at task# 3/20 with total 10.16 mins
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+Finished 5.17 percent at task# 14/20 with total 8.68 mins
+/var/spool/slurm/job18491672/slurm_script: line 23: 2382687 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+/var/spool/slurm/job18491669/slurm_script: line 23: 4161922 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+A total of 1152 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 12/20 to process 58 images
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Error for HLS.S30.T18TXL.2021185T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TYL
+[Warning: Error for HLS.S30.T18TXL.2021187T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2021190T154819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491670/slurm_script: line 23: 4164526 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+A total of 0994 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 14/20 to process 50 images
+Finished 16.67 percent at task# 17/20 with total 10.37 mins
+Finished 13.33 percent at task# 19/20 with total 10.37 mins
+Finished 6.67 percent at task# 18/20 with total 10.37 mins
+Finished 23.81 percent at task# 20/20 with total 10.37 mins
+[Warning: Error for HLS.S30.T18TYL.2022142T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491672/slurm_script: line 24: 2384194 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491672.batch. Some of the step tasks have been OOM Killed.
+Finished 5.17 percent at task# 15/20 with total 9.78 mins
+Finished 5.17 percent at task# 16/20 with total 9.77 mins
+/var/spool/slurm/job18491674/slurm_script: line 23: 2382327 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+Finished 12.00 percent at task# 13/20 with total 8.72 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0993 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 16/20 to process 50 images
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TYL.2023067T154109.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Error for HLS.S30.T18TYL.2023069T153551.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TYL
+[Warning: Error for HLS.S30.T18TYL.2023074T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0993 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 11/20 to process 50 images
+[Warning: Error for HLS.S30.T18TYL.2020345T153631.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0993 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 12/20 to process 50 images
+[Warning: Error for HLS.S30.T18TYL.2020348T154641.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2020350T153639.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2021139T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2020353T154649.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2021142T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2021144T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2021147T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2021159T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491670/slurm_script: line 24: 4166170 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491670.batch. Some of the step tasks have been OOM Killed.
+Finished 13.33 percent at task# 3/20 with total 13.83 mins
+Finished 6.90 percent at task# 15/20 with total 12.38 mins
+Finished 14.00 percent at task# 13/20 with total 11.11 mins
+Finished 8.00 percent at task# 16/20 with total 2.69 mins
+Finished 2.00 percent at task# 1/20 with total 5.46 mins
+/var/spool/slurm/job18491674/slurm_script: line 24: 2384555 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491674.batch. Some of the step tasks have been OOM Killed.
+Finished 16.67 percent at task# 19/20 with total 14.29 mins
+Finished 28.57 percent at task# 20/20 with total 14.29 mins
+Finished 20.00 percent at task# 17/20 with total 14.29 mins
+Finished 10.00 percent at task# 18/20 with total 14.29 mins
+/var/spool/slurm/job18491675/slurm_script: line 22: 2205713 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+/var/spool/slurm/job18491676/slurm_script: line 22: 2205718 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+Start to stack ARD Tile 18TXL
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+A total of 1149 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 17/20 to process 58 images
+Start to stack ARD Tile 18TXL
+A total of 1149 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 18/20 to process 58 images
+Finished 8.62 percent at task# 15/20 with total 14.95 mins
+Finished 16.00 percent at task# 13/20 with total 13.51 mins
+/var/spool/slurm/job18491671/slurm_script: line 24: 2383373 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491671.batch. Some of the step tasks have been OOM Killed.
+Finished 6.67 percent at task# 10/20 with total 16.12 mins
+Finished 16.67 percent at task# 3/20 with total 17.45 mins
+/var/spool/slurm/job18491668/slurm_script: line 22: 4156283 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+Finished 1.72 percent at task# 17/20 with total 2.68 mins
+Finished 33.33 percent at task# 20/20 with total 18.22 mins
+Finished 20.00 percent at task# 19/20 with total 18.22 mins
+Finished 10.34 percent at task# 15/20 with total 17.54 mins
+Finished 1.72 percent at task# 18/20 with total 2.67 mins
+A total of 1147 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 10/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXL.2020158T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2020161T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491642/slurm_script: line 22: 2205726 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+Finished 10.00 percent at task# 11/20 with total 7.67 mins
+A total of 1145 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 20/20 to process 43 images
+[Warning: Error for HLS.S30.T18TXL.2024265T154849.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2024267T153951.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 20.00 percent at task# 3/20 with total 21.03 mins
+Finished 3.45 percent at task# 17/20 with total 5.38 mins
+/var/spool/slurm/job18491675/slurm_script: line 23: 2212114 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+Finished 12.07 percent at task# 15/20 with total 20.11 mins
+Finished 3.45 percent at task# 18/20 with total 5.45 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0988 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 17/20 to process 50 images
+/var/spool/slurm/job18491677/slurm_script: line 22: 2205738 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXM','resolution',30,'sensor','HLS');exit"
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+A total of 1142 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 19/20 to process 58 images
+[Warning: Error for HLS.S30.T18TXL.2024135T154809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2024140T154941.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2024142T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 6.98 percent at task# 20/20 with total 3.17 mins
+Finished 13.79 percent at task# 15/20 with total 22.85 mins
+Finished 23.33 percent at task# 3/20 with total 24.79 mins
+Finished 5.17 percent at task# 18/20 with total 8.42 mins
+/var/spool/slurm/job18491642/slurm_script: line 23: 2213388 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+Finished 2.00 percent at task# 17/20 with total 2.77 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0987 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 20/20 to process 37 images
+[Warning: Error for HLS.S30.T18TYL.2024257T153841.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024259T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491642/slurm_script: line 24: 2215185 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491642.batch. Some of the step tasks have been OOM Killed.
+Finished 6.90 percent at task# 19/20 with total 3.28 mins
+/var/spool/slurm/job18491669/slurm_script: line 24: 4165908 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491669.batch. Some of the step tasks have been OOM Killed.
+Finished 15.52 percent at task# 15/20 with total 26.06 mins
+Finished 6.90 percent at task# 18/20 with total 11.45 mins
+Finished 4.00 percent at task# 17/20 with total 5.66 mins
+Finished 5.17 percent at task# 10/20 with total 9.12 mins
+Finished 26.67 percent at task# 3/20 with total 28.86 mins
+Finished 8.62 percent at task# 19/20 with total 6.55 mins
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+Finished 17.24 percent at task# 15/20 with total 29.21 mins
+Finished 6.00 percent at task# 17/20 with total 8.69 mins
+Finished 8.62 percent at task# 18/20 with total 14.78 mins
+/var/spool/slurm/job18491668/slurm_script: line 23: 4170150 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+Finished 30.00 percent at task# 3/20 with total 33.12 mins
+Finished 10.34 percent at task# 19/20 with total 9.84 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0985 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 10/20 to process 50 images
+Finished 18.97 percent at task# 15/20 with total 32.39 mins
+[Warning: Error for HLS.S30.T18TYL.2020195T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491668/slurm_script: line 24: 4177493 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491668.batch. Some of the step tasks have been OOM Killed.
+Finished 8.00 percent at task# 17/20 with total 11.78 mins
+Finished 10.34 percent at task# 18/20 with total 18.08 mins
+Finished 12.07 percent at task# 19/20 with total 13.14 mins
+Finished 20.69 percent at task# 15/20 with total 35.53 mins
+Finished 33.33 percent at task# 3/20 with total 37.30 mins
+Finished 10.00 percent at task# 17/20 with total 14.79 mins
+Finished 12.07 percent at task# 18/20 with total 21.37 mins
+Finished 4.00 percent at task# 1/20 with total 30.39 mins
+Finished 13.79 percent at task# 19/20 with total 16.47 mins
+Finished 12.00 percent at task# 17/20 with total 17.89 mins
+Finished 22.41 percent at task# 15/20 with total 38.81 mins
+Finished 13.79 percent at task# 18/20 with total 24.64 mins
+Finished 36.67 percent at task# 3/20 with total 41.63 mins
+Finished 15.52 percent at task# 19/20 with total 19.70 mins
+Finished 14.00 percent at task# 17/20 with total 20.96 mins
+Finished 24.14 percent at task# 15/20 with total 42.02 mins
+Finished 15.52 percent at task# 18/20 with total 27.82 mins
+Finished 40.00 percent at task# 3/20 with total 45.88 mins
+Finished 17.24 percent at task# 19/20 with total 22.97 mins
+Finished 16.00 percent at task# 17/20 with total 24.02 mins
+Finished 25.86 percent at task# 15/20 with total 45.31 mins
+Finished 17.24 percent at task# 18/20 with total 31.21 mins
+Finished 18.00 percent at task# 17/20 with total 27.14 mins
+Finished 18.97 percent at task# 19/20 with total 26.37 mins
+Finished 27.59 percent at task# 15/20 with total 48.63 mins
+Finished 43.33 percent at task# 3/20 with total 50.33 mins
+Finished 18.97 percent at task# 18/20 with total 34.54 mins
+Finished 20.00 percent at task# 17/20 with total 30.34 mins
+Finished 20.69 percent at task# 19/20 with total 29.68 mins
+Finished 29.31 percent at task# 15/20 with total 51.95 mins
+Finished 20.69 percent at task# 18/20 with total 37.90 mins
+Finished 46.67 percent at task# 3/20 with total 54.79 mins
+Finished 22.00 percent at task# 17/20 with total 33.61 mins
+Finished 22.41 percent at task# 19/20 with total 33.13 mins
+Finished 31.03 percent at task# 15/20 with total 55.36 mins
+Finished 22.41 percent at task# 18/20 with total 41.32 mins
+Finished 50.00 percent at task# 3/20 with total 59.25 mins
+Finished 24.00 percent at task# 17/20 with total 36.73 mins
+Finished 24.14 percent at task# 19/20 with total 36.51 mins
+Finished 32.76 percent at task# 15/20 with total 58.69 mins
+Finished 24.14 percent at task# 18/20 with total 44.62 mins
+Finished 26.00 percent at task# 17/20 with total 39.74 mins
+Finished 25.86 percent at task# 19/20 with total 39.68 mins
+Finished 53.33 percent at task# 3/20 with total 63.47 mins
+Finished 34.48 percent at task# 15/20 with total 61.85 mins
+Finished 25.86 percent at task# 18/20 with total 47.87 mins
+Finished 28.00 percent at task# 17/20 with total 42.74 mins
+Finished 27.59 percent at task# 19/20 with total 42.90 mins
+Finished 36.21 percent at task# 15/20 with total 65.12 mins
+Finished 56.67 percent at task# 3/20 with total 67.56 mins
+Finished 27.59 percent at task# 18/20 with total 51.03 mins
+Finished 30.00 percent at task# 17/20 with total 45.62 mins
+Finished 29.31 percent at task# 19/20 with total 45.98 mins
+/var/spool/slurm/job18491673/slurm_script: line 23: 2382155 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0972 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 15/20 to process 49 images
+[Warning: Error for HLS.S30.T18TYL.2022239T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2022242T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 29.31 percent at task# 18/20 with total 54.05 mins
+Finished 32.00 percent at task# 17/20 with total 48.38 mins
+Finished 60.00 percent at task# 3/20 with total 71.44 mins
+Finished 31.03 percent at task# 19/20 with total 49.04 mins
+Finished 6.12 percent at task# 15/20 with total 2.78 mins
+Finished 31.03 percent at task# 18/20 with total 57.15 mins
+Finished 34.00 percent at task# 17/20 with total 51.40 mins
+Finished 63.33 percent at task# 3/20 with total 75.32 mins
+Finished 8.16 percent at task# 15/20 with total 5.42 mins
+Finished 32.76 percent at task# 19/20 with total 52.39 mins
+Finished 36.00 percent at task# 17/20 with total 54.16 mins
+Finished 32.76 percent at task# 18/20 with total 60.35 mins
+Finished 10.20 percent at task# 15/20 with total 8.02 mins
+Finished 66.67 percent at task# 3/20 with total 79.18 mins
+Finished 34.48 percent at task# 19/20 with total 55.66 mins
+Finished 38.00 percent at task# 17/20 with total 57.09 mins
+Finished 34.48 percent at task# 18/20 with total 63.38 mins
+Finished 12.24 percent at task# 15/20 with total 10.55 mins
+Finished 36.21 percent at task# 19/20 with total 58.51 mins
+Finished 40.00 percent at task# 17/20 with total 59.64 mins
+Finished 36.21 percent at task# 18/20 with total 66.27 mins
+Finished 70.00 percent at task# 3/20 with total 82.92 mins
+Finished 14.29 percent at task# 15/20 with total 13.10 mins
+Finished 42.00 percent at task# 17/20 with total 62.27 mins
+Finished 37.93 percent at task# 19/20 with total 61.52 mins
+Finished 37.93 percent at task# 18/20 with total 69.10 mins
+Finished 16.33 percent at task# 15/20 with total 15.55 mins
+Finished 73.33 percent at task# 3/20 with total 86.71 mins
+Finished 6.00 percent at task# 1/20 with total 77.58 mins
+Finished 44.00 percent at task# 17/20 with total 65.10 mins
+Finished 39.66 percent at task# 19/20 with total 64.41 mins
+Finished 18.37 percent at task# 15/20 with total 18.04 mins
+Finished 39.66 percent at task# 18/20 with total 71.98 mins
+Finished 46.00 percent at task# 17/20 with total 66.27 mins
+Finished 76.67 percent at task# 3/20 with total 90.43 mins
+Finished 20.41 percent at task# 15/20 with total 20.21 mins
+Finished 41.38 percent at task# 19/20 with total 67.31 mins
+Finished 41.38 percent at task# 18/20 with total 74.88 mins
+Finished 48.00 percent at task# 17/20 with total 69.04 mins
+Finished 22.45 percent at task# 15/20 with total 22.57 mins
+Finished 80.00 percent at task# 3/20 with total 94.03 mins
+Finished 50.00 percent at task# 17/20 with total 71.52 mins
+Finished 43.10 percent at task# 19/20 with total 70.82 mins
+Finished 43.10 percent at task# 18/20 with total 77.82 mins
+Finished 24.49 percent at task# 15/20 with total 25.02 mins
+Finished 52.00 percent at task# 17/20 with total 74.38 mins
+Finished 44.83 percent at task# 18/20 with total 80.84 mins
+Finished 44.83 percent at task# 19/20 with total 73.85 mins
+Finished 83.33 percent at task# 3/20 with total 97.87 mins
+Finished 26.53 percent at task# 15/20 with total 27.67 mins
+Finished 54.00 percent at task# 17/20 with total 77.55 mins
+Finished 46.55 percent at task# 18/20 with total 84.02 mins
+Finished 46.55 percent at task# 19/20 with total 77.03 mins
+Finished 28.57 percent at task# 15/20 with total 30.26 mins
+Finished 86.67 percent at task# 3/20 with total 101.87 mins
+Finished 56.00 percent at task# 17/20 with total 80.78 mins
+Finished 30.61 percent at task# 15/20 with total 32.92 mins
+Finished 48.28 percent at task# 18/20 with total 87.67 mins
+Finished 48.28 percent at task# 19/20 with total 80.68 mins
+Finished 90.00 percent at task# 3/20 with total 106.07 mins
+Finished 32.65 percent at task# 15/20 with total 35.77 mins
+Finished 58.00 percent at task# 17/20 with total 84.74 mins
+Finished 50.00 percent at task# 18/20 with total 91.47 mins
+Finished 50.00 percent at task# 19/20 with total 84.49 mins
+Finished 34.69 percent at task# 15/20 with total 38.71 mins
+Finished 93.33 percent at task# 3/20 with total 110.29 mins
+Finished 60.00 percent at task# 17/20 with total 88.35 mins
+Finished 51.72 percent at task# 18/20 with total 95.17 mins
+Finished 51.72 percent at task# 19/20 with total 88.17 mins
+Finished 36.73 percent at task# 15/20 with total 41.58 mins
+Finished 62.00 percent at task# 17/20 with total 91.90 mins
+Finished 96.67 percent at task# 3/20 with total 114.53 mins
+Finished 38.78 percent at task# 15/20 with total 44.54 mins
+Finished 53.45 percent at task# 18/20 with total 99.14 mins
+Finished 53.45 percent at task# 19/20 with total 92.14 mins
+Finished 64.00 percent at task# 17/20 with total 95.68 mins
+Finished 40.82 percent at task# 15/20 with total 47.84 mins
+Finished 100.00 percent at task# 3/20 with total 119.21 mins
+Finished 55.17 percent at task# 18/20 with total 103.02 mins
+Finished 55.17 percent at task# 19/20 with total 96.03 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+A total of 1067 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 3/20 to process 54 images
+Finished 42.86 percent at task# 15/20 with total 51.06 mins
+Finished 66.00 percent at task# 17/20 with total 99.09 mins
+Finished 56.90 percent at task# 19/20 with total 99.86 mins
+Finished 56.90 percent at task# 18/20 with total 106.85 mins
+Finished 1.85 percent at task# 3/20 with total 3.75 mins
+Finished 44.90 percent at task# 15/20 with total 54.36 mins
+Finished 68.00 percent at task# 17/20 with total 102.58 mins
+Finished 58.62 percent at task# 19/20 with total 103.72 mins
+Finished 58.62 percent at task# 18/20 with total 110.71 mins
+Finished 3.70 percent at task# 3/20 with total 7.61 mins
+Finished 46.94 percent at task# 15/20 with total 57.75 mins
+Finished 70.00 percent at task# 17/20 with total 107.26 mins
+Finished 48.98 percent at task# 15/20 with total 61.03 mins
+Finished 5.56 percent at task# 3/20 with total 11.23 mins
+Finished 60.34 percent at task# 19/20 with total 108.53 mins
+Finished 60.34 percent at task# 18/20 with total 115.52 mins
+Finished 72.00 percent at task# 17/20 with total 111.06 mins
+Finished 51.02 percent at task# 15/20 with total 64.14 mins
+Finished 7.41 percent at task# 3/20 with total 14.68 mins
+Finished 62.07 percent at task# 19/20 with total 113.09 mins
+Finished 62.07 percent at task# 18/20 with total 120.08 mins
+Finished 53.06 percent at task# 15/20 with total 67.29 mins
+Finished 74.00 percent at task# 17/20 with total 115.72 mins
+Finished 9.26 percent at task# 3/20 with total 18.29 mins
+Finished 8.00 percent at task# 1/20 with total 129.68 mins
+Finished 55.10 percent at task# 15/20 with total 70.43 mins
+Finished 63.79 percent at task# 18/20 with total 124.34 mins
+Finished 63.79 percent at task# 19/20 with total 117.35 mins
+Finished 76.00 percent at task# 17/20 with total 119.67 mins
+Finished 11.11 percent at task# 3/20 with total 21.90 mins
+Finished 57.14 percent at task# 15/20 with total 73.47 mins
+Finished 65.52 percent at task# 18/20 with total 128.63 mins
+Finished 65.52 percent at task# 19/20 with total 121.64 mins
+Finished 78.00 percent at task# 17/20 with total 123.20 mins
+Finished 12.96 percent at task# 3/20 with total 25.29 mins
+Finished 13.33 percent at task# 6/20 with total 145.16 mins
+Finished 59.18 percent at task# 15/20 with total 76.32 mins
+Finished 80.00 percent at task# 17/20 with total 125.84 mins
+Finished 14.81 percent at task# 3/20 with total 28.53 mins
+Finished 61.22 percent at task# 15/20 with total 79.02 mins
+Finished 67.24 percent at task# 18/20 with total 133.07 mins
+Finished 67.24 percent at task# 19/20 with total 126.08 mins
+Finished 82.00 percent at task# 17/20 with total 129.46 mins
+Finished 16.67 percent at task# 3/20 with total 31.67 mins
+Finished 63.27 percent at task# 15/20 with total 81.77 mins
+Finished 68.97 percent at task# 18/20 with total 136.57 mins
+Finished 68.97 percent at task# 19/20 with total 129.61 mins
+Finished 65.31 percent at task# 15/20 with total 84.37 mins
+Finished 84.00 percent at task# 17/20 with total 132.39 mins
+Finished 18.52 percent at task# 3/20 with total 34.68 mins
+Finished 70.69 percent at task# 19/20 with total 133.58 mins
+Finished 70.69 percent at task# 18/20 with total 140.65 mins
+Finished 67.35 percent at task# 15/20 with total 87.03 mins
+Finished 20.37 percent at task# 3/20 with total 37.85 mins
+Finished 86.00 percent at task# 17/20 with total 136.20 mins
+Finished 72.41 percent at task# 18/20 with total 143.67 mins
+Finished 69.39 percent at task# 15/20 with total 89.94 mins
+Finished 72.41 percent at task# 19/20 with total 137.61 mins
+Finished 22.22 percent at task# 3/20 with total 41.32 mins
+Finished 88.00 percent at task# 17/20 with total 139.58 mins
+Finished 71.43 percent at task# 15/20 with total 92.75 mins
+Finished 74.14 percent at task# 18/20 with total 147.28 mins
+Finished 90.00 percent at task# 17/20 with total 142.52 mins
+Finished 24.07 percent at task# 3/20 with total 44.63 mins
+Finished 74.14 percent at task# 19/20 with total 141.60 mins
+Finished 73.47 percent at task# 15/20 with total 95.53 mins
+Finished 75.86 percent at task# 18/20 with total 151.01 mins
+Finished 92.00 percent at task# 17/20 with total 145.44 mins
+Finished 25.93 percent at task# 3/20 with total 47.82 mins
+Finished 75.51 percent at task# 15/20 with total 98.05 mins
+Finished 75.86 percent at task# 19/20 with total 144.98 mins
+Finished 16.67 percent at task# 6/20 with total 169.53 mins
+Finished 94.00 percent at task# 17/20 with total 148.04 mins
+Finished 77.59 percent at task# 18/20 with total 154.27 mins
+Finished 77.55 percent at task# 15/20 with total 100.59 mins
+Finished 27.78 percent at task# 3/20 with total 50.96 mins
+Finished 77.59 percent at task# 19/20 with total 148.16 mins
+Finished 96.00 percent at task# 17/20 with total 150.87 mins
+Finished 79.59 percent at task# 15/20 with total 103.12 mins
+Finished 79.31 percent at task# 18/20 with total 157.46 mins
+Finished 29.63 percent at task# 3/20 with total 54.01 mins
+Finished 79.31 percent at task# 19/20 with total 151.42 mins
+Finished 81.63 percent at task# 15/20 with total 105.74 mins
+Finished 98.00 percent at task# 17/20 with total 153.65 mins
+Finished 81.03 percent at task# 18/20 with total 160.93 mins
+Finished 31.48 percent at task# 3/20 with total 57.44 mins
+Finished 20.00 percent at task# 6/20 with total 177.06 mins
+Finished 81.03 percent at task# 19/20 with total 155.27 mins
+Finished 83.67 percent at task# 15/20 with total 108.82 mins
+Finished 100.00 percent at task# 17/20 with total 157.02 mins
+slurmstepd: error: Detected 2 oom_kill events in StepId=18491675.batch. Some of the step tasks have been OOM Killed.
+Finished 33.33 percent at task# 3/20 with total 61.18 mins
+Finished 82.76 percent at task# 18/20 with total 165.11 mins
+Finished 85.71 percent at task# 15/20 with total 112.07 mins
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+Finished 82.76 percent at task# 19/20 with total 159.21 mins
+Finished 35.19 percent at task# 3/20 with total 65.00 mins
+Finished 84.48 percent at task# 18/20 with total 168.98 mins
+Finished 87.76 percent at task# 15/20 with total 115.34 mins
+Finished 23.33 percent at task# 6/20 with total 185.49 mins
+Finished 84.48 percent at task# 19/20 with total 163.08 mins
+Finished 6.67 percent at task# 7/20 with total 187.45 mins
+Finished 89.80 percent at task# 15/20 with total 118.77 mins
+Finished 37.04 percent at task# 3/20 with total 69.00 mins
+Finished 86.21 percent at task# 18/20 with total 172.96 mins
+Finished 86.21 percent at task# 19/20 with total 167.09 mins
+Finished 91.84 percent at task# 15/20 with total 122.24 mins
+Finished 26.67 percent at task# 6/20 with total 192.30 mins
+Finished 38.89 percent at task# 3/20 with total 73.09 mins
+Finished 87.93 percent at task# 18/20 with total 177.07 mins
+Finished 10.00 percent at task# 7/20 with total 193.50 mins
+Finished 87.93 percent at task# 19/20 with total 171.22 mins
+Finished 93.88 percent at task# 15/20 with total 125.49 mins
+Finished 40.74 percent at task# 3/20 with total 76.97 mins
+Finished 89.66 percent at task# 18/20 with total 180.98 mins
+Finished 89.66 percent at task# 19/20 with total 175.12 mins
+Finished 95.92 percent at task# 15/20 with total 128.76 mins
+Finished 13.33 percent at task# 7/20 with total 199.77 mins
+Finished 30.00 percent at task# 6/20 with total 199.82 mins
+Finished 42.59 percent at task# 3/20 with total 80.82 mins
+Finished 91.38 percent at task# 18/20 with total 184.88 mins
+Finished 97.96 percent at task# 15/20 with total 131.97 mins
+Finished 91.38 percent at task# 19/20 with total 178.96 mins
+Finished 44.44 percent at task# 3/20 with total 84.53 mins
+Finished 93.10 percent at task# 18/20 with total 188.60 mins
+Finished 16.67 percent at task# 7/20 with total 205.12 mins
+s
+slurmstepd: error: Detected 2 oom_kill events in StepId=18491673.batch. Some of the step tasks have been OOM Killed.
+Finished 93.10 percent at task# 19/20 with total 182.72 mins
+Finished 46.30 percent at task# 3/20 with total 88.25 mins
+Finished 94.83 percent at task# 18/20 with total 192.29 mins
+Finished 94.83 percent at task# 19/20 with total 186.42 mins
+Finished 20.00 percent at task# 7/20 with total 210.71 mins
+Finished 33.33 percent at task# 6/20 with total 210.15 mins
+Finished 48.15 percent at task# 3/20 with total 91.98 mins
+Finished 96.55 percent at task# 18/20 with total 196.03 mins
+Finished 96.55 percent at task# 19/20 with total 190.17 mins
+Finished 50.00 percent at task# 3/20 with total 95.65 mins
+Finished 98.28 percent at task# 18/20 with total 199.75 mins
+Finished 98.28 percent at task# 19/20 with total 193.82 mins
+Finished 100.00 percent at task# 19/20 with total 193.91 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0888 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 19/20 to process 45 images
+Finished 23.33 percent at task# 7/20 with total 218.53 mins
+Finished 36.67 percent at task# 6/20 with total 218.06 mins
+Finished 51.85 percent at task# 3/20 with total 98.96 mins
+Finished 100.00 percent at task# 18/20 with total 203.11 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+Finished 10.00 percent at task# 1/20 with total 210.79 mins
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0887 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 18/20 to process 45 images
+[Warning: Error for HLS.S30.T18TYL.2024002T154649.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024007T154631.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024032T154459.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024034T153551.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024037T154431.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024039T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 2.22 percent at task# 19/20 with total 2.67 mins
+Finished 53.70 percent at task# 3/20 with total 102.17 mins
+Finished 15.56 percent at task# 18/20 with total 3.10 mins
+Finished 4.44 percent at task# 19/20 with total 5.22 mins
+Finished 26.67 percent at task# 7/20 with total 224.31 mins
+Finished 55.56 percent at task# 3/20 with total 105.21 mins
+Finished 17.78 percent at task# 18/20 with total 5.63 mins
+Finished 6.67 percent at task# 19/20 with total 7.69 mins
+Finished 40.00 percent at task# 6/20 with total 225.43 mins
+Finished 57.41 percent at task# 3/20 with total 108.26 mins
+Finished 20.00 percent at task# 18/20 with total 8.22 mins
+Finished 8.89 percent at task# 19/20 with total 10.17 mins
+Finished 30.00 percent at task# 7/20 with total 228.98 mins
+Finished 12.00 percent at task# 1/20 with total 220.95 mins
+Finished 22.22 percent at task# 18/20 with total 10.61 mins
+Finished 11.11 percent at task# 19/20 with total 12.87 mins
+Finished 59.26 percent at task# 3/20 with total 111.34 mins
+Finished 33.33 percent at task# 7/20 with total 233.09 mins
+Finished 13.33 percent at task# 19/20 with total 15.42 mins
+Finished 24.44 percent at task# 18/20 with total 13.47 mins
+Finished 61.11 percent at task# 3/20 with total 114.33 mins
+Finished 43.33 percent at task# 6/20 with total 234.06 mins
+Finished 15.56 percent at task# 19/20 with total 18.49 mins
+Finished 26.67 percent at task# 18/20 with total 16.53 mins
+Finished 62.96 percent at task# 3/20 with total 117.50 mins
+Finished 36.67 percent at task# 7/20 with total 237.93 mins
+Finished 28.89 percent at task# 18/20 with total 19.66 mins
+Finished 17.78 percent at task# 19/20 with total 21.61 mins
+Finished 64.81 percent at task# 3/20 with total 121.01 mins
+Finished 14.00 percent at task# 1/20 with total 233.26 mins
+Finished 46.67 percent at task# 6/20 with total 242.08 mins
+Finished 40.00 percent at task# 7/20 with total 243.24 mins
+Finished 20.00 percent at task# 19/20 with total 25.03 mins
+Finished 31.11 percent at task# 18/20 with total 23.08 mins
+Finished 66.67 percent at task# 3/20 with total 124.56 mins
+Finished 22.22 percent at task# 19/20 with total 29.02 mins
+Finished 33.33 percent at task# 18/20 with total 27.07 mins
+Finished 68.52 percent at task# 3/20 with total 128.65 mins
+Finished 43.33 percent at task# 7/20 with total 248.77 mins
+Finished 35.56 percent at task# 18/20 with total 30.60 mins
+Finished 24.44 percent at task# 19/20 with total 32.56 mins
+Finished 50.00 percent at task# 6/20 with total 251.14 mins
+Finished 70.37 percent at task# 3/20 with total 132.72 mins
+Finished 46.67 percent at task# 7/20 with total 254.31 mins
+Finished 37.78 percent at task# 18/20 with total 34.33 mins
+Finished 26.67 percent at task# 19/20 with total 36.29 mins
+Finished 72.22 percent at task# 3/20 with total 136.74 mins
+Finished 40.00 percent at task# 18/20 with total 37.62 mins
+Finished 28.89 percent at task# 19/20 with total 40.57 mins
+Finished 50.00 percent at task# 7/20 with total 259.94 mins
+Finished 74.07 percent at task# 3/20 with total 140.57 mins
+Finished 42.22 percent at task# 18/20 with total 41.59 mins
+Finished 31.11 percent at task# 19/20 with total 43.91 mins
+Finished 53.33 percent at task# 6/20 with total 263.04 mins
+Finished 75.93 percent at task# 3/20 with total 144.39 mins
+Finished 44.44 percent at task# 18/20 with total 45.09 mins
+Finished 33.33 percent at task# 19/20 with total 47.07 mins
+Finished 53.33 percent at task# 7/20 with total 265.62 mins
+Finished 77.78 percent at task# 3/20 with total 148.19 mins
+Finished 46.67 percent at task# 18/20 with total 49.03 mins
+Finished 35.56 percent at task# 19/20 with total 50.99 mins
+Finished 56.67 percent at task# 6/20 with total 270.25 mins
+Finished 79.63 percent at task# 3/20 with total 152.03 mins
+Finished 56.67 percent at task# 7/20 with total 272.54 mins
+Finished 48.89 percent at task# 18/20 with total 54.14 mins
+Finished 37.78 percent at task# 19/20 with total 56.22 mins
+Finished 81.48 percent at task# 3/20 with total 155.79 mins
+Finished 16.00 percent at task# 1/20 with total 269.05 mins
+Finished 60.00 percent at task# 7/20 with total 278.91 mins
+Finished 51.11 percent at task# 18/20 with total 58.69 mins
+Finished 40.00 percent at task# 19/20 with total 60.64 mins
+Finished 83.33 percent at task# 3/20 with total 159.37 mins
+Finished 60.00 percent at task# 6/20 with total 280.51 mins
+Finished 42.22 percent at task# 19/20 with total 63.99 mins
+Finished 53.33 percent at task# 18/20 with total 62.04 mins
+Finished 85.19 percent at task# 3/20 with total 162.64 mins
+Finished 63.33 percent at task# 7/20 with total 284.42 mins
+Finished 3.45 percent at task# 2/20 with total 280.64 mins
+Finished 87.04 percent at task# 3/20 with total 165.90 mins
+Finished 44.44 percent at task# 19/20 with total 68.00 mins
+Finished 55.56 percent at task# 18/20 with total 66.05 mins
+Finished 88.89 percent at task# 3/20 with total 169.07 mins
+Finished 57.78 percent at task# 18/20 with total 69.05 mins
+Finished 46.67 percent at task# 19/20 with total 71.00 mins
+Finished 66.67 percent at task# 7/20 with total 289.45 mins
+Finished 63.33 percent at task# 6/20 with total 291.34 mins
+Finished 90.74 percent at task# 3/20 with total 172.15 mins
+Finished 70.00 percent at task# 7/20 with total 294.10 mins
+Finished 48.89 percent at task# 19/20 with total 76.17 mins
+Finished 60.00 percent at task# 18/20 with total 74.22 mins
+Finished 92.59 percent at task# 3/20 with total 174.98 mins
+Finished 66.67 percent at task# 6/20 with total 296.80 mins
+Finished 62.22 percent at task# 18/20 with total 77.52 mins
+Finished 51.11 percent at task# 19/20 with total 79.48 mins
+Finished 94.44 percent at task# 3/20 with total 177.74 mins
+Finished 73.33 percent at task# 7/20 with total 298.64 mins
+Finished 18.00 percent at task# 1/20 with total 290.96 mins
+Finished 96.30 percent at task# 3/20 with total 180.59 mins
+Finished 53.33 percent at task# 19/20 with total 82.54 mins
+Finished 64.44 percent at task# 18/20 with total 80.59 mins
+Finished 76.67 percent at task# 7/20 with total 303.10 mins
+Finished 70.00 percent at task# 6/20 with total 302.64 mins
+Finished 98.15 percent at task# 3/20 with total 183.41 mins
+Finished 66.67 percent at task# 18/20 with total 84.63 mins
+Finished 55.56 percent at task# 19/20 with total 86.58 mins
+Finished 73.33 percent at task# 6/20 with total 305.50 mins
+Finished 100.00 percent at task# 3/20 with total 186.38 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0834 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 3/20 to process 42 images
+[Warning: Error for HLS.S30.T18TYL.2017093T155131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017103T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 80.00 percent at task# 7/20 with total 308.00 mins
+Finished 57.78 percent at task# 19/20 with total 91.03 mins
+Finished 68.89 percent at task# 18/20 with total 89.08 mins
+Finished 7.14 percent at task# 3/20 with total 2.78 mins
+Finished 60.00 percent at task# 19/20 with total 94.30 mins
+Finished 71.11 percent at task# 18/20 with total 92.35 mins
+Finished 83.33 percent at task# 7/20 with total 312.89 mins
+Finished 9.52 percent at task# 3/20 with total 5.40 mins
+Finished 76.67 percent at task# 6/20 with total 312.81 mins
+Finished 11.90 percent at task# 3/20 with total 7.97 mins
+Finished 62.22 percent at task# 19/20 with total 98.41 mins
+Finished 73.33 percent at task# 18/20 with total 96.46 mins
+Finished 86.67 percent at task# 7/20 with total 317.24 mins
+Finished 14.29 percent at task# 3/20 with total 10.55 mins
+Finished 80.00 percent at task# 6/20 with total 318.84 mins
+Finished 75.56 percent at task# 18/20 with total 99.77 mins
+Finished 64.44 percent at task# 19/20 with total 101.72 mins
+Finished 16.67 percent at task# 3/20 with total 12.98 mins
+Finished 90.00 percent at task# 7/20 with total 321.39 mins
+Finished 19.05 percent at task# 3/20 with total 15.46 mins
+Finished 77.78 percent at task# 18/20 with total 103.89 mins
+Finished 66.67 percent at task# 19/20 with total 105.85 mins
+Finished 83.33 percent at task# 6/20 with total 324.65 mins
+Finished 21.43 percent at task# 3/20 with total 17.99 mins
+Finished 93.33 percent at task# 7/20 with total 325.89 mins
+Finished 80.00 percent at task# 18/20 with total 107.36 mins
+Finished 68.89 percent at task# 19/20 with total 109.31 mins
+Finished 23.81 percent at task# 3/20 with total 20.50 mins
+Finished 96.67 percent at task# 7/20 with total 330.54 mins
+Finished 26.19 percent at task# 3/20 with total 23.22 mins
+[Warning: Error for HLS.L30.T18TYL.2017165T152648.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017170T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024142T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2024240T153302.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2020243T153819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017173T155131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017181T152653.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017183T154421.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2024145T152632.v2.0] 
+[Warning: Error for HLS.S30.T18TYL.2024242T153819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017190T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024244T153551.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017193T155131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024147T153941.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2020181T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017197T152656.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024247T153941.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024149T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2024248T153259.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2015327T153326.v2.0] 
+[Warning: Error for HLS.S30.T18TYL.2017203T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024159T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017213T152704.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024164T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024249T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017213T155131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016209T153912.v2.0] 
+[Warning: Error for HLS.S30.T18TYL.2024252T153819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024167T153941.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017218T153909.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2024168T153229.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017220T153318.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024254T153551.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2024257T152656.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017223T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 100.00 percent at task# 18/20 with total 111.69 mins
+[Warning: Error for HLS.S30.T18TYL.2024257T153841.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017225T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024259T153559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017228T155129.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2024264T153305.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017229T152710.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017236T153322.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2024264T153601.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017238T153859.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+slurmstepd: error: Detected 1 oom_kill event in StepId=18491676.batch. Some of the step tasks have been OOM Killed.
+[Warning: Error for HLS.S30.T18TYL.2017243T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017245T152713.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+slurmstepd: error: Detected 1 oom_kill event in StepId=18491677.batch. Some of the step tasks have been OOM Killed.
+[Warning: Error for HLS.S30.T18TYL.2017245T153549.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017248T155129.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXM.2020183T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017253T155131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXM.2020186T154819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017258T153859.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXM.2020188T153853.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Error for HLS.S30.T18TYL.2017265T153549.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TYL.2017268T153329.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+[Warning: Error for HLS.S30.T18TXM.2020188T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017268T155119.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017270T153551.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017273T155131.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TYL.2017278T154059.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 7/20 to process 49 images
+{Error using mkdir
+No space left on device
+
+Error in stackHLSv2Line (line 230)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackHLSv2Line (line 73)
+        stackHLSv2Line(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 6/20 to process 49 images
+{Error using mkdir
+No space left on device
+
+Error in stackHLSv2Line (line 230)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackHLSv2Line (line 73)
+        stackHLSv2Line(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+A total of 0813 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 7/20 to process 41 images
+{Error using mkdir
+No space left on device
+
+Error in stackHLSv2Line (line 230)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackHLSv2Line (line 73)
+        stackHLSv2Line(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[Warning: Error for HLS.L30.T18TYL.2015343T153324.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TYL
+A total of 0813 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 6/20 to process 41 images
+{Error using mkdir
+No space left on device
+
+Error in stackHLSv2Line (line 230)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackHLSv2Line (line 73)
+        stackHLSv2Line(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[Warning: Error for HLS.S30.T18TXL.2016212T160132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016219T155142.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016222T154912.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016225T153930.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016227T152710.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016229T153912.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016232T160132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016234T153324.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016239T155132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016242T154902.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016243T152717.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016249T153902.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016250T153330.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18491645/slurm_script: line 24: 2556116 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TYL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 3 oom_kill events in StepId=18491645.batch. Some of the step tasks have been OOM Killed.
+[Warning: Error for HLS.S30.T18TXL.2016252T160132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016257T153942.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016259T152720.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016259T155132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016266T153331.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016273T153941.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016279T155132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016282T153335.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016289T153948.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016289T154222.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016291T152726.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016292T160122.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016298T153338.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016299T155132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016302T155402.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016305T153949.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016307T152727.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016309T154422.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016312T160132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016319T154522.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016322T160132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016323T152727.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016330T153338.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016332T155612.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016337T153948.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016339T152726.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016339T155132.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016346T153335.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016349T154642.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016355T152720.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2016362T153331.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2016362T160122.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2017005T152718.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2017006T155631.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Finished 87.93 percent at task# 2/20 with total 363.30 mins
+Finished 89.66 percent at task# 2/20 with total 364.07 mins
+Finished 91.38 percent at task# 2/20 with total 364.78 mins
+Finished 93.10 percent at task# 2/20 with total 365.26 mins
+Finished 94.83 percent at task# 2/20 with total 365.75 mins
+Finished 96.55 percent at task# 2/20 with total 366.26 mins
+Finished 98.28 percent at task# 2/20 with total 366.71 mins
+Finished 100.00 percent at task# 2/20 with total 367.38 mins
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+slurmstepd: error: *** JOB 18491646 ON cn494 CANCELLED AT 2025-07-20T13:31:04 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom_kill event in StepId=18491646.batch. Some of the step tasks have been OOM Killed.

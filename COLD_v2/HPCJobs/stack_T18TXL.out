@@ -1,0 +1,347 @@
+whoami: cannot find name for user ID 698327Loading matlab/R2024b
+  Loading requirement: pre-module post-moduleLoading matlab/R2024b
+  Loading requirement: pre-module post-moduleLoading matlab/R2024b
+  Loading requirement: pre-module post-moduleLoading matlab/R2024b
+  Loading requirement: pre-module post-moduleLoading matlab/R2024b
+  Loading requirement: pre-module post-moduleLoading matlab/R2024b
+  Loading requirement: pre-module post-moduleLoading matlab/R2024b
+  Loading requirement: pre-module post-module
+tart to stack ARD Tile 18TXL
+
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 88/100 to process 6 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+Start to stack ARD Tile 18TXL
+mages
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 92/100 to process -11 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 90/100 to process 1 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+License checkout failed.
+License Manager Error -96
+Unable to communicate with your organization's license server or the Network License Manager has not been started.
+
+Troubleshoot this issue by visiting: 
+https://www.mathworks.com/support/lme/96
+
+Diagnostic Information:
+Feature: MATLAB 
+License path: /gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/license.dat:/home/kes20012/.matlab/R2024b_licenses:/gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/licenses/license.dat:/gpfs/sharedfs1/admin/hpc2.0/apps/matlab/R2024b/licenses/network.lic 
+Licensing error: -96,7. System Error: 2
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 12/100 to process 6 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 95/100 to process -29 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Start to stack ARD Tile 18TXL
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 98/100 to process -47 images
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 97/100 to process -41 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 99/100 to process -53 images
+At task# 100/100 to process -59 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 94/100 to process -23 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 91/100 to process -5 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 93/100 to process -17 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 65/100 to process 6 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 18TXL
+A total of 0535 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXL/ARDBRDF_HLSAngle
+At task# 83/100 to process 6 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.

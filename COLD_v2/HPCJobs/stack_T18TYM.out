@@ -1,0 +1,1996 @@
+Start to stack ARD Tile 18TYM
+Start to stack ARD Tile 18TYM
+g requirement: pre-module post-module
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+At task# 90/100 to process 7 images
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+At task# 89/100 to process 7 images
+
+Processing the 624th image (T18TYM_S2A_2021339_20211205T153621)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: No SR for T18TYM_S2A_2016071_20160311T114846] 
+[Warning: No SR for T18TYM_S2A_2016237_20160824T003349] 
+[Warning: No SR for T18TYM_S2B_2020320_20201115T153559] 
+[Warning: No SR for T18TYM_S2B_2018010_20180110T153609] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017350_20171216T153641] 
+[Warning: No SR for T18TYM_S2A_2021232_20210820T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No [Warning: No SR for T18TYM_S2A_2020245_20200[Warning: No [Warning: No SR for T18TYM_S2B_2021037_20210[Warning: No [Warning: No SR for T18TYM_S2A_2019180_20190[Warning: No [Warning: No SR for T18TYM_S2A_2017263_20170[Warning: No [Warning: No SR for T18TYM_S2B_2020100_20200[Warning: No [Warning: No SR for T18TYM_S2A_2018165_20180[Warning: No [Warning: No SR for T18TYM_S2A_2020225_20200[Warning: No [Warning: No SR for T18TYM_S2A_2018275_20181[Warning: No [Warning: No SR for T18TYM_S2B_2018090_20180[Warning: No 
+Processing the 23th image (T18TYM_S2A_201608[Warning: No SR fo
+Processing the 58th image (T18TYM_S2A_2[Warning: No SR for T18[Warning: No SR for T18TYM_S2A_2019060_20190301T153551] 
+[Warning: No SR for T18TYM_S2A_2021162_20210611T153911] 
+
+Processing the 16th image (T18TYM_S2A_2015354_20151220T154[Warning: No SR for T18TYM_S2B_2020350_20201215T153639] 
+[Warning: No SR for T18TYM_S2A_2016137_20160516T065556] 
+[Warning: No SR for T18TYM_S2A_2018318_20181114T154511] 
+[Warning: No SR for T18TYM_S2B_2019005_20190105T153629] 
+[Warning: No SR for T18TYM_S2A_2017123_20170503T153911] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018220_20180808T153549] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No SR for T18TYM_S2B_2020083_20200323T153809] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No [Warning: No SR for T18TYM_S2A_2020188_20200[Warning: No [> In stackS2ARD2Linev2 (line 441)
+In batchS[Warning: No SR for T18TYM_[Warning: No SR for T18TYM_S2B{Error using mkdir
+No space[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+erpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[Warning: No SR for T18TYM_S2A_2019093_20190403T153911] 
+[Warning: No SR for T18TYM_S2B_2021144_20210524T153559] 
+[Warning: No SR for T18TYM_S2A_2021019_20210119T153601] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2A_2015261_20150918T154106] 
+[Warning: No SR for T18TYM_S2A_2017070_20170311T153551] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019300_20191027T153601] 
+3601)
+[Warning: No SR for T18TYM_S2A_2017170_20170619T153601] 
+ (line 63)] 
+
+Processing the 373th image (T18TYM_S2A_2020068_20200308T15[> In[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 6[Warn[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR
+Processing the 527t[Warning: No SR for T18TYM_S2A_2020048_20200[Warning: No 
+Processing the 212th image (T18TYM_S2B_20182[> In stackS2ARD2Li[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR[Warning: No SR for
+Processing the 205th image (T18TYM_S2B[> In stackS2ARD2Linev2 ([Warning: No SR for T18TYM_S2B_2021127_2021050[> In stack[Warning: No SR for T18TYM_S2A_2021002_20210102T154641] 
+ 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018335_20181201T153611] 
+3559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[Warning: No SR for T18TYM_S2A_2020298_20201024T154331] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (li[> In sta[Warning: No SR for T18TYM_S2B_2020153_20200601T153809] 
+] 
+[Warning: No SR for T18TYM_S2A_2019353_20191219T154641] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018128_20180508T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018353_20181219T154649] 
+[Warning: No SR for T18TYM_S2A_2019143_20190523T153911] 
+236)
+
+Processing the 9th image (T18TYM_S2A_2015271_20150928T154106)
+)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 284th image (T18TYM_S2A_2019083_20190324T153911)
+
+Processing the 219th image (T18TYM_S2A_2018278_20181005T15[Warn[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR
+Processing the 611th image (T18TYM_S2B_2021304_20211031T153559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (lin
+Processi
+Processing the 30th image (T18TYM_S2A_2016140_20160519T[> In s
+Processing the 72th image (T18TYM_S2A_2017130_20170510T153601)
+
+
+Processing the 198th image (T18TYM_S2B_2018223_20180811T153809)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 170th image (T18TYM_S2B_2018150_20180530T153559)
+
+Processing the 226th image (T18TYM_S2A_2018298_20181025T15[> In[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 6[Warn
+Processing the 114th image (T18TYM_S2A_2017353_20171[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line
+Process[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Li
+Processing the 
+Processing the 65th image (T18TYM_S2A_2017073_20[> In stackS2A[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Lin
+Processing the[> In stackS2ARD2Linev2 (line 441)
+In batchStack[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 100th image (T18TYM_S2B_2017305_20171101T153539)
+
+Processing the 569th image (T18TYM_S2A_2021199_20210718T153601)
+ 63)] 
+
+Processing the 44th image (T18TYM_S2A_2016297_20161023T023400)
+e 63)] 
+
+Processing the 135th image (T18TYM_S2A_2018055_20180224T153551)
+ 63)] 
+[> In stackS2ARD2Linev2 (line[> In stackS2ARD2Linev2 (line 441)
+In batc
+Processing the 86th image (T1[> In stackS2ARD2Linev2 (line 441[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 107th image (T18TYM_S2A_2017330_20171126T153551)
+ 63)] 
+
+Processing the 576th image (T18TYM_S2B_2021217_20210805T153809)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 79th image (T18TYM_S2A_2017173_20170622T155131)
+e 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[> In s
+Processing the 149th image (T18TYM_S2B_2018093_20180403T153859)
+
+Processing the 276th image (T18TYM_S2A_2019063_20190304T154131)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line
+Process[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Li
+Processing the [> In stackS2ARD2Linev2 (line 441)
+In batchStack[> In stackS2ARD2Linev2
+Processing the 142th image (T18TYM_S2A_2018075_20180316T153551)
+
+Processing the 548th image (T18TYM_S2B_2021147_20210527T153809)
+
+Processing the 261th image (T18TYM_S2B_2019025_20190125T153559)
+ 63)] 
+
+Processing the 457th image (T18TYM_S2B_2020283_20201009T154059)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 156th image (T18TYM_S2B_2018113_20180423T153909)
+
+Processing the 541th image (T18TYM_S2A_2021129_20210509T153601)
+
+Processing the 240th image (T18TYM_S2A_2018338_20181204T154621)
+
+Processing the 464th image (T18TYM_S2B_2020300_20201026T153559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 163th image (T18TYM_S2B_2018133_20180513T153809)
+
+Processing the 247th image (T18TYM_S2A_2018355_20181221T153641)
+
+Processing the 436th image (T18TYM_S2A_2020228_20200815T153911)
+
+Processing the 485th image (T18TYM_S2B_2020353_20201218T154649)
+
+Processing the 422th image (T18TYM_S2B_2020190_20200708T153559)
+
+Processing the 499th image (T18TYM_S2A_2021022_20210122T154541)
+
+Processing the 429th image (T18TYM_S2A_2020208_20200726T153911)
+
+Processing the 492th image (T18TYM_S2B_2021004_20210104T153639)
+
+Processing the 408th image (T18TYM_S2A_2020155_20200603T153601)
+
+Processing the 415th image (T18TYM_S2B_2020173_20200621T153819)
+
+Processing the 401th image (T18TYM_S2A_2020138_20200517T153911)
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+At task# 75/100 to process 7 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[Warning: No SR for T18TYM_S2B_2020353_20201218T154649] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 486th image (T18TYM_S2A_2020355_20201220T153641)
+[Warning: No SR for T18TYM_S2B_2021004_20210104T153639] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 493th image (T18TYM_S2B_2021007_20210107T154629)
+[Warning: No SR for T18TYM_S2B_2020173_20200621T153819] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 416th image (T18TYM_S2A_2020175_20200623T153601)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: No SR for T18TYM_S2B_2021007_20210107T154629] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 494th image (T18TYM_S2A_2021009_20210109T153621)
+[Warning: No SR for T18TYM_S2A_2021092_20210402T153901] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: No SR for T18TYM_S2A_2017353_20171219T155131] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016240_20160827T213238] 
+ (line 63)] 
+
+Processing the 31th image (T18TYM_S2A_2016150_20160529T011914)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 38th image (T18TYM_S2A_2016251_20160907T065558)
+[Warning: No SR for T18TYM_S2A_2017033_20170202T154441] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 59th image (T18TYM_S2A_2017040_20170209T153551)
+[Warning: No SR for T18TYM_S2A_2020068_20200308T154101] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 374th image (T18TYM_S2B_2020070_20200310T153559)
+[Warning: No SR for T18TYM_S2B_2018320_20181116T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 234th image (T18TYM_S2B_2018323_20181119T154539)
+ 
+Warning: No SR for T18TYM_S2A_2021199_20210718T153601] 
+[Warning: No SR for T18TYM_S2B_2018150_20180530T153559] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warning: No SR for T18TYM_S2A_2017073_20170314T155121] 
+YM_S2A_2015354For product informat[> In stackS2ARD2Linev2 (line[Warning: No SR for T18TYM_S2A_2017173_201[Warning: No SR 
+or T18TYM_S2A_2016080_20160320T022344] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (lin[> In st[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (lin[Warning[Warning: No SR for T18TYM_S2B_2018260_20180917T1[Warning[Warning: No SR for T18TYM_S2B_2020300_20201026T1
+Processi 
+ the 66th image (T18TYM_S2A_2017090_20170331T153551)
+
+Processing the 24th image (T18TYM_S2A_2016098_20160407T172521)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2To get started, type doc.
+atchStackS2ARD2Line (line 63)] 
+
+Processing the 213th image (T18TYM_S2B_2018263_20180920T153919)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016297_20161023T023400] 
+4351)
+[Warning: No SR for T18TYM_S2A_2019083_20190324T153911] 
+4359)
+For product information, visit www.mathworks.com.
+53639] 
+[Warning: No SR for T18TYM_S2A_2017130_20170510T153601] 
+[Warning: No SR for T18TYM_S2B_2020283_20201009T154059] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line 
+line 63)] 
+
+Processing the 584th image (T18TYM_S2B_2021237_20210825T153809)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 285th image (T18TYM_S2B_2019085_20190326T153559)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line
+Processing th[Warning: No SR for T18TYM_S2A_2016336_20161201T23
+Process
+Processing the 458th image (T18TYM_S2A_2020285_20201011[Warning[> In stackS2ARD2Linev2 (line 441)
+In batchStackS
+Processing the 577th i
+Processing the 73th image (T18TYM_S2A_2017133_20170513T155141)
+[Warning: No SR for T18TYM_S2A_2018168_20180617T153911] 
+ (line 63)] 
+
+Processing the 199th image (T18TYM_S2A_2018225_20180813T153601)
+
+Processing the 514th image (T18TYM_S2A_2021059_20210228T153601)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 52th image (T18TYM_S2A_2016339_20161204T181
+Proc
+Processing the 101th image (T18TYM_S2B_2017308_20171104T155[> I[Warning: No SR for T18TYM_S2A_2020085_20200325T153551] 
+e 63)] 
+[Warning: No SR for T18TYM_S2B_2021304_20211031T153559] 
+[Warning: No SR for T18TYM_S2A_2018338_20181204T154621] 
+3559)
+[Warning: No SR for T18TYM_S2A_2018038_20180207T154421] 
+[Warning: No SR for T18TYM_S2B_2021147_20210527T153809] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018278_20181005T154111] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018355_20181221T153641] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 612th image (T18TYM_S2B_2021307_20211103T154329)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No 
+Processing the 129th image (T18TYM_S2B_20180[Warning: No SR for
+Processing the 549th image (T18TYM_S2A[Warning: No SR for T18TY
+Processing the 220th image (T18T[Warning: No SR for T18TYM_S2B_2019008_20190108T154629] 
+
+Processing the 381th image (T18TYM_S2A_2020088_20200328T153901)
+[Warning: No SR for T18TYM_S2A_2015221_20150809T154106] 
+[Warning: No SR for T18TYM_S2A_2018205_20180724T153601] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2LineStart to stack ARD Tile 18TYM
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020323_20201118T154539] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 430th image (T18TYM_S2B_2020210_20200728T153559)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 605th image (T
+Processing the 87th image (T18TYM_
+Processing the 241th image (
+Processing the 353th image (T18TYM_[> In stackS2ARD2Linev2 (lin[Warning: No SR for T18TYM_S2A_2018298_2018[Warning: No S
+Processing the 3th image (T18TYM_S2A_201523
+Processing the 192[Warning: No SR for T18TYM_S2A_2021182_202107[Warning: No
+                            < M A T L A B (R)[Warning: No SR for T18TYM_S2B_2021094_20210404T153559] 
+.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021022_20210122T154541] 
+[Warning: No SR for T18TYM_S2B_2018093_20180403T153859] 
+ (line 63)] 
+
+Processing the 122th image (T18TYM_S2A_2018018_20180118T154551)
+ 63)] 
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: No SR for T18TYM_S2A_2021272_20210929T154041] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2B_2019325_20191121T153559] 
+4641)
+
+Processing the 227th image (T18TYM_S2B_2018303_20181030T15[Warning: No SR for T18TYM_S2A_2021249_20210906T153601] 
+[Warning: No SR for T18TYM_S2B_2021164_20210613T153559] 
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+[Warning: No SR for T18TYM_S2A_2020155_20200603T153601] 
+3809)
+[Warning: No SR for T18TYM_S2B_2019025_20190125T153559] 
+ (line 63)] 
+
+Processing the 474th image (T18TYM_S2A_2020325_20201120T153601)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 136th image (T18TYM_S2B_2018060_20180301T153549)
+[Warning: No SR for T18TYM_S2A_2019[Warning: No SR for T1[> In stackS2ARD2Linev2 (line 441)
+
+Processing the 255th image (T18TYM_S[> In stackS2ARD2Linev2 (li[> In stackS2ARD2Linev2 (line 441)
+In batchS[> In stackS2ARD2Linev2 (li
+Processing the 590th image (T18TYM_S2A_2021252_20210909T153911)
+At task# 92/100 to process 7 images
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017270_20170927T153551] 
+
+Processing the 625th image (T18TYM_S2A_2021342_20211208T154641)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[> In s[Warning: No SR for T18TYM_S2A_2021129_20210509T153601] 
+3)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2
+Processing the 599th image (T18TYM_S2B_2021274_20211001T15
+Proce
+Processing the 262th image (T18TYM_S2B_2019028_20190128T154519)
+[Warning: No SR for T18TYM_S2A_2018075_20180316T153551] 
+3559)
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line
+Processing th[Warning: No SR for T18TYM_S2B_2020190_20200708T1
+Processi
+Processing the 164th image (T18TYM_S2A_2018135_20180515[Warning[> In stackS2ARD2Linev2 (line 441)
+In batchStackS[Warning: No SR for T1[Warning: No SR for T18TYM_S2A_2019[Warning: No SR for T1
+Processing the 150th image (T18TYM_[> In stackS2ARD2Linev2 (lin[> In stackS2ARD2Linev2 (line 441)
+In batch
+Processing the 542th image ([Warning: No SR for T18TYM_S2A_2019
+Processing the 409th i
+Processing the 157th image (T18TYM_S2A_20
+Processing the 185th i
+Processing the 297th image (T18TYM_S2B_2019115_20190425T153609)
+
+Processing the 437th image (T18TYM_S2B_2020233_20200820T153819)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[Warning: No SR for T18TYM_S2A_2017040_20170209T153551] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[> In s[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[> In s[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line
+Process
+Processing the 444th image (T18TYM_S2B_2020250_20200906T[Warnin
+Processing the 423th image (T18TYM_S2B_2020193_202
+Processing th
+Processing the 290th image (T18TYM_S2B_2019098_20
+Processing the
+Processing the 402th image (T18TYM_S2B_2020140_20[Warning: No SR for T18TYM_S2A_2015271_20150928T154106] 
+[Warning: No SR for T18TYM_S2A_2020355_20201220T153641] 
+4049)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 10th image (T18TYM_S2A_2015274_20151001T155136)
+
+Processing the 304th image (T18TYM_S2B_2019158_20190607T153819)
+[Warning: No SR for T18TYM_S2B_2020070_20200310T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016251_20160907T065558] 
+3929)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line 
+line 63)] 
+ 
+> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 172th image (T18TYM_S2A_2018155_20180604T153601)To get started, type doc.
+To get started, type doc.
+M_S2A_2019270_20190927T153601] 
+[Warning: No SR for T18TYM_S2A_2020175_20200623T153601] 
+ (line 63)] 
+For product information, visit www.mathworks.com.
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (lineFor prod
+Processing the 417th image (T18TYM_S2A_20 
+178_20200626T153911)
+ 
+Warning: No SR for T18TYM_S2A_2020325_20201120T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 475th image (T18TYM_S2A_2020328_20201123T154601)
+[Warning: No SR for T18TYM_S2B_2021274_20211001T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 116th image (T18TYM_S2B_2017358_20171224T154639)
+
+Processing the 600th image (T18TYM_S2B_2021277_20211004T15[Warn[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR[> In stackS2ARD2Li
+Processing the 501th image (T18TYM_S2B_2021027_20210127T154519)
+
+Processing the 206th image (T18TYM_S2B_2018243_20180831T153759)
+[Warning: No SR for T18TYM_S2A_2015231_20150819T154106] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 4th image (T18TYM_S2A_2015234_20150822T155136)
+ne 63)] 
+
+Processing the 495th image (T18TYM_S2A_2021012_20210112T154621)
+[Warning: No SR for T18TYM_S2A_2016300_20161026T222132] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017133_20170513T155141] 
+359)
+[Warning: No SR for T18TYM_S2B_2017308_20171104T155119] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 74th image (T18TYM_S2A_2017143_20170523T153911)
+e 63)] 
+
+Processing the 102th image (T18TYM_S2A_2017310_20171106T153601)
+[Warning: No SR for T18TYM_S2B_2019045_20190214T153559] 
+Start to stack ARD Tile 18TYM
+ 441)
+In batchStackS2ARD2Line (line 63)] 
+Start to stack ARD Tile 18TYM
+ 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 270th image (T18TYM_S2B_2019048_20190217T154319)
+[Warning: No SR for T18TYM_S2A_2017333_20171129T155131] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 109th image (T18TYM_S2B_2017335_20171201T153609)
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+ 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No At task# 93/100 to process 7 images
+54009] 
+[Warning: No SR for T18TYM_S2A_2021202_20210721T153911] 
+ (line 63)] 
+To get started, type doc.
+[Warning: No SR for T18TYM_S2A_2016019_20160119T230435] 
+3559)
+At task# 94/100 to process 7 images
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021219_20210807T153601] 
+632)
+For product information, visit www.mathworks.com.
+
+Processing the 601th image (T18TYM_S2A_2021279_20211006T153601)
+ 63)] 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[Warning: No SR for T18TYM_S2B_2021237_20210825T153809] 
+ 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 25th image (T18TYM_S2A_2016100_20160409T002816)
+e 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 571th image (T18TYM_S2B_2021204_20210723T153559)
+[Warning: No SR for T18TYM_S2A_2021042_20210211T154351] 
+3911)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2021097_20210407T153809] 
+3559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 530th image (T18TYM_S2A_2021099_20210409T153551)
+[Warning: No SR for T18TYM_S2B_2019048_20190217T154319] 
+[Warning: No SR for T18TYM_S2B_2018263_20180920T153919] 
+ (line 63)] 
+
+Processing the 271th image (T18TYM_S2A_2019050_20190219T153551)
+ 63)] 
+
+Processing the 214th image (T18TYM_S2A_2018265_20180922T153551)
+[Warning: No SR for T18TYM_S2A_2017183_20170702T154421] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+          [Warning: No SR for T18TYM_S2B_2019085_20190326T153559] 
+  R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                  Copyri[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+40171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+               [Warning: No SR for T18TYM_S2B_2021307_20211103T154329] 
+24b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+                            < M A T L A B (R) >
+                [> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+4.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+
+Processing the 613th image (T18TYM_S2A_2021309_20211105T153601)
+ab/R2024b/toolbox_cache-24.2.0-109453024-glnxa64.xml. The
+cache file is not in the correct format. It will be regenerated upon quitting
+MATLAB.] 
+[Warning: Unable to load Toolbox Path Cache
+/home/kes20012/.matlab/R2024b/toolbox_cache-24.2.0-109453024-glnxa64.xml. The
+cache file is not in the correct format. It will be regenerated upon quitting
+MATLAB.] 
+[Warning: Unable to load Toolbox Path Cache
+/home/kes20012/.matlab/R2024b/toolbox_cache-24.2.0-109453024-glnxa64.xml. The
+cache file is not in the correct format. It will be regenerated upon quitting
+MATLAB.] 
+[Warning: No SR for T18TYM_S2A_2020088_20200328T153901] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 382th image (T18TYM_S2B_2020090_20200330T15[> In[Warning: No SR for T18TYM_S2A_2020285_20201011T153601] 
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warning: No SR for T18TYM_S2A_2018358_20181224T154641] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 249th image (T18TYM_S2B_2018360_20181226T153639)
+[Warning: No SR for T18TYM_S2A_2018155_20180604T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No 
+Processing the 61th image (T18TYM_S2A_201705
+Processing the 173
+Processing the 95th image (T18TYM_S2A_2017283[> In stackS2ARD2[Warning: No SR for T18TYM_S2A_2015274_20151001T155136] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021149_20210529T153601] 
+
+Processing the 11th image (T18TYM_S2A_2015294_20151021T155022)
+[> In stackS2ARD2Linev2 (line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 550th image (T18TYM_S2A_2021152_20210601T153911)
+[Warning: No SR for T18TYM_S2A_2018225_20180813T153601] 
+[Warning: No SR for T18TYM_S2A_2018208_20180727T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 200th image (T18TYM_S2A_2018228_20180816T153911)
+
+Processing the 193th image (T18TYM_S2B_2018210_20180729T153559)
+[Warning: No SR for T18TYM_S2A_2020038_20200207T154421] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 362th image (T18TYM_S2B_2020040_20200209T153549)
+[Warning: No SR for T18TYM_S2B_2019028_20190128T154519] 
+[Warning: No SR for T18TYM_S2A_2019360_20191226T153641] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018340_20181206T153619] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warnin[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 431th image (T18TYM_S2B_2020213_20200731T153819)
+
+Processing the 263th image (T18TYM_S2A_2019030_20190130T153551)
+[Warning: No SR for T18TYM_S2A_2017090_20170331T153551] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021289_20211016T153601] 
+4629)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[> In s
+Processing the 67th image (T18TYM_S2A_2017093_20170403T155131)
+
+
+Processing the 606th image (T18TYM_S2A_2021292_20211019T154251)
+[Warning: No SR for T18TYM_S2A_2021342_20211208T154641] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+At task# 77/100 to process 7 images
+S2B_2021344_20211210T153629)
+[Warning: No SR for T18TYM_S2A_2021252_20210909T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No SR for T18TYM_S2B_2018040_20180209T153549] 
+
+Processing the 591th image (T18TYM_S2B_2021254_20210911T153549)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No SR for T18TYM_S2B_2018303_20181030T154359] 
+
+Processing the 137th image (T18TYM_S2B_2018063_20180304T154129)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+
+Processing the 130th image (T18TYM_S2B_2018043_20180212T15[Warn
+Processing the 467th image (T18TYM_S2A_2020308_20201
+Processing [> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR 
+Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019010_20190110T153621] 
+
+Processing the 557th image (T18TYM_S2A_2021169_20210618T153601)
+ 63)] 
+[[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)]
+PTo get started, type doc.
+T18TYM_S2A_2017233_20170821T155131)
+
+Processing the 256th image (T18TYM_S2A_2019013_20190113T154611)
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+[ 
+rning: No SR for T18TYM_S2A_2016258_20160914T072520] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 40th image (T18TYM_S2A_2016271_20160927T040940)
+[Warning: No SR for T18TYM_S2B_2018280_20181007T153549] 
+[Warning: No SR for T18TYM_S2B_2020073_20200313T153929] 
+ (line 63)] 
+
+Processing the 221th image (T18TYM_S2B_2018283_20181010T154249)
+[Warning: No SR for T18TYM_S2B_2021184_20210703T153559] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warnin
+Processing the 564th image (T18TYM_S2B_2021187_202[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 602th image (T18TYM_S2A_2021282_20211009T154151)
+[Warning: No SR for T18TYM_S2A_2021132_20210512T153911] 
+[Warning: No SR for T18TYM_S2B_2018190_20180709T153559] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016310_20161105T013359] 
+3809)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 47th image (T18TYM_S2A_2016316_20161111T224354)
+[Warning: No SR for T18TYM_S2B_2019195_20190714T153609] 
+[Warning: No SR for T18TYM_S2B_2019098_20190408T153819] 
+ (line 63)] 
+
+Processing the 312th image (T18TYM_S2A_2019200_20190719T15[> In[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 6
+Processing the 291th image (T18TYM_S2A_2019100_20190410T153601)
+
+Processing the 481th image (T18TYM_S2B_2020343_20201208T154639)
+[Warning: No SR for T18TYM_S2A_2016029_20160129T232106] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 496th image (T18TYM_S2B_2021014_20210114T153609)
+ 63)] 
+
+Processing the 19th image (T18TYM_S2A_2016037_20160206T023426)
+[Warning: No SR for T18TYM_S2B_2020233_20200820T153819] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2019115_20190425T153609] 
+3601)
+[Warning: No SR for T18TYM_S2A_2020308_20201103T154431] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[Warning: No SR for T18TYM_S2A_2018078_20180319T153941] 
+[Warning: No SR for T18TYM_S2A_2020158_20200606T153911] 
+ (line 63)] 
+
+Processing the 298th image (T18TYM_S2B_2019118_20190428T153819)
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line
+ProcessStart to stack ARD Tile 18TYM
+B_2020310_20201105T153559)
+
+Processing the 26th image (T18TYM_S2A_2016110_20160419T175754)
+e 63)] 
+Start to stack ARD Tile 18TYM
+18TYM_S2B_2018080_20180321T153549)
+[Warning: No SR for T18TYM_S2B_2017335_20171201T153609] 
+3559)
+[Warning: No SR for T18TYM_S2A_2017310_20171106T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2
+Processing the 110th image (T18TYM_S2A_2017343_20171209T15[Warn
+Processing the 151th image (T18TYM_S2A_2018098_20180
+Processing [Warning: No SR for T18TYM_S2A_2018325_20181121T1535[> In
+Processing the 165th image (T18TYM_S2A_2018138_20180518T154021)
+ 
+[Warning: No SR for T18TYM_S2B_2019328_20191124T154549] 
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab[> In stackS2ARD2Linev2 (line 441)
+In batc
+Processing the 319th image (T[Warning: No SR for T18TYM_S2A_202[> In stackS2ARD2Linev2[> In stackS2ARD2Linev2 (line 441)
+In batchStackA total of 0689 Sentinel[Warning: No SR for T18TYM_S2A_2015234_20150822T155136] 
+/ARDBRDF_HLSAngle
+[Warning: No SR for T18TYM_S2B_2020140_20200519T153559] 
+4551)
+At task# 96/100 to process 7 images
+S2A_2021102_20210412T153901)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017143_20170523T153911] 
+[Warning: No SR for T18TYM_S2B_2019308_20191104T154329] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019070_20190311T153551] 
+
+Processing the 5th image (T18TYM_S2A_2015241_20150829T154106)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[Warning: No SR for T18TYM_S2A_2019273_20190930T154041] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+
+Processing the 75th image (T18TYM_S2A_2017150_20170530T153601)
+e 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD
+Processing the 280th image (T18TYM_S2A_2019073_20190314T154021)
+^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+
+Processing the 424th image (T18TYM_S2A_2020195_20200713T153601)
+ 63)] 
+[Warning: No SR for T18TYM_S2B_2021014_20210114T153609] 
+ (line 63)] 
+
+Processing the 333th image (T18TYM_S2A_2019310_20191106T153601)
+
+Processing the 403th image (T18TYM_S2B_2020143_20200522T153809)
+
+Processing the 326th image (T18TYM_S2B_2019275_20191002T15
+Proce[Warning: No SR for T18TYM_S2B_2019088_20190329T154019] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021222_20210810T153911] 
+ (line 63)] 
+
+Processing the 287th image (T18TYM_S2A_2019090_20190331T15
+Proce[Warning: No SR for T18TYM_S2A_2017003_20170103T154632] 
+[Warning: No SR for T18TYM_S2A_2021239_20210827T153601] 
+4559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (lin
+Processi
+Processing the 579th image (T18TYM_S2B_2021224_20210812T153559)
+
+Processing the 586th image (T18TYM_S2A_2021242_20210830T153911)
+[Warning: No SR for T18TYM_S2A_2017093_20170403T155131] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 68th image (T18TYM_S2A_2017103_20170413T153[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 215th image (T18TYM_S2A_2018268_20180925T154001)
+[Warning: No SR for T18TYM_S2A_2020108_20200417T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 390th image (T18TYM_S2B_2020110_20200419T15[> In
+Processing the 250th image (T18TYM_S2B_2018363_20181229T154649)
+ 
+[Warning: No SR for T18TYM_S2A_2021062_20210303T154141] 
+3559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2
+Processing the 516th image (T18TYM_S2B_2021064_20210305T15[Warning: No SR for T18TYM_S2B_2021044_20210213T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 509th image (T18TYM_S2B_2021047_20210216T154219)
+[Warning: No SR for T18TYM_S2A_2018228_20180816T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 201th image (T18TYM_S2B_2018230_20180818T153549)
+[Warning: No SR for T18TYM_S2B_2020180_20200628T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 419th image (T18TYM_S2B_2020183_20200701T153809)
+[Warning: No SR for T18TYM_S2B_2020360_20201225T153649] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 489th image (T18TYM_S2B_2020363_20201228T154649)
+[Warning: No SR for T18TYM_S2A_2017363_20171229T154641] 
+[Warning: No SR for T18TYM_S2A_2021309_20211105T153601] 
+[Warning: No SR for T18TYM_S2B_2018243_20180831T153759] 
+[Warning: No SR for T18TYM_S2B_2020090_20200330T153559] 
+[Warning: No SR for T18TYM_S2B_2018343_20181209T154629] 
+[Warning: No SR for T18TYM_S2A_2016271_20160927T040940] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017233_20170821T155131] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line
+Process
+Processing the 272th image (T18TYM_S2A_2019053_20190222T[Warnin[Warning: No SR for T18TYM_S2B_2020213_20200731T15[> In s
+Processing the 207th image (T18TYM_S2A_2018245_20180902T153551)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (lin
+Processi
+Processing the 41th image (T18TYM_S2A_2016277_20161003T[Warnin
+Processing the 614th image (T18TYM_S2B_2021314_202[> In stackS2[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[Warning: No SR for T18TYM_S2A_2019013_20190113T154611] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line
+Processing th
+Processing the 432th image (T18TYM_S2A_2020215_20
+Processing the[Warning: No SR for T18TYM_S2A_2019030_20190130T153551] 
+
+Processing the 607th image (T18TYM_S2B_2021294_20211021T15
+Proce
+Processing the 460th image (T18TYM_S2B_2020290_20201016T1[Warni[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2A[> In stackS2ARD2Lin[Warning: No SR for T18TYM_S2B_2018063_20180304T154[> In [> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 257th image (T18TYM_S2B_2019015_20190115T153609)
+[Warning: No SR for T18TYM_S2B_2021344_20211210T153629] 
+ (line 63)] 
+
+Processing the 264th image (T18TYM_S2A_2019033_20190202T154451)
+[Warning: No SR for T18TYM_S2A_2017313_20171109T155131] 
+3549)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 627th image (T18TYM_S2A_2021349_20211215T153641)
+
+Processing the 369th image (T18TYM_S2A_2020058_20200227T154211)
+[Warning: No SR for T18TYM_S2A_2016316_20161111T224354] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 48th image (T18TYM_S2A_2016320_20161115T100902)
+[Warning: No SR for T18TYM_S2B_2020363_20201228T154649] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018175_20180624T153601] 
+3641)
+[Warning: No SR for T18TYM_S2A_2017283_20171010T154151] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 96th image (T18TYM_S2A_2017290_20171017T153601)
+[Warning: No SR for T18TYM_S2A_2021152_20210601T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018043_20180212T154339] 
+3941)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warning: No SR for T18TYM_S2B_2021254_20210911T153549] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 592th image (T18TYM_S2B_2021257_20210914T153809)
+[Warning: No SR for T18TYM_S2B_2020310_20201105T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 469th image (T18TYM_S2B_2020313_20201108T154449)
+[Warning: No SR for T18TYM_S2B_2018020_20180120T153549] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 124th image (T18TYM_S2B_2018023_20180123T154529)
+[Warning: No SR for T18TYM_S2A_2018118_20180428T153911] 
+[Warning: No SR for T18TYM_S2B_2020040_20200209T153549] 
+ (line 63)] 
+
+Processing the 159th image (T18TYM_S2B_2018120_20180430T15[Warn[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR[> In stackS2ARD2Li[Warning: No SR for T18TYM_S2A_2021169_20210618T1536[Warn[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR
+Processing the 363t[> In stackS2ARD2Linev2 (line 441)
+In batchS
+Processing the 532th image [> In stackS2ARD2Linev2 (line 441)
+I
+Processing the 292th image (T18TYM_[Warning: No SR for T18TYM_S
+Processing the 558th image (T[Warning: No SR for T18TYM_S2A_201[Warning: No SR for T18[> In stackS2ARD2Linev2 (line 441)[Warning: No SR for T18TYM_S2A_201830[> In stackS2ARD2Lin[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2A
+Processing the 203th[> In stackS2ARD2Linev2 (line 441)
+In batch
+Processing the 20th image (T
+Processing the 313th image (T18TYM
+Processing the 229th image (T18TYM_S2A_2018308_20181104T154421)
+[Warning: No SR for T18TYM_S2B_2021134_20210514T153559] 
+[Warning: No SR for T18TYM_S2A_2017343_20171209T154631] 
+ (line 63)] 
+
+Processing the 544th image (T18TYM_S2B_2021137_20210517T15[Warning: No SR for T18TYM_S2A_2015294_20151021T155022] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 111th image (T18TYM_S2B_2017345_20171211T153629)
+ 63)] 
+
+Processing the 12th image (T18TYM_S2A_2015324_20151120T154542)
+
+[Warning: No SR for T18TYM_S2A_2018138_20180518T154021] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 166th image (T18TYM_S2B_2018140_20180520T153559)
+[Warning: No SR for T18TYM_S2B_2021187_20210706T153809] 
+[Warning: No SR for T18TYM_S2A_2020235_20200822T153601] 
+ (line 63)] 
+
+Processing the 565th image (T18TYM_S2A_2021189_20210708T153601)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 439th image (T18TYM_S2A_2020238_20200825T153911)
+[Warning: No SR for T18TYM_S2B_2018193_20180712T153809] 
+[Warning: No SR for T18TYM_S2A_2016110_20160419T175754] 
+ (line 63)] 
+
+Processing the 187th image (T18TYM_S2A_2018195_20180714T153601)
+ 63)] 
+[Warning: No SR for T18TYM_S2A_2019160_20190609T153601] 
+949)
+[Warning: No SR for T18TYM_S2B_2018283_20181010T154249] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 306th image (T18TYM_S2B_2019168_20190617T15
+Proce[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 145th image (T18TYM_S2B_2018083_20180324T153909)
+[Warning: No SR for T18TYM_S2B_2019118_20190428T153819] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 299th image (T18TYM_S2A_2019120_20190430T15[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020110_20200419T153549] 
+3809)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[Warning: No SR for T18TYM_S2B_2020160_20200608T153559] 
+
+Processing the 237th image (T18TYM_S2B_2018330_20181126T153559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019253_20190910T153901] 
+[Warning: No SR for T18TYM_S2A_2021029_20210129T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[> In s
+Processing the 152th image (T18TYM_S2B_2018100_20180410T153559)
+[Warning: No SR for T18TYM_S2A_2017150_20170530T153601] 
+3601)
+
+Processing the 503th image (T18TYM_S2A_2021032_20210201T154451)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021242_20210830T153911] 
+131)
+[Warning: No SR for T18TYM_S2A_2019090_20190331T153601] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017053_20170222T155131] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 63th image (T18TYM_S2A_2017063_20170304T154121)
+[Warning: No SR for T18TYM_S2A_2019310_20191106T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 334th image (T18TYM_S2A_2019313_20191109T15[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2020195_20200713T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 425th image (T18TYM_S2A_2020198_20200716T153911)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: No SR for T18TYM_S2B_2020143_20200522T153809] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 404th image (T18TYM_S2A_2020145_20200524T153601)
+[Warning: No SR for T18TYM_S2A_2018268_20180925T154001] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2
+Processing the 216th image (T18TYM_S2B_2018270_20180927T15
+Proce[Warning: No SR for T18TYM_S2A_2021349_20211215T153641] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[Warning: No SR for T18TYM_S2B_2018363_20181229T154649] 
+
+Processing the 628th image (T18TYM_S2A_2021352_20211218T154651)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 55th image (T18TYM_S2A_2017013_20170113T155121)
+
+[Warning: No SR for T18TYM_S2B_2019275_20191002T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 327th image (T18TYM_S2A_2019280_20191007T153601)
+[Warning: No SR for T18TYM_S2B_2018213_20180801T154109] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 195th image (T18TYM_S2A_2018215_20180803T153601)
+[Warning: No SR for T18TYM_S2B_2021047_20210216T154219] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 510th image (T18TYM_S2A_2021049_20210218T153601)
+[Warning: No SR for T18TYM_S2A_2019330_20191126T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 341th image (T18TYM_S2A_2019333_20191129T154611)
+[Warning: No SR for T18TYM_S2A_2017193_20170712T155131] 
+[Warning: No SR for T18TYM_S2B_2018003_20180103T154629] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018345_20181211T153631] 
+[Warning: No SR for T18TYM_S2B_2018160_20180609T153559] 
+3621)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 175th image (T18TYM_S2B_2018163_20180612T153809)
+ 
+rocessing the 349th image (T18TYM_S2A_2020005_20200105T153631)
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: No SR for T18TYM_S2A_2019033_20190202T154451] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 265th image (T18TYM_S2B_2019035_20190204T153559)
+[Warning: No SR for T18TYM_S2A_2016277_20161003T011642] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 42th image (T18TYM_S2A_2016280_20161006T004847)
+[Warning: No SR for T18TYM_S2A_2015241_20150829T154106] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 6th image (T18TYM_S2A_2015244_20150901T155136)
+[Warning: No SR for T18TYM_S2B_2020313_20201108T154449] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016320_20161115T100902] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 49th image (T18TYM_S2A_2016322_20161117T210340)
+[Warning: No SR for T18TYM_S2B_2021314_20211110T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018235_20180823T153601] 
+4509)
+[Warning: No SR for T18TYM_S2B_2020290_20201016T153559] 
+[Warning: No SR for T18TYM_S2B_2020183_20200701T153809] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 608th image (T18TYM_S2B_2021297_20211024T154229)
+ 63)] 
+
+Processing the 461th image (T18TYM_S2B_2020293_20201019T154159)
+
+Processing the 420th image (T[Warning: No SR for T18TYM_S2A_202[Warning: No SR for T18TYM_S2B_2017318_20171114T154459] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 105th image (T18TYM_S2A_2017323_20171119T154531)
+[Warning: No SR for T18TYM_S2B_2019015_20190115T153609] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 34th image (T18TYM_S2A_2016176_20160624T213745)
+e 63)] 
+[Warning: No SR for T18TYM_S2B_2021104_20210414T153549] 
+
+Processing the 139th image (T18TYM_S2A_2018068_20180309T154051)
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentine[Warning: No SR for T18TYM_S[Warning: No SR for T18TYM_S2[> In stackS2ARD2Linev2 (lin
+Processing the 181th image (T18TYM_S2B_2018At task# 100/100 to p[Warning: No SR [> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 90th image (T18TYM_S2A_2017250_20170907T153601)
+e 63)] 
+[Warning: No SR for T18TYM_S2A_2020365_20201230T153641] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line
+Processing the 356th image (T18TYM_S2B_2020023_20200123T154539)
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+[Warning: No SR for T18TYM_S2A_2020215_20200802T153601] 
+[Warning: No SR for T18TYM_S2A_2019053_20190222T154241] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 433th image (T18TYM_S2A_2020218_20200805T153911)
+[Warning: No SR for T18TYM_S2A_2019103_20190413T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 293th image (T18TYM_S2B_2019105_20190415T153559)
+[Warning: No SR for T18TYM_S2B_2018120_20180430T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No [> In stackS2ARD2Linev2 (line 441)
+In batchS
+Processing the 160th image [> In stackS2ARD2Linev2 (line 441)
+I
+Processing the 28th image (T18TYM_S
+Processing the 364th image [Warning: No SR for T18TYM_S2B_2017345_20171211T153629] 
+[Warning: No SR for T18TYM_S2B_2021154_20210603T153559] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017290_20171017T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018045_20180214T153551] 
+4639)
+
+Processing the 97th image (T18TYM_S2A_2017293_20171020T155131)
+
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 132th image (T18TYM_S2A_2018048_20180217T154311)
+[Warning: No SR for T18TYM_S2B_2018023_20180123T154529] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 125th image (T18TYM_S2A_2018025_20180125T153551)
+[Warning: No SR for T18TYM_S2A_2021172_20210621T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 559th image (T18TYM_S2B_2021174_20210623T153559)
+[Warning: No SR for T18TYM_S2B_2020113_20200422T153809] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 392th image (T18TYM_S2A_2020115_20200424T15[> In[Warning: No SR for T18TYM_S2B_2021137_20210517T153809] 
+ 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warnin
+Processing the 545th image (T18TYM_S2A_2021139_202[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 588th image (T18TYM_S2B_2021247_20210904T15[> In[Warning: No SR for T18TYM_S2B_2021227_20210815T153809] 
+ 63)] 
+
+Processing the 77th image (T18TYM_S2A_2017163_20170612T153[> I[Warning: No SR for T18TYM_S2A_2017103_20170413T153911] 
+e 63)] 
+[Warning: No SR for T18TYM_S2B_2019208_20190727T153819] 
+ (line 63)] 
+
+Processing the 581th image (T18TYM_S2A_2021229_20210817T15[> In
+Processing the 146th image (T18TYM_S2A_2018085_20180326T153601)
+ 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 314th image (T18TYM_S2B_2019225_20190813T153609)
+[Warning: No SR for T18TYM_S2A_2016053_20160222T125257] 
+641)
+[Warning: No SR for T18TYM_S2A_2020238_20200825T153911] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 440th image (T18TYM_S2B_2020240_20200827T153559)
+[Warning: No SR for T18TYM_S2B_2021257_20210914T153809] 
+[Warning: No SR for T18TYM_S2A_2021209_20210728T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018308_20181104T154421] 
+ (line 63)] 
+
+Processing the 593th image (T18TYM_S2A_2021259_20210916T153601)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 230th image (T18TYM_S2B_2018313_20181109T154449)
+[Warning: No SR for T18TYM_S2B_2019055_20190224T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018195_20180714T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 188th image (T18TYM_S2A_2018198_20180717T153911)
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+[Warning: No SR for T18TYM_S2B_2020163_20200611T153809] 
+[Warning: No SR for T18TYM_S2A_2021032_20210201T154451] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 208th image (T18TYM_S2A_2018248_20180905T153901)
+ 63)] 
+
+Processing the 504th image (T18TYM_S2B_2021034_20210203T15
+Proce[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 238th image (T18TYM_S2B_2018333_20181129T154609)
+[Warning: No SR for T18TYM_S2B_2021067_20210308T154009] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line
+Processing th
+Processing the 518th image (T18TYM_S2A_2021069_202
+Processing the 307th image (T18TYM_S2A_2019170_20190619T153601)
+[Warning: No SR for T18TYM_S2A_2015324_20151120T154542] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 13th image (T18TYM_S2A_2015334_20151130T155132)
+[Warning: No SR for T18TYM_S2A_2016280_20161006T004847] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017013_20170113T155121] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018365_20181231T153631] 
+3911)
+[Warning: No SR for T18TYM_S2A_2019120_20190430T153601] 
+531)
+[Warning: No SR for T18TYM_S2A_2018215_20180803T153601] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2020198_20200716T153911] 
+
+Processing the 196th image (T18TYM_S2A_2018218_20180806T153911)
+
+Processing the 252th image (T18TYM_S2A_2019003_20190103T154641)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 426th image (T18TYM_S2B_2020200_20200718T153559)
+[Warning: No SR for T18TYM_S2A_2021352_20211218T154651] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019260_20190917T153601] 
+3639)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 321th image (T18TYM_S2A_2019263_20190920T153931)
+[Warning: No SR for T18TYM_S2A_2020255_20200911T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No SR for T18TYM_S2A_2018348_20181214T154641] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018163_20180612T153809] 
+3559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 153th image (T18TYM_S2B_2018103_20180413T153909)
+[Warning: No SR for T18TYM_S2A_2021049_20210218T153601] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 511th image (T18TYM_S2A_2021052_20210221T154251)
+[Warning: No SR for T18TYM_S2A_2020005_20200105T153631] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 350th image (T18TYM_S2A_2020008_20200108T154631)
+[Warning: No SR for T18TYM_S2A_2017323_20171119T154531] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020080_20200320T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016322_20161117T210340] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019280_20191007T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 266th image (T18TYM_S2B_2019038_20190207T154419)
+
+Processing the 328th image (T18TYM_S2A_2019290_20191017T153601)
+[Warning: No SR for T18TYM_S2B_2021297_20211024T154229] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 609th image (T18TYM_S2A_2021299_20211026T153601)
+[Warning: No SR for T18TYM_S2B_2021317_20211113T154509] 
+[Warning: No SR for T18TYM_S2A_2018068_20180309T154051] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 140th image (T18TYM_S2B_2018070_20180311T153549)
+[Warning: No SR for T18TYM_S2A_2019333_20191129T154611] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 342th image (T18TYM_S2A_2019343_20191209T154631)
+[Warning: No SR for T18TYM_S2B_2017348_20171214T154639] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020293_20201019T154159] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 462th image (T18TYM_S2A_2020295_20201021T15[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 84th image (T18TYM_S2A_2017210_20170729T153601)
+[Warning: No SR for T18TYM_S2A_2020145_20200524T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 405th image (T18TYM_S2A_2020148_20200527T153911)
+[Warning: No SR for T18TYM_S2A_2020095_20200404T153551] 
+[Warning: No SR for T18TYM_S2B_2019018_20190118T154559] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 259th image (T18TYM_S2A_2019020_20190120T153551)
+[Warning: No SR for T18TYM_S2A_2017293_20171020T155131] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 98th image (T18TYM_S2B_2017298_20171025T154319)
+[Warning: No SR for T18TYM_S2A_2015244_20150901T155136] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 7th image (T18TYM_S2A_2015254_20150911T155136)
+)
+[Warning: No SR for T18TYM_S2B_2020023_20200123T154539] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 357th image (T18TYM_S2A_2020025_20200125T153551)
+[Warning: No SR for T18TYM_S2B_2018180_20180629T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[Warning: No 
+Processing the 182th image (T18TYM_S2B_20181[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 434th image (T18TYM_S2B_2020223_20200810T153819)
+[Warning: No SR for T18TYM_S2B_2019105_20190415T153559] 
+[Warning: No SR for T18TYM_S2B_2018123_20180503T153909] 
+ (line 63)] 
+
+Processing the 294th image (T18TYM_S2B_2019108_20190418T15[> In[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 6[Warn
+Processing the 161th image (T18TYM_S2A_2018125_20180[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016068_20160308T094450] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018048_20180217T154311] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 133th image (T18TYM_S2B_2018050_20180219T153549)
+[Warning: No SR for T18TYM_S2A_2021212_20210731T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016130_20160509T012700] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021229_20210817T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2021157_20210606T153809] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2
+Processing the 553th image (T18TYM_S2A_2021159_20210608T153601)
+[Warning: No SR for T18TYM_S2A_2020348_20201213T154641] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warnin[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2[> In stackS2ARD2Line
+Processing the 147th image (T18TYM_S2A_2018088_201
+Processing the 91th image (T18TYM_S2A_2017253_20170910T155131)
+[Warning: No SR for T18TYM_S2A_2018025_20180125T153551] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2015334_20151130T155132] 
+3549)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 14th image (T18TYM_S2A_2015341_20151207T153632)
+[Warning: No SR for T18TYM_S2B_2018313_20181109T154449] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 231th image (T18TYM_S2A_2018315_20181111T153551)
+[Warning: No SR for T18TYM_S2B_2019225_20190813T153609] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 315th image (T18TYM_S2A_2019230_20190818T153601)
+[Warning: No SR for T18TYM_S2A_2021139_20210519T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 546th image (T18TYM_S2A_2021142_20210522T153911)
+[Warning: No SR for T18TYM_S2B_2020240_20200827T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 441th image (T18TYM_S2B_2020243_20200830T153819)
+[Warning: No SR for T18TYM_S2B_2021174_20210623T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021069_20210310T153601] 
+3809)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021259_20210916T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 594th image (T18TYM_S2A_2021262_20210919T153931)
+[Warning: No SR for T18TYM_S2A_2019170_20190619T153601] 
+[Warning: No SR for T18TYM_S2B_2021034_20210203T153559] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warning: No SR for T18TYM_S2B_2021354_20211220T153639] 
+[Warning: No SR for T18TYM_S2A_2020258_20200914T153911] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line[Warnin
+Processing the 448th image (T18TYM_S2B_2020260_20200916T153559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2020165_20200613T153601] 
+[Warning: No SR for T18TYM_S2A_2019133_20190513T153911] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 301th image (T18TYM_S2A_2019140_20190520T153601)
+[Warning: No SR for T18TYM_S2B_2018333_20181129T154609] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018198_20180717T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 189th image (T18TYM_S2B_2018200_20180719T15[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021192_20210711T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018290_20181017T153559] 
+3559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 224th image (T18TYM_S2B_2018293_20181020T154249)
+[Warning: No SR for T18TYM_S2B_2020243_20200830T153819] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020200_20200718T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2
+Processing the 427th image (T18TYM_S2B_2020203_20200721T153809)
+[Warning: No SR for T18TYM_S2B_2018273_20180930T154029] 
+3559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2019038_20190207T154419] 
+[Warning: No SR for T18TYM_S2B_2018350_20181216T153639] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2020098_20200407T153901] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2016176_20160624T213745] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 35th image (T18TYM_S2A_2016179_20160627T233616)
+[Warning: No SR for T18TYM_S2A_2021299_20211026T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018103_20180413T153909] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2019315_20191111T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 336th image (T18TYM_S2A_2019320_20191116T153601)
+[Warning: No SR for T18TYM_S2B_2018070_20180311T153549] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019020_20190120T153551] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019290_20191017T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 329th image (T18TYM_S2A_2019293_20191020T154301)
+[Warning: No SR for T18TYM_S2A_2018248_20180905T153901] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 209th image (T18TYM_S2B_2018250_20180907T15[Warn[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2AR[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 343th image (T18TYM_S2A_2019350_20191216T153641)
+[Warning: No SR for T18TYM_S2A_2015254_20150911T155136] 
+[Warning: No SR for T18TYM_S2A_2021319_20211115T153601] 
+ (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020063_20200303T154039] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017210_20170729T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2017298_20171025T154319] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017253_20170910T155131] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018125_20180505T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018088_20180329T153901] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2020148_20200527T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018050_20180219T153549] 
+3559)
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020223_20200810T153819] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018145_20180525T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018030_20180130T153549] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018183_20180702T153809] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+[Warning: No SR for T18TYM_S2B_2019108_20190418T153819] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021159_20210608T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021142_20210522T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018315_20181111T153551] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019230_20190818T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020260_20200916T153559] 
+[Warning: No SR for T18TYM_S2A_2019140_20190520T153601] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2021177_20210626T153809] 
+[Warning: No SR for T18TYM_S2A_2016179_20160627T233616] 
+ (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020203_20200721T153809] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2021262_20210919T153931] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 595th image (T18TYM_S2B_2021264_20210921T15[Warn[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2020168_20200616T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2021194_20210713T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018200_20180719T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2015341_20151207T153632] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2017113_20170423T155131] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2019265_20190922T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019320_20191116T153601] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2018108_20180418T153911] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2020150_20200529T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019293_20191020T154301] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2A_2019350_20191216T153641] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018250_20180907T153549] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+
+Processing the 210th image (T18TYM_S2B_2018253_20180910T154539)
+[Warning: No SR for T18TYM_S2B_2021264_20210921T153559] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+[Warning: No SR for T18TYM_S2B_2018253_20180910T154539] 
+[> In stackS2ARD2Linev2 (line 441)
+In batchStackS2ARD2Line (line 63)] 
+ 
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+Start to stack ARD Tile 18TYM
+Start to stack ARD Tile 18TYM
+Start to stack ARD Tile 18TYM
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+A total of 0689 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TYM/ARDBRDF_HLSAngle
+At task# 99/100 to process 3 images
+At task# 98/100 to process 7 images
+At task# 97/100 to process 7 images
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+{Error using mkdir
+No space left on device
+
+Error in stackS2ARD2Linev2 (line 219)
+        mkdir(folderpath_task);
+        ^^^^^^^^^^^^^^^^^^^^^^
+Error in batchStackS2ARD2Line (line 63)
+        stackS2ARD2Linev2(folderpath_ard, folderpath_out, ...
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 

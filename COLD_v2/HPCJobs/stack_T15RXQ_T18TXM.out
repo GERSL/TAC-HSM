@@ -1,0 +1,4274 @@
+Loading matlab/R2023b
+  Loading requirement: pre-module post-module
+Loading matlab/R2023b
+  Loading requirement: pre-module post-module
+Finished 6.67 percent at task# 33/50 with total 0.71 mins
+
+Processing the 482th image (T18TXM_S2A_2020248_20200904T153911)
+Finished 26.67 percent at task# 9/50 with total 2.24 mins
+
+Processing the 125th image (T18TXM_S2A_2017286_20171013T160131)
+Finished 13.33 percent at task# 25/50 with total 1.18 mins
+Finished 6.67 percent at task# 34/50 with total 0.75 mins
+54901)
+
+Processing the 497th image (T18TXM_S2B_2020286_20201012T155119)
+Finished 20.00 percent at task# 24/50 with total 1.80 mins
+
+Processing the 349th image (T18TXM_S2B_2019158_20190607T153819)
+Finished 13.33 percent at task# 19/50 with total 1.73 mins
+Finished 13.33 percent at task# 20/50 with total 1.73 mins
+
+Processing the 288th image (T18TXM_S2A_2018351_20181217T155641)
+Finished 13.33 percent at task# 18/50 with total 1.76 mins
+
+Processing the 258th image (T18TXM_S2B_2018273_20180930T154029)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+Processing the 97th image (T18TXM_S2A_2017153_20170602T155131)
+
+Processing the 82th image (T18TXM_S2A_2017073_20170314T155121)
+Finished 13.33 percent at task# 17/50 with total 1.85 mins
+
+Processing the 243th image (T18TXM_S2B_2018233_20180821T153809)
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+Finished 6.67 percent at task# 48/50 with total 0.50 mins
+
+Processing the 707th image (T18TXM_S2B_2022092_20220402T153809)
+Finished 6.67 percent at task# 46/50 with total 0.55 mins
+
+Processing the 677th image (T18TXM_S2A_2022017_20220117T154601)
+Finished 6.67 percent at task# 47/50 with total 0.55 mins
+
+Processing the 692th image (T18TXM_S2B_2022055_20220224T155129)
+Start to stack ARD Tile 18TXM
+Start to stack ARD Tile 18TXM
+A total of 0725 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXM/ARDBRDF_HLSAngle
+A total of 0725 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T18TXM/ARDBRDF_HLSAngle
+At task# 49/50 to process 5 images
+At task# 50/50 to process -10 images
+Finished 33.33 percent at task# 2/50 with total 3.01 mins
+
+Processing the 21th image (T18TXM_S2A_2016019_20160119T230435)
+
+Processing the 721th image (T18TXM_S2A_2022127_20220507T153821)
+Finished 26.67 percent at task# 8/50 with total 2.97 mins
+
+Processing the 110th image (T18TXM_S2A_2017213_20170801T155131)
+Finished 33.33 percent at task# 14/50 with total 2.77 mins
+
+Processing the 201th image (T18TXM_S2B_2018123_20180503T153909)
+Finished 33.33 percent at task# 12/50 with total 2.77 mins
+
+Processing the 171th image (T18TXM_S2B_2018046_20180215T155329)
+Finished 33.33 percent at task# 1/50 with total 3.26 mins
+
+Processing the 6th image (T18TXM_S2A_2015254_20150911T155136)
+Finished 33.33 percent at task# 9/50 with total 2.79 mins
+
+Processing the 126th image (T18TXM_S2B_2017288_20171015T155119)
+Finished 26.67 percent at task# 3/50 with total 3.01 mins
+
+Processing the 35th image (T18TXM_S2A_2016119_20160428T224949)
+Finished 33.33 percent at task# 13/50 with total 2.81 mins
+
+Processing the 186th image (T18TXM_S2B_2018086_20180327T154859)
+Finished 33.33 percent at task# 11/50 with total 2.81 mins
+
+Processing the 156th image (T18TXM_S2B_2018003_20180103T154629)
+Finished 33.33 percent at task# 10/50 with total 2.82 mins
+
+Processing the 141th image (T18TXM_S2A_2017326_20171122T160131)
+Finished 20.00 percent at task# 32/50 with total 1.78 mins
+
+Processing the 469th image (T18TXM_S2B_2020213_20200731T153819)
+Finished 26.67 percent at task# 22/50 with total 2.40 mins
+Finished 26.67 percent at task# 23/50 with total 2.40 mins
+
+Processing the 320th image (T18TXM_S2A_2019066_20190307T155111)
+
+Processing the 335th image (T18TXM_S2A_2019103_20190413T153911)
+Finished 26.67 percent at task# 21/50 with total 2.40 mins
+
+Processing the 305th image (T18TXM_S2B_2019028_20190128T154519)
+Finished 20.00 percent at task# 31/50 with total 1.81 mins
+
+Processing the 454th image (T18TXM_S2B_2020176_20200624T154819)
+Finished 13.33 percent at task# 36/50 with total 1.40 mins
+
+Processing the 528th image (T18TXM_S2B_2020363_20201228T154649)
+Finished 13.33 percent at task# 40/50 with total 1.40 mins
+
+Processing the 588th image (T18TXM_S2A_2021152_20210601T153911)
+Finished 13.33 percent at task# 38/50 with total 1.41 mins
+
+Processing the 558th image (T18TXM_S2A_2021075_20210316T155011)
+Finished 6.67 percent at task# 43/50 with total 0.86 mins
+
+Processing the 632th image (T18TXM_S2A_2021262_20210919T153931)
+Finished 26.67 percent at task# 16/50 with total 2.84 mins
+
+Processing the 230th image (T18TXM_S2A_2018201_20180720T154911)
+Finished 6.67 percent at task# 44/50 with total 0.86 mins
+
+Processing the 647th image (T18TXM_S2B_2021300_20211027T155249)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 6.67 percent at task# 41/50 with total 0.86 mins
+
+Processing the 602th image (T18TXM_S2B_2021187_20210706T153809)
+Finished 13.33 percent at task# 39/50 with total 1.42 mins
+
+Processing the 573th image (T18TXM_S2A_2021115_20210425T154901)
+Finished 6.67 percent at task# 42/50 with total 0.87 mins
+
+Processing the 617th image (T18TXM_S2A_2021225_20210813T154911)
+Finished 13.33 percent at task# 33/50 with total 1.37 mins
+
+Processing the 483th image (T18TXM_S2A_2020251_20200907T154911)
+Finished 13.33 percent at task# 35/50 with total 1.43 mins
+
+Processing the 513th image (T18TXM_S2B_2020326_20201121T155549)
+Finished 26.67 percent at task# 5/50 with total 3.11 mins
+
+Processing the 65th image (T18TXM_S2A_2016323_20161118T083122)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 26.67 percent at task# 15/50 with total 2.91 mins
+
+Processing the 215th image (T18TXM_S2B_2018163_20180612T153809)
+Finished 13.33 percent at task# 37/50 with total 1.42 mins
+
+Processing the 543th image (T18TXM_S2B_2021037_20210206T154329)
+Finished 20.00 percent at task# 26/50 with total 1.94 mins
+
+Processing the 379th image (T18TXM_S2A_2019333_20191129T154611)
+Finished 6.67 percent at task# 45/50 with total 0.98 mins
+
+
+Processing the 409th image (T18TXM_S2B_2020063_20200303T154039)
+Finished 20.00 percent at task# 30/50 with total 1.95 mins
+
+Processing the 439th image (T18TXM_S2A_2020138_20200517T153911)
+Finished 20.00 percent at task# 25/50 with total 1.94 mins
+5629)
+
+Processing the 364th image (T18TXM_S2A_2019263_20190920T153931)
+Finished 20.00 percent at task# 29/50 with total 1.96 mins
+
+Processing the 424th image (T18TXM_S2A_2020101_20200410T154901)
+Finished 46.67 percent at task# 7/50 with total 3.52 mins
+Finished 46.67 percent at task# 6/50 with total 3.52 mins
+
+Processing the 98th image (T18TXM_S2A_2017156_20170605T154911)
+
+Processing the 83th image (T18TXM_S2A_2017076_20170317T154951)
+Finished 20.00 percent at task# 27/50 with total 1.97 mins
+
+Processing the 394th image (T18TXM_S2B_2020023_20200123T154539)
+Finished 26.67 percent at task# 24/50 with total 2.58 mins
+
+Processing the 350th image (T18TXM_S2B_2019161_20190610T154819)
+Finished 13.33 percent at task# 34/50 with total 1.56 mins
+
+Processing the 498th image (T18TXM_S2A_2020288_20201014T154231)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 50/50 to process -33 images
+Finished 13.33 percent at task# 46/50 with total 1.14 mins
+
+Processing the 678th image (T18TXM_S2A_2022020_20220120T155551)
+Finished 13.33 percent at task# 47/50 with total 1.14 mins
+
+Processing the 693th image (T18TXM_S2A_2022057_20220226T154221)
+Finished 13.33 percent at task# 48/50 with total 1.12 mins
+
+Processing the 708th image (T18TXM_S2B_2022095_20220405T154809)
+Finished 26.67 percent at task# 4/50 with total 3.28 mins
+
+Processing the 50th image (T18TXM_S2A_2016240_20160827T213238)
+Finished 20.00 percent at task# 20/50 with total 2.66 mins
+
+Processing the 289th image (T18TXM_S2B_2018353_20181219T154649)
+Finished 20.00 percent at task# 18/50 with total 2.66 mins
+
+Processing the 259th image (T18TXM_S2B_2018276_20181003T155049)
+Finished 20.00 percent at task# 19/50 with total 2.66 mins
+
+Processing the 274th image (T18TXM_S2B_2018313_20181109T154449)
+Finished 20.00 percent at task# 49/50 with total 0.71 mins
+
+Processing the 722th image (T18TXM_S2A_2022130_20220510T154821)
+Finished 40.00 percent at task# 2/50 with total 3.86 mins
+
+Processing the 22th image (T18TXM_S2A_2016028_20160128T132508)
+Finished 20.00 percent at task# 17/50 with total 2.84 mins
+
+Processing the 244th image (T18TXM_S2B_2018236_20180824T154809)
+Finished 40.00 percent at task# 12/50 with total 3.42 mins
+
+Processing the 172th image (T18TXM_S2A_2018048_20180217T154311)
+Finished 40.00 percent at task# 9/50 with total 3.42 mins
+
+Processing the 127th image (T18TXM_S2B_2017291_20171018T155239)
+Finished 40.00 percent at task# 13/50 with total 3.43 mins
+
+Processing the 187th image (T18TXM_S2A_2018088_20180329T153901)
+Finished 40.00 percent at task# 11/50 with total 3.44 mins
+
+Processing the 157th image (T18TXM_S2B_2018006_20180106T155629)
+Finished 40.00 percent at task# 10/50 with total 3.44 mins
+
+Processing the 142th image (T18TXM_S2B_2017331_20171127T155559)
+Finished 40.00 percent at task# 14/50 with total 3.44 mins
+
+Processing the 202th image (T18TXM_S2A_2018128_20180508T153911)
+Finished 40.00 percent at task# 1/50 with total 3.96 mins
+
+Processing the 7th image (T18TXM_S2A_2015257_20150914T160136)
+Finished 33.33 percent at task# 21/50 with total 3.03 mins
+
+Processing the 306th image (T18TXM_S2B_2019031_20190131T155509)
+Finished 33.33 percent at task# 22/50 with total 3.03 mins
+
+Processing the 321th image (T18TXM_S2B_2019068_20190309T154049)
+Finished 33.33 percent at task# 23/50 with total 3.03 mins
+
+Processing the 336th image (T18TXM_S2A_2019106_20190416T154911)
+Finished 53.33 percent at task# 7/50 with total 4.05 mins
+
+Processing the 99th image (T18TXM_S2A_2017163_20170612T153911)
+Finished 33.33 percent at task# 8/50 with total 3.94 mins
+
+Processing the 111th image (T18TXM_S2A_2017216_20170804T154911)
+Finished 26.67 percent at task# 30/50 with total 2.52 mins
+Finished 26.67 percent at task# 28/50 with total 2.52 mins
+
+Processing the 440th image (T18TXM_S2A_2020141_20200520T154911)
+
+Processing the 410th image (T18TXM_S2B_2020066_20200306T155019)
+Finished 26.67 percent at task# 26/50 with total 2.52 mins
+
+Processing the 380th image (T18TXM_S2B_2019338_20191204T154619)
+Finished 26.67 percent at task# 27/50 with total 2.54 mins
+Finished 26.67 percent at task# 29/50 with total 2.54 mins
+
+Processing the 395th image (T18TXM_S2B_2020026_20200126T155529)
+
+Processing the 425th image (T18TXM_S2B_2020103_20200412T153809)
+Finished 53.33 percent at task# 6/50 with total 4.10 mins
+
+Processing the 84th image (T18TXM_S2A_2017086_20170327T160121)
+Finished 20.00 percent at task# 33/50 with total 2.07 mins
+
+Processing the 484th image (T18TXM_S2B_2020253_20200909T153819)
+Finished 13.33 percent at task# 41/50 with total 1.58 mins
+
+Processing the 603th image (T18TXM_S2B_2021190_20210709T154819)
+Finished 13.33 percent at task# 43/50 with total 1.58 mins
+Finished 20.00 percent at task# 36/50 with total 2.13 mins
+
+Processing the 633th image (T18TXM_S2A_2021265_20210922T154951)
+
+Processing the 529th image (T18TXM_S2B_2020366_20201231T155649)
+Finished 26.67 percent at task# 31/50 with total 2.54 mins
+
+Processing the 455th image (T18TXM_S2A_2020178_20200626T153911)
+Finished 13.33 percent at task# 44/50 with total 1.58 mins
+
+Processing the 648th image (T18TXM_S2A_2021302_20211029T154401)
+Finished 20.00 percent at task# 40/50 with total 2.13 mins
+
+Processing the 589th image (T18TXM_S2A_2021155_20210604T154911)
+Finished 26.67 percent at task# 25/50 with total 2.54 mins
+
+Processing the 365th image (T18TXM_S2B_2019268_20190925T153959)
+Finished 13.33 percent at task# 42/50 with total 1.59 mins
+
+Processing the 618th image (T18TXM_S2B_2021227_20210815T153809)
+Finished 26.67 percent at task# 32/50 with total 2.55 mins
+Finished 20.00 percent at task# 38/50 with total 2.14 mins
+
+Processing the 470th image (T18TXM_S2B_2020216_20200803T154819)
+
+Processing the 559th image (T18TXM_S2B_2021077_20210318T153859)
+Finished 20.00 percent at task# 39/50 with total 2.14 mins
+
+Processing the 574th image (T18TXM_S2B_2021117_20210427T153809)
+Finished 20.00 percent at task# 47/50 with total 1.66 mins
+
+Processing the 694th image (T18TXM_S2A_2022060_20220301T155201)
+Finished 20.00 percent at task# 46/50 with total 1.66 mins
+
+Processing the 679th image (T18TXM_S2B_2022022_20220122T154539)
+Finished 20.00 percent at task# 48/50 with total 1.64 mins
+
+Processing the 709th image (T18TXM_S2A_2022097_20220407T153811)
+Finished 20.00 percent at task# 35/50 with total 2.16 mins
+
+Processing the 514th image (T18TXM_S2A_2020328_20201123T154601)
+Finished 20.00 percent at task# 37/50 with total 2.11 mins
+
+Processing the 544th image (T18TXM_S2B_2021040_20210209T155309)
+Finished 33.33 percent at task# 24/50 with total 3.19 mins
+
+Processing the 351th image (T18TXM_S2A_2019176_20190625T154911)
+Finished 33.33 percent at task# 3/50 with total 3.94 mins
+
+Processing the 36th image (T18TXM_S2A_2016122_20160501T223720)
+Finished 40.00 percent at task# 49/50 with total 1.22 mins
+
+Processing the 723th image (T18TXM_S2B_2022132_20220512T153809)
+Finished 33.33 percent at task# 5/50 with total 3.97 mins
+
+Processing the 66th image (T18TXM_S2A_2016335_20161130T030505)
+Finished 20.00 percent at task# 34/50 with total 2.32 mins
+
+Processing the 499th image (T18TXM_S2A_2020291_20201017T155251)
+Finished 33.33 percent at task# 15/50 with total 3.81 mins
+
+Processing the 216th image (T18TXM_S2B_2018166_20180615T154809)
+Finished 13.33 percent at task# 45/50 with total 1.83 mins
+
+Processing the 663th image (T18TXM_S2A_2021342_20211208T154641)
+Finished 33.33 percent at task# 16/50 with total 3.95 mins
+
+Processing the 231th image (T18TXM_S2B_2018203_20180722T153809)
+Finished 33.33 percent at task# 4/50 with total 4.09 mins
+
+Processing the 51th image (T18TXM_S2A_2016243_20160830T211738)
+Finished 46.67 percent at task# 9/50 with total 4.04 mins
+
+Processing the 128th image (T18TXM_S2A_2017293_20171020T155131)
+Finished 46.67 percent at task# 13/50 with total 4.05 mins
+
+Processing the 188th image (T18TXM_S2A_2018091_20180401T154901)
+Finished 46.67 percent at task# 12/50 with total 4.05 mins
+
+Processing the 173th image (T18TXM_S2A_2018051_20180220T155301)
+Finished 46.67 percent at task# 11/50 with total 4.06 mins
+
+Processing the 158th image (T18TXM_S2A_2018011_20180111T155621)
+Finished 46.67 percent at task# 10/50 with total 4.06 mins
+
+Processing the 143th image (T18TXM_S2A_2017333_20171129T155131)
+Finished 46.67 percent at task# 14/50 with total 4.08 mins
+
+Processing the 203th image (T18TXM_S2A_2018131_20180511T154911)
+Finished 60.00 percent at task# 7/50 with total 4.63 mins
+
+Processing the 100th image (T18TXM_S2A_2017166_20170615T160131)
+Finished 46.67 percent at task# 2/50 with total 4.60 mins
+
+Processing the 23th image (T18TXM_S2A_2016034_20160203T211758)
+Finished 26.67 percent at task# 47/50 with total 2.19 mins
+
+Processing the 695th image (T18TXM_S2B_2022062_20220303T154039)
+Finished 26.67 percent at task# 46/50 with total 2.19 mins
+
+Processing the 680th image (T18TXM_S2B_2022025_20220125T155529)
+Finished 60.00 percent at task# 6/50 with total 4.67 mins
+
+Processing the 85th image (T18TXM_S2A_2017093_20170403T155131)
+Finished 26.67 percent at task# 48/50 with total 2.17 mins
+
+Processing the 710th image (T18TXM_S2A_2022100_20220410T154811)
+Finished 40.00 percent at task# 21/50 with total 3.74 mins
+Finished 40.00 percent at task# 22/50 with total 3.74 mins
+
+Processing the 307th image (T18TXM_S2A_2019033_20190202T154451)
+
+Processing the 322th image (T18TXM_S2B_2019071_20190312T155209)
+Finished 40.00 percent at task# 23/50 with total 3.74 mins
+
+Processing the 337th image (T18TXM_S2B_2019108_20190418T153819)
+Finished 46.67 percent at task# 1/50 with total 4.68 mins
+
+Processing the 8th image (T18TXM_S2A_2015267_20150924T160136)
+Finished 33.33 percent at task# 28/50 with total 3.17 mins
+
+Processing the 411th image (T18TXM_S2A_2020068_20200308T154101)
+Finished 33.33 percent at task# 30/50 with total 3.17 mins
+
+Processing the 441th image (T18TXM_S2B_2020143_20200522T153809)
+Finished 33.33 percent at task# 29/50 with total 3.17 mins
+
+Processing the 426th image (T18TXM_S2B_2020106_20200415T154809)
+Finished 33.33 percent at task# 26/50 with total 3.17 mins
+
+Processing the 381th image (T18TXM_S2A_2019343_20191209T154631)
+Finished 33.33 percent at task# 27/50 with total 3.19 mins
+
+Processing the 396th image (T18TXM_S2A_2020028_20200128T154511)
+Finished 60.00 percent at task# 49/50 with total 1.71 mins
+
+Processing the 724th image (T18TXM_S2B_2022135_20220515T154809)
+Finished 26.67 percent at task# 20/50 with total 3.70 mins
+
+Processing the 290th image (T18TXM_S2B_2018356_20181222T155649)
+Finished 26.67 percent at task# 19/50 with total 3.72 mins
+
+Processing the 275th image (T18TXM_S2A_2018318_20181114T154511)
+Finished 26.67 percent at task# 18/50 with total 3.76 mins
+
+Processing the 260th image (T18TXM_S2A_2018278_20181005T154111)
+Finished 33.33 percent at task# 25/50 with total 3.26 mins
+
+Processing the 366th image (T18TXM_S2B_2019278_20191005T154109)
+Finished 26.67 percent at task# 33/50 with total 2.80 mins
+
+Processing the 485th image (T18TXM_S2B_2020256_20200912T154819)
+Finished 26.67 percent at task# 38/50 with total 2.86 mins
+Finished 33.33 percent at task# 31/50 with total 3.27 mins
+
+Processing the 560th image (T18TXM_S2B_2021080_20210321T154839)
+
+Processing the 456th image (T18TXM_S2A_2020181_20200629T154911)
+Finished 20.00 percent at task# 41/50 with total 2.32 mins
+
+Processing the 604th image (T18TXM_S2A_2021192_20210711T153911)
+Finished 20.00 percent at task# 44/50 with total 2.32 mins
+
+Processing the 649th image (T18TXM_S2A_2021305_20211101T155421)
+Finished 26.67 percent at task# 40/50 with total 2.87 mins
+
+Processing the 590th image (T18TXM_S2B_2021157_20210606T153809)
+Finished 26.67 percent at task# 36/50 with total 2.87 mins
+
+Processing the 530th image (T18TXM_S2A_2021005_20210105T155641)
+Finished 26.67 percent at task# 37/50 with total 2.82 mins
+
+Processing the 545th image (T18TXM_S2A_2021042_20210211T154351)
+Finished 26.67 percent at task# 39/50 with total 2.87 mins
+
+Processing the 575th image (T18TXM_S2B_2021120_20210430T154809)
+Finished 20.00 percent at task# 43/50 with total 2.33 mins
+
+Processing the 634th image (T18TXM_S2B_2021267_20210924T153859)
+Finished 20.00 percent at task# 42/50 with total 2.33 mins
+
+Processing the 619th image (T18TXM_S2B_2021230_20210818T154809)
+Finished 40.00 percent at task# 24/50 with total 3.89 mins
+
+Processing the 352th image (T18TXM_S2B_2019181_20190630T154819)
+Finished 26.67 percent at task# 35/50 with total 2.90 mins
+
+Processing the 515th image (T18TXM_S2A_2020331_20201126T155611)
+Finished 33.33 percent at task# 32/50 with total 3.30 mins
+
+Processing the 471th image (T18TXM_S2A_2020218_20200805T153911)
+Finished 40.00 percent at task# 8/50 with total 4.80 mins
+
+Processing the 112th image (T18TXM_S2A_2017223_20170811T153911)
+Finished 26.67 percent at task# 34/50 with total 3.05 mins
+
+Processing the 500th image (T18TXM_S2B_2020293_20201019T154159)
+Finished 40.00 percent at task# 3/50 with total 4.75 mins
+
+Processing the 37th image (T18TXM_S2A_2016130_20160509T012700)
+Finished 26.67 percent at task# 17/50 with total 4.00 mins
+
+Processing the 245th image (T18TXM_S2A_2018238_20180826T153901)
+Finished 40.00 percent at task# 5/50 with total 4.78 mins
+
+Processing the 67th image (T18TXM_S2A_2016339_20161204T181634)
+Finished 53.33 percent at task# 12/50 with total 4.58 mins
+
+Processing the 174th image (T18TXM_S2B_2018053_20180222T154239)
+Finished 53.33 percent at task# 9/50 with total 4.58 mins
+Finished 53.33 percent at task# 13/50 with total 4.58 mins
+
+Processing the 129th image (T18TXM_S2A_2017296_20171023T155321)
+
+Processing the 189th image (T18TXM_S2B_2018093_20180403T153859)
+Finished 40.00 percent at task# 15/50 with total 4.55 mins
+
+Processing the 217th image (T18TXM_S2A_2018168_20180617T153911)
+Finished 33.33 percent at task# 47/50 with total 2.63 mins
+
+Processing the 696th image (T18TXM_S2B_2022065_20220306T155029)
+Finished 33.33 percent at task# 46/50 with total 2.63 mins
+
+Processing the 681th image (T18TXM_S2A_2022027_20220127T154521)
+Finished 53.33 percent at task# 10/50 with total 4.60 mins
+Finished 66.67 percent at task# 7/50 with total 5.11 mins
+55621)
+
+Processing the 101th image (T18TXM_S2A_2017173_20170622T155131)
+Finished 53.33 percent at task# 11/50 with total 4.60 mins
+
+Processing the 159th image (T18TXM_S2B_2018013_20180113T154609)
+Finished 20.00 percent at task# 45/50 with total 2.59 mins
+
+Processing the 664th image (T18TXM_S2A_2021345_20211211T155651)
+Finished 33.33 percent at task# 48/50 with total 2.64 mins
+
+Processing the 711th image (T18TXM_S2B_2022102_20220412T153809)
+Finished 66.67 percent at task# 6/50 with total 5.19 mins
+
+Processing the 86th image (T18TXM_S2A_2017096_20170406T154901)
+Finished 53.33 percent at task# 14/50 with total 4.69 mins
+
+Processing the 204th image (T18TXM_S2B_2018133_20180513T153809)
+Finished 80.00 percent at task# 49/50 with total 2.18 mins
+
+Processing the 725th image (T18TXM_S2A_2022137_20220517T153821)
+Finished 40.00 percent at task# 4/50 with total 4.89 mins
+
+Processing the 52th image (T18TXM_S2A_2016251_20160907T065558)
+Finished 46.67 percent at task# 22/50 with total 4.36 mins
+
+Processing the 323th image (T18TXM_S2A_2019073_20190314T154021)
+Finished 53.33 percent at task# 2/50 with total 5.29 mins
+
+Processing the 24th image (T18TXM_S2A_2016043_20160212T011621)
+Finished 46.67 percent at task# 21/50 with total 4.38 mins
+
+Processing the 308th image (T18TXM_S2A_2019036_20190205T155431)
+Finished 46.67 percent at task# 23/50 with total 4.39 mins
+
+Processing the 338th image (T18TXM_S2B_2019111_20190421T154819)
+Finished 53.33 percent at task# 1/50 with total 5.38 mins
+
+Processing the 9th image (T18TXM_S2A_2015274_20151001T155136)
+Finished 40.00 percent at task# 28/50 with total 3.86 mins
+
+Processing the 412th image (T18TXM_S2A_2020071_20200311T155041)
+Finished 40.00 percent at task# 30/50 with total 3.87 mins
+Finished 40.00 percent at task# 29/50 with total 3.87 mins
+
+Processing the 442th image (T18TXM_S2B_2020146_20200525T154809)
+
+Processing the 427th image (T18TXM_S2A_2020108_20200417T153911)
+Finished 40.00 percent at task# 27/50 with total 3.87 mins
+
+Processing the 397th image (T18TXM_S2A_2020031_20200131T155501)
+Finished 40.00 percent at task# 26/50 with total 3.88 mins
+
+Processing the 382th image (T18TXM_S2B_2019351_20191217T155649)
+Finished 46.67 percent at task# 24/50 with total 4.51 mins
+
+Processing the 353th image (T18TXM_S2A_2019183_20190702T153911)
+Finished 40.00 percent at task# 25/50 with total 3.91 mins
+
+Processing the 367th image (T18TXM_S2A_2019283_20191010T154151)
+Finished 40.00 percent at task# 46/50 with total 3.13 mins
+
+Processing the 682th image (T18TXM_S2A_2022030_20220130T155511)
+Finished 40.00 percent at task# 47/50 with total 3.13 mins
+
+Processing the 697th image (T18TXM_S2A_2022067_20220308T154111)
+Finished 33.33 percent at task# 36/50 with total 3.64 mins
+
+Processing the 531th image (T18TXM_S2B_2021007_20210107T154629)
+Finished 26.67 percent at task# 41/50 with total 3.10 mins
+
+Processing the 605th image (T18TXM_S2A_2021195_20210714T154911)
+Finished 26.67 percent at task# 44/50 with total 3.10 mins
+
+Processing the 650th image (T18TXM_S2B_2021307_20211103T154329)
+Finished 33.33 percent at task# 33/50 with total 3.58 mins
+
+Processing the 486th image (T18TXM_S2A_2020258_20200914T153911)
+Finished 33.33 percent at task# 37/50 with total 3.59 mins
+Finished 33.33 percent at task# 40/50 with total 3.65 mins
+
+Processing the 546th image (T18TXM_S2A_2021045_20210214T155331)
+
+Processing the 591th image (T18TXM_S2B_2021160_20210609T154809)
+Finished 33.33 percent at task# 39/50 with total 3.65 mins
+
+Processing the 576th image (T18TXM_S2A_2021122_20210502T153901)
+Finished 26.67 percent at task# 43/50 with total 3.11 mins
+
+Processing the 635th image (T18TXM_S2B_2021270_20210927T154929)
+Finished 40.00 percent at task# 31/50 with total 4.07 mins
+
+Processing the 457th image (T18TXM_S2B_2020183_20200701T153809)
+Finished 33.33 percent at task# 38/50 with total 3.66 mins
+
+Processing the 561th image (T18TXM_S2A_2021082_20210323T153911)
+Finished 33.33 percent at task# 35/50 with total 3.66 mins
+
+Processing the 516th image (T18TXM_S2B_2020333_20201128T154609)
+Finished 40.00 percent at task# 32/50 with total 4.07 mins
+
+Processing the 472th image (T18TXM_S2A_2020221_20200808T154911)
+Finished 26.67 percent at task# 42/50 with total 3.12 mins
+
+Processing the 620th image (T18TXM_S2A_2021232_20210820T153911)
+Finished 33.33 percent at task# 19/50 with total 4.58 mins
+
+Processing the 276th image (T18TXM_S2A_2018321_20181117T155531)
+Finished 40.00 percent at task# 16/50 with total 5.11 mins
+
+Processing the 232th image (T18TXM_S2B_2018206_20180725T154809)
+Finished 40.00 percent at task# 48/50 with total 3.18 mins
+
+Processing the 712th image (T18TXM_S2B_2022105_20220415T154809)
+Finished 73.33 percent at task# 7/50 with total 5.68 mins
+
+Processing the 102th image (T18TXM_S2A_2017176_20170625T154901)
+Finished 60.00 percent at task# 9/50 with total 5.21 mins
+Finished 60.00 percent at task# 12/50 with total 5.21 mins
+
+Processing the 130th image (T18TXM_S2B_2017298_20171025T154319)
+Finished 60.00 percent at task# 13/50 with total 5.21 mins
+
+Processing the 175th image (T18TXM_S2B_2018056_20180225T155219)
+
+Processing the 190th image (T18TXM_S2B_2018096_20180406T154859)
+Finished 60.00 percent at task# 10/50 with total 5.24 mins
+Finished 60.00 percent at task# 11/50 with total 5.24 mins
+
+Processing the 145th image (T18TXM_S2B_2017341_20171207T155629)
+
+Processing the 160th image (T18TXM_S2B_2018016_20180116T155609)
+Finished 100.00 percent at task# 49/50 with total 2.73 mins
+Finished 33.33 percent at task# 20/50 with total 4.72 mins
+
+Processing the 291th image (T18TXM_S2A_2018358_20181224T154641)
+Finished 73.33 percent at task# 6/50 with total 5.80 mins
+
+Processing the 87th image (T18TXM_S2A_2017103_20170413T153911)
+Finished 46.67 percent at task# 8/50 with total 5.73 mins
+
+Processing the 113th image (T18TXM_S2A_2017226_20170814T160131)
+Finished 33.33 percent at task# 18/50 with total 4.78 mins
+
+Processing the 261th image (T18TXM_S2A_2018281_20181008T155141)
+Finished 46.67 percent at task# 3/50 with total 5.60 mins
+
+Processing the 38th image (T18TXM_S2A_2016133_20160512T064215)
+Finished 46.67 percent at task# 15/50 with total 5.38 mins
+
+Processing the 218th image (T18TXM_S2A_2018171_20180620T155011)
+Finished 60.00 percent at task# 14/50 with total 5.41 mins
+
+Processing the 205th image (T18TXM_S2A_2018138_20180518T154021)
+Finished 33.33 percent at task# 34/50 with total 3.93 mins
+
+Processing the 501th image (T18TXM_S2B_2020296_20201022T155229)
+Finished 46.67 percent at task# 5/50 with total 5.64 mins
+
+Processing the 68th image (T18TXM_S2A_2017003_20170103T154632)
+Finished 26.67 percent at task# 45/50 with total 3.45 mins
+
+Processing the 665th image (T18TXM_S2A_2021352_20211218T154651)
+Finished 60.00 percent at task# 2/50 with total 5.97 mins
+
+Processing the 25th image (T18TXM_S2A_2016053_20160222T125257)
+Finished 33.33 percent at task# 17/50 with total 4.95 mins
+
+Processing the 246th image (T18TXM_S2A_2018241_20180829T154901)
+Finished 53.33 percent at task# 22/50 with total 5.06 mins
+
+Processing the 324th image (T18TXM_S2A_2019076_20190317T155001)
+Finished 60.00 percent at task# 1/50 with total 6.01 mins
+
+Processing the 10th image (T18TXM_S2A_2015277_20151004T160016)
+Finished 53.33 percent at task# 21/50 with total 5.10 mins
+
+Processing the 309th image (T18TXM_S2B_2019038_20190207T154419)
+Finished 53.33 percent at task# 23/50 with total 5.12 mins
+
+Processing the 339th image (T18TXM_S2A_2019113_20190423T153911)
+Finished 46.67 percent at task# 30/50 with total 4.55 mins
+
+Processing the 443th image (T18TXM_S2A_2020148_20200527T153911)
+Finished 46.67 percent at task# 29/50 with total 4.55 mins
+Finished 46.67 percent at task# 27/50 with total 4.55 mins
+
+Processing the 428th image (T18TXM_S2A_2020111_20200420T154911)
+
+Processing the 398th image (T18TXM_S2B_2020036_20200205T155429)
+Finished 46.67 percent at task# 28/50 with total 4.56 mins
+
+Processing the 413th image (T18TXM_S2B_2020073_20200313T153929)
+Finished 46.67 percent at task# 26/50 with total 4.56 mins
+
+Processing the 383th image (T18TXM_S2A_2019353_20191219T154641)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 46.67 percent at task# 46/50 with total 3.70 mins
+
+Processing the 683th image (T18TXM_S2B_2022032_20220201T154449)
+Finished 46.67 percent at task# 47/50 with total 3.70 mins
+
+Processing the 698th image (T18TXM_S2A_2022070_20220311T155051)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 49/50 to process -20 images
+Finished 53.33 percent at task# 24/50 with total 5.27 mins
+
+Processing the 354th image (T18TXM_S2A_2019186_20190705T154911)
+Finished 46.67 percent at task# 25/50 with total 4.66 mins
+
+Processing the 368th image (T18TXM_S2A_2019286_20191013T155211)
+Finished 46.67 percent at task# 4/50 with total 5.84 mins
+
+Processing the 53th image (T18TXM_S2A_2016271_20160927T040940)
+Finished 46.67 percent at task# 48/50 with total 3.77 mins
+
+Processing the 713th image (T18TXM_S2A_2022107_20220417T153811)
+Finished 80.00 percent at task# 7/50 with total 6.32 mins
+
+Processing the 103th image (T18TXM_S2B_2017181_20170630T160029)
+Finished 66.67 percent at task# 13/50 with total 5.89 mins
+
+Processing the 191th image (T18TXM_S2A_2018098_20180408T153911)
+Finished 66.67 percent at task# 12/50 with total 5.89 mins
+
+Processing the 176th image (T18TXM_S2A_2018058_20180227T154211)
+Finished 66.67 percent at task# 9/50 with total 5.91 mins
+
+Processing the 131th image (T18TXM_S2B_2017301_20171028T160119)
+Finished 66.67 percent at task# 11/50 with total 5.93 mins
+
+Processing the 161th image (T18TXM_S2A_2018018_20180118T154551)
+Finished 66.67 percent at task# 10/50 with total 5.93 mins
+
+Processing the 146th image (T18TXM_S2A_2017343_20171209T154631)
+Finished 40.00 percent at task# 36/50 with total 4.48 mins
+
+Processing the 532th image (T18TXM_S2B_2021010_20210110T155629)
+Finished 80.00 percent at task# 6/50 with total 6.46 mins
+Finished 33.33 percent at task# 41/50 with total 3.94 mins
+
+Processing the 88th image (T18TXM_S2A_2017106_20170416T160131)
+
+Processing the 606th image (T18TXM_S2B_2021197_20210716T153809)
+Finished 40.00 percent at task# 33/50 with total 4.42 mins
+
+Processing the 487th image (T18TXM_S2A_2020261_20200917T154921)
+Finished 33.33 percent at task# 44/50 with total 3.94 mins
+
+Processing the 651th image (T18TXM_S2B_2021310_20211106T155439)
+Finished 40.00 percent at task# 40/50 with total 4.51 mins
+
+Processing the 592th image (T18TXM_S2A_2021162_20210611T153911)
+Finished 40.00 percent at task# 38/50 with total 4.51 mins
+
+Processing the 562th image (T18TXM_S2A_2021085_20210326T154901)
+Finished 40.00 percent at task# 39/50 with total 4.51 mins
+
+Processing the 577th image (T18TXM_S2A_2021125_20210505T154901)
+Finished 33.33 percent at task# 43/50 with total 3.97 mins
+
+Processing the 636th image (T18TXM_S2A_2021272_20210929T154041)
+Finished 40.00 percent at task# 37/50 with total 4.46 mins
+
+Processing the 547th image (T18TXM_S2B_2021047_20210216T154219)
+Finished 40.00 percent at task# 35/50 with total 4.52 mins
+
+Processing the 517th image (T18TXM_S2B_2020336_20201201T155629)
+Finished 46.67 percent at task# 32/50 with total 4.93 mins
+
+Processing the 473th image (T18TXM_S2B_2020223_20200810T153819)
+Finished 33.33 percent at task# 42/50 with total 3.98 mins
+
+Processing the 621th image (T18TXM_S2A_2021235_20210823T154911)
+Finished 46.67 percent at task# 31/50 with total 4.94 mins
+
+Processing the 458th image (T18TXM_S2B_2020186_20200704T154819)
+Finished 40.00 percent at task# 19/50 with total 5.49 mins
+
+Processing the 277th image (T18TXM_S2B_2018323_20181119T154539)
+Finished 46.67 percent at task# 16/50 with total 6.05 mins
+
+Processing the 233th image (T18TXM_S2A_2018208_20180727T153911)
+Finished 66.67 percent at task# 2/50 with total 6.57 mins
+
+Processing the 26th image (T18TXM_S2A_2016071_20160311T114846)
+Finished 66.67 percent at task# 1/50 with total 6.59 mins
+
+Processing the 11th image (T18TXM_S2A_2015294_20151021T155022)
+Finished 66.67 percent at task# 14/50 with total 6.12 mins
+
+Processing the 206th image (T18TXM_S2A_2018141_20180521T154911)
+Finished 40.00 percent at task# 20/50 with total 5.66 mins
+
+Processing the 292th image (T18TXM_S2A_2018361_20181227T155651)
+Finished 53.33 percent at task# 47/50 with total 4.27 mins
+Finished 53.33 percent at task# 46/50 with total 4.27 mins
+
+Processing the 684th image (T18TXM_S2B_2022035_20220204T155439)
+
+Processing the 699th image (T18TXM_S2B_2022072_20220313T153929)
+Finished 53.33 percent at task# 8/50 with total 6.66 mins
+
+Processing the 114th image (T18TXM_S2A_2017233_20170821T155131)
+Finished 40.00 percent at task# 18/50 with total 5.71 mins
+
+Processing the 262th image (T18TXM_S2B_2018283_20181010T154249)
+Finished 53.33 percent at task# 15/50 with total 6.24 mins
+
+Processing the 219th image (T18TXM_S2B_2018173_20180622T153809)
+Finished 53.33 percent at task# 3/50 with total 6.49 mins
+
+Processing the 39th image (T18TXM_S2A_2016140_20160519T015044)
+Finished 60.00 percent at task# 22/50 with total 5.84 mins
+
+Processing the 325th image (T18TXM_S2B_2019078_20190319T153949)
+Finished 53.33 percent at task# 48/50 with total 4.31 mins
+
+Processing the 714th image (T18TXM_S2A_2022110_20220420T154941)
+Finished 60.00 percent at task# 23/50 with total 5.86 mins
+
+Processing the 340th image (T18TXM_S2A_2019116_20190426T154911)
+Finished 60.00 percent at task# 21/50 with total 5.87 mins
+
+Processing the 310th image (T18TXM_S2B_2019041_20190210T155409)
+Finished 40.00 percent at task# 34/50 with total 4.85 mins
+
+Processing the 502th image (T18TXM_S2A_2020298_20201024T154331)
+Finished 53.33 percent at task# 30/50 with total 5.30 mins
+
+Processing the 444th image (T18TXM_S2A_2020151_20200530T154911)
+Finished 53.33 percent at task# 29/50 with total 5.30 mins
+
+Processing the 429th image (T18TXM_S2B_2020113_20200422T153809)
+Finished 53.33 percent at task# 28/50 with total 5.31 mins
+Finished 53.33 percent at task# 27/50 with total 5.31 mins
+
+Processing the 414th image (T18TXM_S2B_2020076_20200316T154909)
+
+Processing the 399th image (T18TXM_S2A_2020038_20200207T154421)
+Finished 53.33 percent at task# 26/50 with total 5.32 mins
+
+Processing the 384th image (T18TXM_S2A_2019356_20191222T155651)
+Finished 33.33 percent at task# 45/50 with total 4.36 mins
+
+Processing the 666th image (T18TXM_S2A_2021355_20211221T155701)
+Finished 86.67 percent at task# 7/50 with total 6.90 mins
+
+Processing the 104th image (T18TXM_S2A_2017183_20170702T154421)
+Finished 53.33 percent at task# 5/50 with total 6.61 mins
+
+Processing the 69th image (T18TXM_S2A_2017006_20170106T155631)
+Finished 53.33 percent at task# 25/50 with total 5.35 mins
+
+Processing the 369th image (T18TXM_S2A_2019293_20191020T154301)
+Finished 60.00 percent at task# 24/50 with total 5.96 mins
+
+Processing the 355th image (T18TXM_S2B_2019188_20190707T153819)
+Finished 40.00 percent at task# 17/50 with total 5.88 mins
+
+Processing the 247th image (T18TXM_S2B_2018243_20180831T153759)
+Finished 73.33 percent at task# 9/50 with total 6.51 mins
+
+Processing the 132th image (T18TXM_S2A_2017303_20171030T154351)
+Finished 73.33 percent at task# 13/50 with total 6.51 mins
+
+Processing the 192th image (T18TXM_S2A_2018101_20180411T155011)
+Finished 73.33 percent at task# 12/50 with total 6.52 mins
+
+Processing the 177th image (T18TXM_S2A_2018061_20180302T155151)
+Finished 86.67 percent at task# 6/50 with total 7.05 mins
+
+Finished 73.33 percent at task# 10/50 with total 6.54 mins
+
+Processing the 162th image (T18TXM_S2A_2018021_20180121T160121)
+
+Processing the 147th image (T18TXM_S2A_2017346_20171212T160121)
+Finished 53.33 percent at task# 4/50 with total 6.67 mins
+
+Processing the 54th image (T18TXM_S2A_2016272_20160928T230733)
+Finished 73.33 percent at task# 1/50 with total 7.07 mins
+
+Processing the 12th image (T18TXM_S2A_2015317_20151113T160052)
+Finished 73.33 percent at task# 2/50 with total 7.07 mins
+
+Processing the 27th image (T18TXM_S2A_2016073_20160313T002819)
+Finished 73.33 percent at task# 14/50 with total 6.72 mins
+
+Processing the 207th image (T18TXM_S2B_2018143_20180523T153819)
+Finished 60.00 percent at task# 47/50 with total 4.78 mins
+
+Processing the 700th image (T18TXM_S2B_2022075_20220316T154909)
+Finished 60.00 percent at task# 46/50 with total 4.78 mins
+
+Processing the 685th image (T18TXM_S2A_2022037_20220206T154431)
+Finished 46.67 percent at task# 33/50 with total 5.23 mins
+
+Processing the 488th image (T18TXM_S2B_2020263_20200919T153819)
+Finished 40.00 percent at task# 41/50 with total 4.75 mins
+
+Processing the 607th image (T18TXM_S2B_2021200_20210719T154819)
+Finished 46.67 percent at task# 40/50 with total 5.30 mins
+
+Processing the 593th image (T18TXM_S2A_2021165_20210614T154911)
+Finished 46.67 percent at task# 36/50 with total 5.30 mins
+
+Processing the 533th image (T18TXM_S2A_2021012_20210112T154621)
+Finished 40.00 percent at task# 43/50 with total 4.75 mins
+
+Processing the 637th image (T18TXM_S2A_2021275_20211002T155101)
+Finished 40.00 percent at task# 44/50 with total 4.76 mins
+
+Processing the 652th image (T18TXM_S2A_2021315_20211111T155511)
+Finished 60.00 percent at task# 48/50 with total 4.79 mins
+
+Processing the 715th image (T18TXM_S2B_2022112_20220422T153809)
+Finished 46.67 percent at task# 37/50 with total 5.25 mins
+
+Processing the 548th image (T18TXM_S2B_2021050_20210219T155209)
+Finished 53.33 percent at task# 31/50 with total 5.72 mins
+
+Processing the 459th image (T18TXM_S2A_2020188_20200706T153911)
+Finished 53.33 percent at task# 32/50 with total 5.72 mins
+
+Processing the 474th image (T18TXM_S2B_2020226_20200813T154819)
+Finished 46.67 percent at task# 35/50 with total 5.32 mins
+
+Processing the 518th image (T18TXM_S2A_2020338_20201203T154631)
+Finished 40.00 percent at task# 42/50 with total 4.78 mins
+
+Processing the 622th image (T18TXM_S2B_2021237_20210825T153809)
+Finished 46.67 percent at task# 38/50 with total 5.33 mins
+
+Processing the 563th image (T18TXM_S2B_2021087_20210328T153809)
+Finished 46.67 percent at task# 39/50 with total 5.33 mins
+
+Processing the 578th image (T18TXM_S2B_2021127_20210507T153809)
+Finished 46.67 percent at task# 19/50 with total 6.28 mins
+
+Processing the 278th image (T18TXM_S2B_2018326_20181122T155549)
+Finished 53.33 percent at task# 16/50 with total 6.82 mins
+
+Processing the 234th image (T18TXM_S2A_2018211_20180730T154911)
+Finished 66.67 percent at task# 23/50 with total 6.48 mins
+Finished 66.67 percent at task# 21/50 with total 6.48 mins
+
+Processing the 341th image (T18TXM_S2B_2019121_20190501T154819)
+
+Processing the 311th image (T18TXM_S2A_2019043_20190212T154351)
+Finished 66.67 percent at task# 22/50 with total 6.48 mins
+
+Processing the 326th image (T18TXM_S2B_2019081_20190322T154919)
+Finished 93.33 percent at task# 7/50 with total 7.46 mins
+
+Processing the 105th image (T18TXM_S2A_2017186_20170705T160131)
+Finished 60.00 percent at task# 8/50 with total 7.40 mins
+
+Processing the 115th image (T18TXM_S2A_2017236_20170824T154911)
+Finished 46.67 percent at task# 18/50 with total 6.46 mins
+
+Processing the 263th image (T18TXM_S2B_2018286_20181013T155209)
+Finished 60.00 percent at task# 15/50 with total 6.98 mins
+
+Processing the 220th image (T18TXM_S2B_2018176_20180625T154809)
+Finished 60.00 percent at task# 30/50 with total 5.97 mins
+
+Processing the 445th image (T18TXM_S2B_2020153_20200601T153809)
+Finished 60.00 percent at task# 27/50 with total 5.97 mins
+
+Processing the 400th image (T18TXM_S2A_2020041_20200210T155401)
+Finished 60.00 percent at task# 29/50 with total 5.97 mins
+
+Processing the 430th image (T18TXM_S2B_2020116_20200425T154809)
+Finished 60.00 percent at task# 26/50 with total 5.98 mins
+
+Processing the 385th image (T18TXM_S2A_2020001_20200101T155641)
+Finished 60.00 percent at task# 3/50 with total 7.23 mins
+
+Processing the 40th image (T18TXM_S2A_2016142_20160521T230349)
+Finished 60.00 percent at task# 25/50 with total 5.98 mins
+
+Processing the 370th image (T18TXM_S2A_2019296_20191023T155321)
+Finished 60.00 percent at task# 28/50 with total 5.99 mins
+
+Processing the 415th image (T18TXM_S2A_2020078_20200318T153941)
+Finished 46.67 percent at task# 20/50 with total 6.51 mins
+
+Processing the 293th image (T18TXM_S2B_2018363_20181229T154649)
+Finished 80.00 percent at task# 2/50 with total 7.56 mins
+
+Processing the 28th image (T18TXM_S2A_2016080_20160320T022344)
+Finished 80.00 percent at task# 1/50 with total 7.56 mins
+
+Processing the 13th image (T18TXM_S2A_2015324_20151120T154542)
+Finished 93.33 percent at task# 6/50 with total 7.62 mins
+
+Processing the 90th image (T18TXM_S2A_2017116_20170426T154911)
+Finished 80.00 percent at task# 13/50 with total 7.11 mins
+
+Processing the 193th image (T18TXM_S2B_2018103_20180413T153909)
+Finished 80.00 percent at task# 12/50 with total 7.12 mins
+
+Processing the 178th image (T18TXM_S2B_2018063_20180304T154129)
+Finished 80.00 percent at task# 9/50 with total 7.12 mins
+
+Processing the 133th image (T18TXM_S2A_2017306_20171102T160131)
+Finished 66.67 percent at task# 24/50 with total 6.66 mins
+
+Processing the 356th image (T18TXM_S2B_2019198_20190717T153819)
+Finished 60.00 percent at task# 5/50 with total 7.35 mins
+
+Processing the 70th image (T18TXM_S2A_2017013_20170113T155121)
+Finished 80.00 percent at task# 11/50 with total 7.15 mins
+
+Processing the 163th image (T18TXM_S2B_2018023_20180123T154529)
+Finished 80.00 percent at task# 10/50 with total 7.15 mins
+
+Processing the 148th image (T18TXM_S2B_2017348_20171214T154639)
+Finished 46.67 percent at task# 34/50 with total 5.68 mins
+
+Processing the 503th image (T18TXM_S2A_2020301_20201027T155341)
+Finished 66.67 percent at task# 47/50 with total 5.29 mins
+
+Processing the 701th image (T18TXM_S2A_2022077_20220318T154001)
+Finished 66.67 percent at task# 48/50 with total 5.27 mins
+
+Processing the 716th image (T18TXM_S2B_2022115_20220425T154809)
+Finished 66.67 percent at task# 46/50 with total 5.30 mins
+
+Processing the 686th image (T18TXM_S2A_2022040_20220209T155411)
+Finished 40.00 percent at task# 45/50 with total 5.25 mins
+
+Processing the 667th image (T18TXM_S2B_2021357_20211223T154649)
+Finished 60.00 percent at task# 4/50 with total 7.40 mins
+
+Processing the 55th image (T18TXM_S2A_2016280_20161006T004910)
+Finished 80.00 percent at task# 14/50 with total 7.33 mins
+
+Processing the 208th image (T18TXM_S2B_2018146_20180526T155239)
+Finished 46.67 percent at task# 17/50 with total 6.78 mins
+
+Processing the 248th image (T18TXM_S2B_2018246_20180903T155019)
+Finished 100.00 percent at task# 7/50 with total 8.00 mins
+Finished 60.00 percent at task# 31/50 with total 6.52 mins
+
+Processing the 460th image (T18TXM_S2A_2020191_20200709T154911)
+Finished 86.67 percent at task# 1/50 with total 8.06 mins
+Finished 86.67 percent at task# 2/50 with total 8.06 mins
+
+Processing the 14th image (T18TXM_S2A_2015327_20151123T160132)
+
+Processing the 29th image (T18TXM_S2A_2016083_20160323T025845)
+Finished 46.67 percent at task# 41/50 with total 5.57 mins
+
+Processing the 608th image (T18TXM_S2A_2021202_20210721T153911)
+Finished 53.33 percent at task# 33/50 with total 6.06 mins
+Finished 53.33 percent at task# 36/50 with total 6.12 mins
+
+Processing the 489th image (T18TXM_S2B_2020266_20200922T154859)
+
+Processing the 534th image (T18TXM_S2A_2021015_20210115T155611)
+Finished 53.33 percent at task# 35/50 with total 6.12 mins
+
+Processing the 519th image (T18TXM_S2A_2020341_20201206T155641)
+Finished 46.67 percent at task# 43/50 with total 5.58 mins
+
+Processing the 638th image (T18TXM_S2B_2021277_20211004T154009)
+Finished 53.33 percent at task# 37/50 with total 6.07 mins
+
+Processing the 549th image (T18TXM_S2A_2021052_20210221T154251)
+Finished 53.33 percent at task# 40/50 with total 6.13 mins
+
+Processing the 594th image (T18TXM_S2B_2021167_20210616T153809)
+Finished 53.33 percent at task# 19/50 with total 7.04 mins
+
+Processing the 279th image (T18TXM_S2A_2018328_20181124T154551)
+Finished 46.67 percent at task# 42/50 with total 5.58 mins
+
+Processing the 475th image (T18TXM_S2A_2020228_20200815T153911)
+
+Processing the 623th image (T18TXM_S2B_2021240_20210828T154809)
+Finished 46.67 percent at task# 44/50 with total 5.59 mins
+
+Processing the 653th image (T18TXM_S2B_2021317_20211113T154509)
+Finished 53.33 percent at task# 38/50 with total 6.15 mins
+
+Processing the 564th image (T18TXM_S2B_2021090_20210331T154809)
+Finished 73.33 percent at task# 23/50 with total 7.19 mins
+
+Processing the 342th image (T18TXM_S2A_2019126_20190506T154911)
+Finished 73.33 percent at task# 21/50 with total 7.20 mins
+
+Processing the 312th image (T18TXM_S2A_2019046_20190215T155331)
+Finished 60.00 percent at task# 16/50 with total 7.62 mins
+
+Processing the 235th image (T18TXM_S2B_2018213_20180801T154109)
+Finished 66.67 percent at task# 28/50 with total 6.62 mins
+
+Processing the 416th image (T18TXM_S2A_2020081_20200321T154931)
+Finished 66.67 percent at task# 30/50 with total 6.62 mins
+
+Processing the 446th image (T18TXM_S2B_2020156_20200604T154819)
+Finished 66.67 percent at task# 26/50 with total 6.62 mins
+
+Processing the 386th image (T18TXM_S2B_2020003_20200103T154639)
+Finished 100.00 percent at task# 6/50 with total 8.18 mins
+Finished 66.67 percent at task# 29/50 with total 6.62 mins
+
+Processing the 431th image (T18TXM_S2A_2020118_20200427T153911)
+Finished 66.67 percent at task# 27/50 with total 6.62 mins
+
+Processing the 401th image (T18TXM_S2B_2020043_20200212T154249)
+Finished 73.33 percent at task# 48/50 with total 5.72 mins
+
+Processing the 717th image (T18TXM_S2A_2022117_20220427T153821)
+Finished 73.33 percent at task# 22/50 with total 7.26 mins
+
+Processing the 327th image (T18TXM_S2A_2019083_20190324T153911)
+Finished 86.67 percent at task# 9/50 with total 7.72 mins
+
+Processing the 134th image (T18TXM_S2B_2017308_20171104T155119)
+Finished 86.67 percent at task# 13/50 with total 7.72 mins
+
+Processing the 194th image (T18TXM_S2B_2018106_20180416T154909)
+Finished 66.67 percent at task# 25/50 with total 6.66 mins
+
+Processing the 371th image (T18TXM_S2A_2019303_20191030T154401)
+
+Processing the 179th image (T18TXM_S2B_2018066_20180307T155109)
+Finished 53.33 percent at task# 39/50 with total 6.26 mins
+
+Processing the 579th image (T18TXM_S2B_2021130_20210510T154809)
+Finished 73.33 percent at task# 47/50 with total 5.78 mins
+Finished 73.33 percent at task# 46/50 with total 5.78 mins
+
+Processing the 702th image (T18TXM_S2A_2022080_20220321T154941)
+
+Processing the 687th image (T18TXM_S2B_2022042_20220211T154259)
+Finished 86.67 percent at task# 10/50 with total 7.76 mins
+Finished 86.67 percent at task# 11/50 with total 7.75 mins
+
+Processing the 149th image (T18TXM_S2B_2017351_20171217T155639)
+
+Processing the 164th image (T18TXM_S2B_2018026_20180126T155519)
+Finished 66.67 percent at task# 8/50 with total 8.17 mins
+Finished 66.67 percent at task# 15/50 with total 7.74 mins
+
+Processing the 116th image (T18TXM_S2A_2017243_20170831T153911)
+
+Processing the 221th image (T18TXM_S2A_2018178_20180627T153911)
+Finished 53.33 percent at task# 18/50 with total 7.24 mins
+
+Processing the 264th image (T18TXM_S2A_2018288_20181015T154221)
+Finished 66.67 percent at task# 3/50 with total 8.00 mins
+
+Processing the 41th image (T18TXM_S2A_2016150_20160529T011914)
+Finished 73.33 percent at task# 24/50 with total 7.38 mins
+
+Processing the 357th image (T18TXM_S2B_2019201_20190720T154819)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 66.67 percent at task# 5/50 with total 8.08 mins
+
+Processing the 71th image (T18TXM_S2A_2017016_20170116T155601)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 7/50 to process 13 images
+
+Processing the 79th image (T15RXQ_S2A_2017161_20170610T164321)
+Finished 53.33 percent at task# 20/50 with total 7.38 mins
+
+Processing the 294th image (T18TXM_S2B_2019001_20190101T155649)
+Finished 86.67 percent at task# 14/50 with total 7.94 mins
+
+Processing the 209th image (T18TXM_S2A_2018148_20180528T153911)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 6/50 to process 13 images
+
+Processing the 66th image (T15RXQ_S2A_2017071_20170312T165441)
+Finished 66.67 percent at task# 4/50 with total 8.08 mins
+
+Processing the 56th image (T18TXM_S2A_2016287_20161013T204031)
+Finished 53.33 percent at task# 34/50 with total 6.53 mins
+
+Processing the 504th image (T18TXM_S2B_2020303_20201029T154359)
+Finished 93.33 percent at task# 2/50 with total 8.52 mins
+Finished 93.33 percent at task# 1/50 with total 8.52 mins
+
+Processing the 30th image (T18TXM_S2A_2016093_20160402T012517)
+
+Processing the 15th image (T18TXM_S2A_2015334_20151130T155132)
+Finished 53.33 percent at task# 17/50 with total 7.57 mins
+
+Processing the 249th image (T18TXM_S2A_2018248_20180905T153901)
+Finished 80.00 percent at task# 48/50 with total 6.14 mins
+
+Processing the 718th image (T18TXM_S2A_2022120_20220430T154821)
+Finished 46.67 percent at task# 45/50 with total 6.15 mins
+
+Processing the 668th image (T18TXM_S2B_2021360_20211226T155649)
+Finished 80.00 percent at task# 47/50 with total 6.21 mins
+
+Processing the 703th image (T18TXM_S2B_2022082_20220323T153809)
+Finished 80.00 percent at task# 46/50 with total 6.23 mins
+
+Processing the 688th image (T18TXM_S2B_2022045_20220214T155239)
+Finished 80.00 percent at task# 23/50 with total 7.76 mins
+
+Processing the 343th image (T18TXM_S2B_2019131_20190511T154819)
+Finished 80.00 percent at task# 21/50 with total 7.76 mins
+
+Processing the 313th image (T18TXM_S2B_2019048_20190217T154319)
+Finished 93.33 percent at task# 13/50 with total 8.27 mins
+
+Processing the 195th image (T18TXM_S2A_2018108_20180418T153911)
+Finished 93.33 percent at task# 12/50 with total 8.27 mins
+
+Processing the 180th image (T18TXM_S2A_2018068_20180309T154051)
+Finished 93.33 percent at task# 9/50 with total 8.27 mins
+
+Processing the 135th image (T18TXM_S2B_2017311_20171107T155429)
+Finished 93.33 percent at task# 11/50 with total 8.30 mins
+
+Processing the 165th image (T18TXM_S2A_2018031_20180131T155501)
+Finished 93.33 percent at task# 10/50 with total 8.30 mins
+
+Processing the 150th image (T18TXM_S2A_2017353_20171219T155131)
+Finished 73.33 percent at task# 25/50 with total 7.26 mins
+
+Processing the 372th image (T18TXM_S2A_2019306_20191102T155421)
+Finished 73.33 percent at task# 30/50 with total 7.29 mins
+
+Processing the 447th image (T18TXM_S2A_2020158_20200606T153911)
+Finished 80.00 percent at task# 22/50 with total 7.89 mins
+
+Processing the 328th image (T18TXM_S2A_2019086_20190327T154901)
+Finished 73.33 percent at task# 29/50 with total 7.30 mins
+
+Processing the 432th image (T18TXM_S2A_2020121_20200430T154911)
+Finished 73.33 percent at task# 27/50 with total 7.30 mins
+
+Processing the 402th image (T18TXM_S2B_2020046_20200215T155239)
+Finished 73.33 percent at task# 26/50 with total 7.31 mins
+
+Processing the 387th image (T18TXM_S2B_2020006_20200106T155639)
+Finished 60.00 percent at task# 33/50 with total 6.84 mins
+Finished 53.33 percent at task# 41/50 with total 6.36 mins
+Finished 66.67 percent at task# 31/50 with total 7.31 mins
+
+Processing the 609th image (T18TXM_S2A_2021205_20210724T154911)
+
+Processing the 490th image (T18TXM_S2A_2020268_20200924T154001)
+
+Processing the 461th image (T18TXM_S2B_2020193_20200711T153809)
+Finished 60.00 percent at task# 37/50 with total 6.85 mins
+
+Processing the 550th image (T18TXM_S2A_2021055_20210224T155231)
+Finished 53.33 percent at task# 43/50 with total 6.36 mins
+
+Processing the 639th image (T18TXM_S2B_2021280_20211007T155039)
+Finished 60.00 percent at task# 40/50 with total 6.91 mins
+
+Processing the 595th image (T18TXM_S2B_2021170_20210619T154809)
+Finished 60.00 percent at task# 35/50 with total 6.91 mins
+
+Processing the 520th image (T18TXM_S2B_2020343_20201208T154639)
+Finished 60.00 percent at task# 19/50 with total 7.83 mins
+
+Processing the 280th image (T18TXM_S2A_2018331_20181127T155601)
+Finished 60.00 percent at task# 36/50 with total 6.92 mins
+
+Processing the 535th image (T18TXM_S2B_2021017_20210117T154559)
+Finished 73.33 percent at task# 28/50 with total 7.34 mins
+
+Processing the 417th image (T18TXM_S2B_2020083_20200323T153809)
+Finished 53.33 percent at task# 42/50 with total 6.38 mins
+
+Processing the 624th image (T18TXM_S2A_2021242_20210830T153911)
+Finished 53.33 percent at task# 44/50 with total 6.39 mins
+
+Processing the 654th image (T18TXM_S2B_2021320_20211116T155529)
+Finished 7.69 percent at task# 7/50 with total 0.50 mins
+
+Processing the 80th image (T15RXQ_S2A_2017181_20170630T164321)
+Finished 7.69 percent at task# 6/50 with total 0.44 mins
+
+Processing the 67th image (T15RXQ_S2A_2017074_20170315T165301)
+Finished 73.33 percent at task# 3/50 with total 8.66 mins
+
+Processing the 42th image (T18TXM_S2A_2016160_20160608T040756)
+Finished 100.00 percent at task# 2/50 with total 8.95 mins
+Finished 100.00 percent at task# 1/50 with total 8.95 mins
+Finished 80.00 percent at task# 24/50 with total 8.05 mins
+
+Processing the 358th image (T18TXM_S2A_2019206_20190725T154911)
+Finished 93.33 percent at task# 14/50 with total 8.51 mins
+
+Processing the 210th image (T18TXM_S2A_2018151_20180531T155021)
+Finished 66.67 percent at task# 16/50 with total 8.48 mins
+
+Processing the 236th image (T18TXM_S2B_2018216_20180804T154859)
+Finished 66.67 percent at task# 32/50 with total 7.47 mins
+
+Processing the 476th image (T18TXM_S2B_2020233_20200820T153819)
+Finished 60.00 percent at task# 38/50 with total 7.07 mins
+
+Processing the 565th image (T18TXM_S2A_2021092_20210402T153901)
+Finished 73.33 percent at task# 8/50 with total 8.94 mins
+
+Processing the 117th image (T18TXM_S2A_2017246_20170903T160131)
+Finished 73.33 percent at task# 5/50 with total 8.76 mins
+
+Processing the 72th image (T18TXM_S2A_2017023_20170123T154531)
+Finished 60.00 percent at task# 18/50 with total 8.01 mins
+
+Processing the 265th image (T18TXM_S2A_2018291_20181018T155241)
+Finished 86.67 percent at task# 48/50 with total 6.58 mins
+
+Processing the 719th image (T18TXM_S2B_2022122_20220502T153809)
+Finished 73.33 percent at task# 15/50 with total 8.56 mins
+
+Processing the 222th image (T18TXM_S2A_2018181_20180630T154911)
+Finished 86.67 percent at task# 46/50 with total 6.64 mins
+
+Processing the 689th image (T18TXM_S2A_2022047_20220216T154321)
+Finished 86.67 percent at task# 47/50 with total 6.65 mins
+
+Processing the 704th image (T18TXM_S2B_2022085_20220326T154809)
+Finished 73.33 percent at task# 4/50 with total 8.70 mins
+
+Processing the 57th image (T18TXM_S2A_2016291_20161017T021717)
+Finished 60.00 percent at task# 39/50 with total 7.15 mins
+
+Processing the 580th image (T18TXM_S2A_2021132_20210512T153911)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+[Warning: Unable to load Toolbox Path Cache
+/home/kes20012/.matlab/R2023b/toolbox_cache-23.2.0-63506533-glnxa64.xml. The
+cache file is not in the correct format. It will be regenerated upon quitting
+MATLAB.] 
+Finished 60.00 percent at task# 20/50 with total 8.22 mins
+
+Processing the 295th image (T18TXM_S2A_2019003_20190103T154641)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 15.38 percent at task# 6/50 with total 0.80 mins
+
+Processing the 68th image (T15RXQ_S2A_2017081_20170322T164311)
+Finished 15.38 percent at task# 7/50 with total 0.89 mins
+
+Processing the 81th image (T15RXQ_S2A_2017191_20170710T165451)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 100.00 percent at task# 12/50 with total 8.84 mins
+Finished 100.00 percent at task# 13/50 with total 8.84 mins
+Finished 100.00 percent at task# 9/50 with total 8.84 mins
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 1/50 to process 13 images
+[Warning: No SR for T15RXQ_S2A_2015192_20150711T165456] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 2th image (T15RXQ_S2A_2015222_20150810T163946)
+Finished 100.00 percent at task# 11/50 with total 8.87 mins
+Finished 100.00 percent at task# 10/50 with total 8.87 mins
+Finished 60.00 percent at task# 34/50 with total 7.39 mins
+
+Processing the 505th image (T18TXM_S2B_2020306_20201101T155419)
+Finished 86.67 percent at task# 23/50 with total 8.46 mins
+
+Processing the 344th image (T18TXM_S2A_2019133_20190513T153911)
+Finished 86.67 percent at task# 21/50 with total 8.46 mins
+
+Processing the 314th image (T18TXM_S2B_2019051_20190220T155259)
+Finished 80.00 percent at task# 30/50 with total 7.88 mins
+
+Processing the 448th image (T18TXM_S2A_2020161_20200609T154911)
+Finished 80.00 percent at task# 29/50 with total 7.88 mins
+
+Processing the 433th image (T18TXM_S2B_2020123_20200502T153809)
+Finished 80.00 percent at task# 27/50 with total 7.89 mins
+
+Processing the 403th image (T18TXM_S2A_2020048_20200217T154311)
+Finished 80.00 percent at task# 26/50 with total 7.90 mins
+
+Processing the 388th image (T18TXM_S2A_2020008_20200108T154631)
+Finished 80.00 percent at task# 28/50 with total 7.91 mins
+
+Processing the 418th image (T18TXM_S2B_2020086_20200326T154809)
+Finished 80.00 percent at task# 25/50 with total 7.92 mins
+
+Processing the 373th image (T18TXM_S2B_2019311_20191107T155449)
+Finished 93.33 percent at task# 48/50 with total 6.99 mins
+
+Processing the 720th image (T18TXM_S2B_2022125_20220505T154809)
+[Warning: No SR for T15RXQ_S2A_2015222_20150810T163946] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 3th image (T15RXQ_S2A_2015232_20150820T165456)
+Finished 93.33 percent at task# 46/50 with total 7.06 mins
+
+Processing the 690th image (T18TXM_S2A_2022050_20220219T155311)
+Finished 93.33 percent at task# 47/50 with total 7.06 mins
+
+Processing the 705th image (T18TXM_S2A_2022087_20220328T153841)
+Finished 86.67 percent at task# 22/50 with total 8.57 mins
+
+Processing the 329th image (T18TXM_S2B_2019088_20190329T154019)
+Finished 100.00 percent at task# 14/50 with total 9.03 mins
+Finished 60.00 percent at task# 17/50 with total 8.48 mins
+
+Processing the 250th image (T18TXM_S2A_2018251_20180908T154901)
+Finished 53.33 percent at task# 45/50 with total 7.06 mins
+
+Processing the 669th image (T18TXM_S2A_2021362_20211228T154651)
+Finished 80.00 percent at task# 3/50 with total 9.29 mins
+
+Processing the 43th image (T18TXM_S2A_2016162_20160610T233611)
+Finished 86.67 percent at task# 24/50 with total 8.67 mins
+
+Processing the 359th image (T18TXM_S2B_2019208_20190727T153819)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 23.08 percent at task# 6/50 with total 1.16 mins
+
+Processing the 69th image (T15RXQ_S2A_2017091_20170401T165451)
+Finished 23.08 percent at task# 7/50 with total 1.24 mins
+
+Processing the 82th image (T15RXQ_S2A_2017194_20170713T164901)
+Finished 80.00 percent at task# 5/50 with total 9.38 mins
+
+Processing the 73th image (T18TXM_S2A_2017026_20170126T155521)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 60.00 percent at task# 41/50 with total 7.17 mins
+Finished 66.67 percent at task# 33/50 with total 7.66 mins
+
+Processing the 610th image (T18TXM_S2B_2021207_20210726T153809)
+
+Processing the 491th image (T18TXM_S2A_2020271_20200927T155031)
+Finished 73.33 percent at task# 31/50 with total 8.13 mins
+
+Processing the 462th image (T18TXM_S2B_2020196_20200714T154809)
+Finished 66.67 percent at task# 35/50 with total 7.72 mins
+
+Processing the 521th image (T18TXM_S2B_2020346_20201211T155649)
+Finished 60.00 percent at task# 43/50 with total 7.18 mins
+
+Processing the 640th image (T18TXM_S2A_2021282_20211009T154151)
+Finished 66.67 percent at task# 40/50 with total 7.73 mins
+
+Processing the 596th image (T18TXM_S2A_2021172_20210621T153911)
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+Finished 80.00 percent at task# 4/50 with total 9.29 mins
+
+Processing the 58th image (T18TXM_S2A_2016293_20161019T115808)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 13/50 to process 13 images
+Finished 66.67 percent at task# 37/50 with total 7.68 mins
+
+Processing the 157th image (T15RXQ_S2B_2018121_20180501T163859)
+
+Processing the 551th image (T18TXM_S2B_2021057_20210226T154119)
+Finished 66.67 percent at task# 36/50 with total 7.74 mins
+
+Processing the 536th image (T18TXM_S2B_2021020_20210120T155559)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 12/50 to process 13 images
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 9/50 to process 13 images
+
+Processing the 144th image (T15RXQ_S2A_2018086_20180327T163911)
+
+Processing the 105th image (T15RXQ_S2B_2017326_20171122T164559)
+Finished 60.00 percent at task# 42/50 with total 7.20 mins
+
+Processing the 625th image (T18TXM_S2A_2021245_20210902T154911)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 10/50 to process 13 images
+
+Processing the 118th image (T15RXQ_S2A_2018009_20180109T165651)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 11/50 to process 13 images
+
+Processing the 131th image (T15RXQ_S2B_2018051_20180220T164319)
+Finished 66.67 percent at task# 19/50 with total 8.68 mins
+
+Processing the 281th image (T18TXM_S2B_2018333_20181129T154609)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 14/50 to process 13 images
+
+Processing the 170th image (T15RXQ_S2B_2018161_20180610T163839)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 60.00 percent at task# 44/50 with total 7.31 mins
+Finished 23.08 percent at task# 1/50 with total 0.47 mins
+[Warning: No SR for T15RXQ_S2A_2015242_20150830T165456] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 5th image (T15RXQ_S2A_2015262_20150919T165456)
+
+Processing the 655th image (T18TXM_S2A_2021322_20211118T154531)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 2/50 to process 13 images
+
+Processing the 14th image (T15RXQ_S2A_2015362_20151228T165452)
+Finished 100.00 percent at task# 48/50 with total 7.38 mins
+Finished 80.00 percent at task# 8/50 with total 9.78 mins
+
+Processing the 118th image (T18TXM_S2A_2017253_20170910T155131)
+Finished 73.33 percent at task# 32/50 with total 8.34 mins
+
+Processing the 477th image (T18TXM_S2B_2020236_20200823T154819)
+Finished 66.67 percent at task# 38/50 with total 7.94 mins
+
+Processing the 566th image (T18TXM_S2A_2021095_20210405T154901)
+Finished 100.00 percent at task# 46/50 with total 7.45 mins
+Finished 73.33 percent at task# 16/50 with total 9.38 mins
+
+Processing the 237th image (T18TXM_S2A_2018218_20180806T153911)
+Finished 100.00 percent at task# 47/50 with total 7.47 mins
+Finished 66.67 percent at task# 18/50 with total 8.90 mins
+
+Processing the 266th image (T18TXM_S2B_2018293_20181020T154249)
+Finished 80.00 percent at task# 15/50 with total 9.43 mins
+
+Processing the 223th image (T18TXM_S2B_2018183_20180702T153809)
+Finished 93.33 percent at task# 23/50 with total 9.03 mins
+
+Processing the 345th image (T18TXM_S2B_2019141_20190521T154819)
+Finished 66.67 percent at task# 39/50 with total 8.03 mins
+
+Processing the 581th image (T18TXM_S2A_2021135_20210515T154911)
+Finished 93.33 percent at task# 21/50 with total 9.05 mins
+
+Processing the 315th image (T18TXM_S2A_2019053_20190222T154241)
+Finished 30.77 percent at task# 7/50 with total 1.61 mins
+
+Processing the 83th image (T15RXQ_S2A_2017201_20170720T163901)
+Finished 30.77 percent at task# 6/50 with total 1.53 mins
+
+Processing the 70th image (T15RXQ_S2A_2017101_20170411T164321)
+Finished 86.67 percent at task# 25/50 with total 8.52 mins
+
+Processing the 374th image (T18TXM_S2A_2019313_20191109T154451)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 86.67 percent at task# 30/50 with total 8.57 mins
+Finished 86.67 percent at task# 27/50 with total 8.57 mins
+
+Processing the 449th image (T18TXM_S2B_2020163_20200611T153809)
+
+Processing the 404th image (T18TXM_S2A_2020051_20200220T155301)
+Finished 86.67 percent at task# 26/50 with total 8.58 mins
+
+Processing the 389th image (T18TXM_S2A_2020011_20200111T155621)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 93.33 percent at task# 22/50 with total 9.18 mins
+Finished 86.67 percent at task# 29/50 with total 8.59 mins
+
+Processing the 434th image (T18TXM_S2B_2020126_20200505T154809)
+
+Processing the 330th image (T18TXM_S2B_2019091_20190401T154819)
+
+Processing the 296th image (T18TXM_S2A_2019006_20190106T155631)
+Finished 86.67 percent at task# 28/50 with total 8.59 mins
+
+Processing the 419th image (T18TXM_S2A_2020088_20200328T153901)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 46/50 to process 13 images
+At task# 47/50 to process 6 images
+
+Processing the 599th image (T15RXQ_S2A_2021353_20211219T165721)
+
+Processing the 586th image (T15RXQ_S2A_2021320_20211116T164551)
+Finished 38.46 percent at task# 1/50 with total 0.82 mins
+
+Processing the 6th image (T15RXQ_S2A_2015272_20150929T165456)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 86.67 percent at task# 3/50 with total 9.89 mins
+
+Processing the 44th image (T18TXM_S2A_2016170_20160618T105746)
+Finished 7.69 percent at task# 12/50 with total 0.48 mins
+
+Processing the 145th image (T15RXQ_S2A_2018089_20180330T164851)
+Finished 7.69 percent at task# 13/50 with total 0.48 mins
+
+Processing the 158th image (T15RXQ_S2A_2018126_20180506T163901)
+Finished 7.69 percent at task# 9/50 with total 0.49 mins
+
+Processing the 106th image (T15RXQ_S2A_2017331_20171127T165451)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 7.69 percent at task# 11/50 with total 0.50 mins
+
+Processing the 132th image (T15RXQ_S2B_2018054_20180223T165309)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 48/50 to process -7 images
+Finished 66.67 percent at task# 34/50 with total 8.28 mins
+
+Processing the 506th image (T18TXM_S2A_2020308_20201103T154431)
+Finished 7.69 percent at task# 2/50 with total 0.44 mins
+
+Processing the 15th image (T15RXQ_S2A_2016007_20160107T233930)
+Finished 86.67 percent at task# 4/50 with total 9.89 mins
+
+Processing the 59th image (T18TXM_S2A_2016300_20161026T221908)
+Finished 86.67 percent at task# 5/50 with total 10.03 mins
+
+Processing the 74th image (T18TXM_S2A_2017033_20170202T154441)
+Finished 7.69 percent at task# 14/50 with total 0.51 mins
+
+Processing the 171th image (T15RXQ_S2B_2018164_20180613T164839)
+Finished 93.33 percent at task# 24/50 with total 9.38 mins
+
+Processing the 360th image (T18TXM_S2A_2019236_20190824T154911)
+Finished 38.46 percent at task# 7/50 with total 1.99 mins
+
+Processing the 84th image (T15RXQ_S2A_2017211_20170730T165451)
+Finished 38.46 percent at task# 6/50 with total 1.92 mins
+
+Processing the 71th image (T15RXQ_S2A_2017111_20170421T165451)
+Finished 66.67 percent at task# 17/50 with total 9.37 mins
+
+Processing the 251th image (T18TXM_S2B_2018253_20180910T154539)
+Finished 60.00 percent at task# 45/50 with total 7.99 mins
+
+Processing the 670th image (T18TXM_S2A_2021365_20211231T155651)
+Finished 46.15 percent at task# 1/50 with total 1.16 mins
+[Warning: No SR for T15RXQ_S2A_2015295_20151022T170012] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 8th image (T15RXQ_S2A_2015315_20151111T165522)
+Finished 80.00 percent at task# 31/50 with total 8.96 mins
+Finished 66.67 percent at task# 41/50 with total 8.01 mins
+
+Processing the 463th image (T18TXM_S2A_2020198_20200716T153911)
+
+Processing the 611th image (T18TXM_S2B_2021210_20210729T154819)
+Finished 66.67 percent at task# 43/50 with total 8.01 mins
+Finished 73.33 percent at task# 40/50 with total 8.55 mins
+
+Processing the 641th image (T18TXM_S2A_2021285_20211012T155211)
+
+Processing the 597th image (T18TXM_S2A_2021175_20210624T154911)
+Finished 73.33 percent at task# 33/50 with total 8.49 mins
+
+Processing the 492th image (T18TXM_S2B_2020273_20200929T153949)
+Finished 73.33 percent at task# 35/50 with total 8.56 mins
+
+Processing the 522th image (T18TXM_S2A_2020348_20201213T154641)
+Finished 16.67 percent at task# 47/50 with total 0.36 mins
+
+Processing the 600th image (T15RXQ_S2B_2021355_20211221T164709)
+Finished 7.69 percent at task# 46/50 with total 0.37 mins
+
+Processing the 587th image (T15RXQ_S2A_2021323_20211119T165611)
+Finished 66.67 percent at task# 42/50 with total 8.02 mins
+
+Processing the 626th image (T18TXM_S2B_2021247_20210904T153809)
+Finished 73.33 percent at task# 37/50 with total 8.52 mins
+
+Processing the 552th image (T18TXM_S2B_2021060_20210301T155059)
+Finished 73.33 percent at task# 36/50 with total 8.58 mins
+
+Processing the 537th image (T18TXM_S2A_2021022_20210122T154541)
+Finished 15.38 percent at task# 12/50 with total 0.88 mins
+
+Processing the 146th image (T15RXQ_S2B_2018091_20180401T163859)
+Finished 15.38 percent at task# 13/50 with total 0.89 mins
+
+Processing the 159th image (T15RXQ_S2A_2018129_20180509T164901)
+Finished 15.38 percent at task# 9/50 with total 0.91 mins
+
+Processing the 107th image (T15RXQ_S2A_2017334_20171130T165641)
+Finished 15.38 percent at task# 2/50 with total 0.80 mins
+
+Processing the 16th image (T15RXQ_S2A_2016017_20160117T165452)
+Finished 15.38 percent at task# 11/50 with total 0.91 mins
+
+Processing the 133th image (T15RXQ_S2A_2018056_20180225T164311)
+Finished 73.33 percent at task# 19/50 with total 9.60 mins
+
+Processing the 282th image (T18TXM_S2B_2018336_20181202T155619)
+Finished 100.00 percent at task# 23/50 with total 9.71 mins
+Finished 15.38 percent at task# 10/50 with total 0.95 mins
+
+Processing the 120th image (T15RXQ_S2B_2018014_20180114T165639)
+Finished 15.38 percent at task# 14/50 with total 0.89 mins
+
+Processing the 172th image (T15RXQ_S2A_2018166_20180615T163901)
+Finished 86.67 percent at task# 8/50 with total 10.59 mins
+
+Processing the 119th image (T18TXM_S2A_2017256_20170913T154901)
+Finished 100.00 percent at task# 21/50 with total 9.74 mins
+Finished 93.33 percent at task# 25/50 with total 9.17 mins
+
+Processing the 375th image (T18TXM_S2A_2019316_20191112T155511)
+Finished 73.33 percent at task# 18/50 with total 9.67 mins
+
+Processing the 267th image (T18TXM_S2B_2018296_20181023T155319)
+Finished 66.67 percent at task# 44/50 with total 8.23 mins
+
+Processing the 656th image (T18TXM_S2A_2021325_20211121T155551)
+Finished 93.33 percent at task# 30/50 with total 9.20 mins
+Finished 93.33 percent at task# 27/50 with total 9.20 mins
+
+Processing the 450th image (T18TXM_S2B_2020166_20200614T154819)
+
+Processing the 405th image (T18TXM_S2B_2020053_20200222T154149)
+Finished 93.33 percent at task# 26/50 with total 9.20 mins
+
+Processing the 390th image (T18TXM_S2B_2020013_20200113T154609)
+Finished 93.33 percent at task# 3/50 with total 10.46 mins
+
+Processing the 45th image (T18TXM_S2A_2016172_20160620T221800)
+Finished 86.67 percent at task# 15/50 with total 10.22 mins
+
+Processing the 224th image (T18TXM_S2B_2018186_20180705T154809)
+Finished 46.15 percent at task# 7/50 with total 2.35 mins
+
+Processing the 85th image (T15RXQ_S2A_2017214_20170802T164901)
+Finished 93.33 percent at task# 29/50 with total 9.22 mins
+Finished 93.33 percent at task# 28/50 with total 9.22 mins
+
+Processing the 435th image (T18TXM_S2A_2020128_20200507T153911)
+
+Processing the 420th image (T18TXM_S2A_2020091_20200331T154901)
+Finished 46.15 percent at task# 6/50 with total 2.28 mins
+
+Processing the 72th image (T15RXQ_S2A_2017114_20170424T165311)
+Finished 100.00 percent at task# 22/50 with total 9.82 mins
+Finished 80.00 percent at task# 32/50 with total 9.21 mins
+
+Processing the 478th image (T18TXM_S2A_2020238_20200825T153911)
+Finished 33.33 percent at task# 47/50 with total 0.65 mins
+
+Processing the 601th image (T15RXQ_S2B_2021358_20211224T165719)
+Finished 15.38 percent at task# 46/50 with total 0.66 mins
+
+Processing the 588th image (T15RXQ_S2B_2021325_20211121T164609)
+Finished 61.54 percent at task# 1/50 with total 1.48 mins
+
+Processing the 9th image (T15RXQ_S2A_2015325_20151121T165612)
+Finished 73.33 percent at task# 38/50 with total 8.88 mins
+
+Processing the 567th image (T18TXM_S2B_2021097_20210407T153809)
+Finished 93.33 percent at task# 4/50 with total 10.45 mins
+
+Processing the 60th image (T18TXM_S2A_2016303_20161029T090526)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 100.00 percent at task# 24/50 with total 9.93 mins
+Finished 93.33 percent at task# 5/50 with total 10.59 mins
+
+Processing the 75th image (T18TXM_S2A_2017036_20170205T160121)
+Finished 80.00 percent at task# 16/50 with total 10.36 mins
+
+Processing the 238th image (T18TXM_S2A_2018221_20180809T154901)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 73.33 percent at task# 39/50 with total 8.93 mins
+
+Processing the 582th image (T18TXM_S2B_2021137_20210517T153809)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 23/50 to process 13 images
+
+Processing the 287th image (T15RXQ_S2A_2019104_20190414T164901)
+Finished 23.08 percent at task# 2/50 with total 1.11 mins
+
+Processing the 17th image (T15RXQ_S2A_2016021_20160121T023757)
+Finished 23.08 percent at task# 12/50 with total 1.29 mins
+
+Processing the 147th image (T15RXQ_S2B_2018094_20180404T164849)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 23.08 percent at task# 13/50 with total 1.31 mins
+
+Processing the 160th image (T15RXQ_S2B_2018131_20180511T163839)
+Finished 23.08 percent at task# 9/50 with total 1.31 mins
+
+Processing the 108th image (T15RXQ_S2A_2017341_20171207T164651)
+Finished 73.33 percent at task# 20/50 with total 9.97 mins
+
+Processing the 297th image (T18TXM_S2B_2019008_20190108T154629)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 23.08 percent at task# 11/50 with total 1.31 mins
+
+Processing the 134th image (T15RXQ_S2A_2018059_20180228T165231)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 21/50 to process 13 images
+
+Processing the 261th image (T15RXQ_S2B_2019036_20190205T164459)
+Finished 23.08 percent at task# 10/50 with total 1.34 mins
+
+Processing the 121th image (T15RXQ_S2A_2018016_20180116T164621)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 23.08 percent at task# 14/50 with total 1.28 mins
+
+Processing the 173th image (T15RXQ_S2A_2018169_20180618T164901)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 50.00 percent at task# 47/50 with total 0.96 mins
+
+Processing the 602th image (T15RXQ_S2A_2021360_20211226T164721)
+Finished 53.85 percent at task# 7/50 with total 2.72 mins
+
+Processing the 86th image (T15RXQ_S2A_2017221_20170809T163901)
+Finished 53.85 percent at task# 6/50 with total 2.65 mins
+
+Processing the 73th image (T15RXQ_S2A_2017121_20170501T164321)
+Start to stack ARD Tile 15RXQ
+Finished 73.33 percent at task# 34/50 with total 9.16 mins
+
+Processing the 507th image (T18TXM_S2A_2020311_20201106T155451)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 22/50 to process 13 images
+
+Processing the 274th image (T15RXQ_S2A_2019071_20190312T164101)
+Finished 23.08 percent at task# 46/50 with total 0.99 mins
+
+Processing the 589th image (T15RXQ_S2B_2021328_20211124T165619)
+Finished 69.23 percent at task# 1/50 with total 1.81 mins
+
+Processing the 10th image (T15RXQ_S2A_2015332_20151128T165452)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 73.33 percent at task# 17/50 with total 10.17 mins
+
+Processing the 252th image (T18TXM_S2B_2018256_20180913T154859)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 24/50 to process 13 images
+
+Processing the 300th image (T15RXQ_S2A_2019164_20190613T164901)
+Finished 100.00 percent at task# 25/50 with total 9.70 mins
+Finished 30.77 percent at task# 2/50 with total 1.44 mins
+
+Processing the 18th image (T15RXQ_S2A_2016038_20160207T002301)
+Finished 100.00 percent at task# 3/50 with total 11.05 mins
+Finished 86.67 percent at task# 31/50 with total 9.80 mins
+
+Processing the 464th image (T18TXM_S2A_2020201_20200719T154911)
+Finished 73.33 percent at task# 41/50 with total 8.84 mins
+
+Processing the 612th image (T18TXM_S2A_2021212_20210731T153911)
+Finished 80.00 percent at task# 33/50 with total 9.33 mins
+
+Processing the 493th image (T18TXM_S2B_2020276_20201002T155009)
+Finished 100.00 percent at task# 29/50 with total 9.81 mins
+Finished 100.00 percent at task# 30/50 with total 9.81 mins
+Finished 100.00 percent at task# 26/50 with total 9.82 mins
+Finished 100.00 percent at task# 27/50 with total 9.82 mins
+Finished 80.00 percent at task# 35/50 with total 9.40 mins
+
+Processing the 523th image (T18TXM_S2A_2020351_20201216T155651)
+Finished 80.00 percent at task# 40/50 with total 9.40 mins
+
+Processing the 598th image (T18TXM_S2B_2021177_20210626T153809)
+Finished 73.33 percent at task# 43/50 with total 8.86 mins
+
+Processing the 642th image (T18TXM_S2B_2021287_20211014T154129)
+Finished 73.33 percent at task# 42/50 with total 8.86 mins
+
+Processing the 627th image (T18TXM_S2B_2021250_20210907T154809)
+Finished 100.00 percent at task# 28/50 with total 9.84 mins
+Finished 80.00 percent at task# 37/50 with total 9.37 mins
+
+Processing the 553th image (T18TXM_S2A_2021062_20210303T154141)
+Finished 80.00 percent at task# 36/50 with total 9.43 mins
+
+Processing the 538th image (T18TXM_S2A_2021025_20210125T155531)
+Finished 30.77 percent at task# 12/50 with total 1.72 mins
+
+Processing the 148th image (T15RXQ_S2A_2018096_20180406T163901)
+Finished 30.77 percent at task# 13/50 with total 1.72 mins
+
+Processing the 161th image (T15RXQ_S2B_2018134_20180514T164839)
+Finished 30.77 percent at task# 11/50 with total 1.71 mins
+
+Processing the 135th image (T15RXQ_S2B_2018061_20180302T164309)
+Finished 66.67 percent at task# 47/50 with total 1.28 mins
+
+Processing the 603th image (T15RXQ_S2A_2021363_20211229T165721)
+Finished 93.33 percent at task# 8/50 with total 11.34 mins
+
+Processing the 120th image (T18TXM_S2A_2017263_20170920T153931)
+Finished 30.77 percent at task# 9/50 with total 1.74 mins
+
+
+Processing the 109th image (T15RXQ_S2B_2017346_20171212T164659)
+Finished 80.00 percent at task# 19/50 with total 10.40 mins
+
+Processing the 671th image (T18TXM_S2B_2022002_20220102T154639)
+Finished 100.00 percent at task# 5/50 with total 11.16 mins
+Finished 30.77 percent at task# 14/50 with total 1.66 mins
+
+Processing the 174th image (T15RXQ_S2B_2018171_20180620T163839)
+Finished 93.33 percent at task# 15/50 with total 10.94 mins
+
+Processing the 225th image (T18TXM_S2A_2018188_20180707T153911)
+Finished 30.77 percent at task# 46/50 with total 1.31 mins
+
+Processing the 590th image (T15RXQ_S2A_2021330_20211126T164631)
+Finished 100.00 percent at task# 4/50 with total 11.08 mins
+Finished 30.77 percent at task# 10/50 with total 1.76 mins
+
+Processing the 122th image (T15RXQ_S2B_2018021_20180121T164609)
+Finished 76.92 percent at task# 1/50 with total 2.15 mins
+
+Processing the 11th image (T15RXQ_S2A_2015342_20151208T164702)
+Finished 80.00 percent at task# 18/50 with total 10.46 mins
+
+Processing the 268th image (T18TXM_S2A_2018298_20181025T154321)
+Finished 7.69 percent at task# 23/50 with total 0.59 mins
+
+Processing the 288th image (T15RXQ_S2B_2019106_20190416T163849)
+Finished 61.54 percent at task# 7/50 with total 3.11 mins
+
+Processing the 87th image (T15RXQ_S2A_2017231_20170819T165451)
+Finished 61.54 percent at task# 6/50 with total 3.03 mins
+
+Processing the 74th image (T15RXQ_S2A_2017131_20170511T165501)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+[Warning: Unable to load Toolbox Path Cache
+/home/kes20012/.matlab/R2023b/toolbox_cache-23.2.0-63506533-glnxa64.xml. The
+cache file is not in the correct format. It will be regenerated upon quitting
+MATLAB.] 
+Finished 38.46 percent at task# 2/50 with total 1.77 mins
+
+Processing the 19th image (T15RXQ_S2A_2016053_20160222T201444)
+Finished 86.67 percent at task# 32/50 with total 10.10 mins
+
+Processing the 479th image (T18TXM_S2A_2020241_20200828T154911)
+Finished 73.33 percent at task# 44/50 with total 9.15 mins
+
+Processing the 657th image (T18TXM_S2B_2021327_20211123T154549)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 7.69 percent at task# 21/50 with total 0.63 mins
+
+Processing the 262th image (T15RXQ_S2B_2019039_20190208T165449)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 25/50 to process 13 images
+
+Processing the 313th image (T15RXQ_S2A_2019234_20190822T164901)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 83.33 percent at task# 47/50 with total 1.59 mins
+
+Processing the 604th image (T15RXQ_S2B_2021365_20211231T164709)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 7.69 percent at task# 22/50 with total 0.63 mins
+
+Processing the 275th image (T15RXQ_S2A_2019074_20190315T165041)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 4/50 to process 13 images
+
+Processing the 40th image (T15RXQ_S2A_2016248_20160904T211510)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 28/50 to process 13 images
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+Finished 80.00 percent at task# 38/50 with total 9.82 mins
+At task# 27/50 to process 13 images
+
+Processing the 568th image (T18TXM_S2B_2021100_20210410T154809)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 26/50 to process 13 images
+
+Processing the 352th image (T15RXQ_S2A_2020029_20200129T165531)
+
+Processing the 339th image (T15RXQ_S2A_2019344_20191210T165711)
+
+Processing the 326th image (T15RXQ_S2B_2019296_20191023T164339)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 29/50 to process 13 images
+
+Processing the 365th image (T15RXQ_S2B_2020074_20200314T164939)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 30/50 to process 13 images
+
+Processing the 378th image (T15RXQ_S2B_2020114_20200423T164839)
+Finished 86.67 percent at task# 16/50 with total 11.26 mins
+
+Processing the 239th image (T18TXM_S2B_2018223_20180811T153809)
+Start to stack ARD Tile 15RXQ
+Finished 38.46 percent at task# 46/50 with total 1.64 mins
+
+Processing the 591th image (T15RXQ_S2A_2021333_20211129T165641)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 5/50 to process 13 images
+
+Processing the 53th image (T15RXQ_S2A_2016337_20161202T234537)
+Finished 80.00 percent at task# 39/50 with total 9.86 mins
+
+Processing the 583th image (T18TXM_S2B_2021140_20210520T154809)
+Finished 84.62 percent at task# 1/50 with total 2.49 mins
+
+Processing the 12th image (T15RXQ_S2A_2015352_20151218T165452)
+Finished 38.46 percent at task# 13/50 with total 2.16 mins
+
+Processing the 162th image (T15RXQ_S2A_2018136_20180516T164021)
+Finished 38.46 percent at task# 12/50 with total 2.16 mins
+Finished 7.69 percent at task# 24/50 with total 0.61 mins
+64901)
+
+Processing the 301th image (T15RXQ_S2B_2019166_20190615T163849)
+Finished 38.46 percent at task# 14/50 with total 2.08 mins
+
+Processing the 175th image (T15RXQ_S2B_2018174_20180623T164839)
+Finished 38.46 percent at task# 9/50 with total 2.18 mins
+
+Processing the 110th image (T15RXQ_S2A_2017351_20171217T165451)
+Finished 38.46 percent at task# 11/50 with total 2.16 mins
+
+Processing the 136th image (T15RXQ_S2B_2018064_20180305T165259)
+Finished 38.46 percent at task# 10/50 with total 2.18 mins
+
+Processing the 123th image (T15RXQ_S2B_2018024_20180124T165559)
+Finished 69.23 percent at task# 7/50 with total 3.51 mins
+
+Processing the 88th image (T15RXQ_S2A_2017234_20170822T164901)
+Finished 69.23 percent at task# 6/50 with total 3.44 mins
+
+Processing the 75th image (T15RXQ_S2A_2017134_20170514T165321)
+Finished 46.15 percent at task# 2/50 with total 2.13 mins
+
+Processing the 20th image (T15RXQ_S2A_2016069_20160309T033226)
+Finished 15.38 percent at task# 23/50 with total 1.10 mins
+
+Processing the 289th image (T15RXQ_S2B_2019109_20190419T164849)
+Finished 80.00 percent at task# 20/50 with total 11.01 mins
+
+Processing the 298th image (T18TXM_S2B_2019011_20190111T155629)
+Finished 80.00 percent at task# 34/50 with total 10.09 mins
+
+Processing the 508th image (T18TXM_S2B_2020313_20201108T154449)
+Finished 80.00 percent at task# 17/50 with total 11.06 mins
+
+Processing the 253th image (T18TXM_S2A_2018261_20180918T154911)
+Finished 100.00 percent at task# 47/50 with total 1.99 mins
+Finished 15.38 percent at task# 21/50 with total 1.15 mins
+
+Processing the 263th image (T15RXQ_S2A_2019041_20190210T164431)
+Finished 46.15 percent at task# 46/50 with total 2.06 mins
+
+Processing the 592th image (T15RXQ_S2B_2021335_20211201T164639)
+Finished 15.38 percent at task# 22/50 with total 1.09 mins
+
+Processing the 276th image (T15RXQ_S2B_2019076_20190317T164029)
+Finished 93.33 percent at task# 31/50 with total 10.68 mins
+
+Processing the 465th image (T18TXM_S2B_2020203_20200721T153809)
+Finished 86.67 percent at task# 33/50 with total 10.21 mins
+
+Processing the 494th image (T18TXM_S2A_2020278_20201004T154121)
+Finished 80.00 percent at task# 41/50 with total 9.73 mins
+
+Processing the 613th image (T18TXM_S2A_2021215_20210803T154911)
+Finished 92.31 percent at task# 1/50 with total 2.91 mins
+
+Processing the 13th image (T15RXQ_S2A_2015356_20151222T174652)
+Finished 86.67 percent at task# 40/50 with total 10.30 mins
+
+Processing the 599th image (T18TXM_S2B_2021180_20210629T154809)
+Finished 80.00 percent at task# 42/50 with total 9.75 mins
+
+Processing the 628th image (T18TXM_S2A_2021252_20210909T153911)
+Finished 80.00 percent at task# 43/50 with total 9.76 mins
+
+Processing the 643th image (T18TXM_S2B_2021290_20211017T155149)
+Finished 7.69 percent at task# 25/50 with total 0.55 mins
+
+Processing the 314th image (T15RXQ_S2A_2019241_20190829T163901)
+Finished 100.00 percent at task# 8/50 with total 12.20 mins
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 86.67 percent at task# 37/50 with total 10.30 mins
+
+Processing the 554th image (T18TXM_S2A_2021065_20210306T155121)
+Finished 7.69 percent at task# 30/50 with total 0.54 mins
+
+Processing the 379th image (T15RXQ_S2A_2020116_20200425T163901)
+Finished 100.00 percent at task# 15/50 with total 11.80 mins
+Finished 15.38 percent at task# 24/50 with total 1.08 mins
+
+Processing the 302th image (T15RXQ_S2B_2019179_20190628T164849)
+Finished 76.92 percent at task# 7/50 with total 3.93 mins
+
+Processing the 89th image (T15RXQ_S2A_2017241_20170829T163901)
+Finished 53.85 percent at task# 2/50 with total 2.50 mins
+
+Processing the 21th image (T15RXQ_S2A_2016080_20160320T234405)
+Finished 7.69 percent at task# 26/50 with total 0.56 mins
+
+Processing the 327th image (T15RXQ_S2A_2019301_20191028T164411)
+Start to stack ARD Tile 15RXQ
+Finished 7.69 percent at task# 29/50 with total 0.56 mins
+
+Processing the 366th image (T15RXQ_S2A_2020076_20200316T164021)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 3/50 to process 13 images
+
+Processing the 27th image (T15RXQ_S2A_2016159_20160607T085159)
+Finished 7.69 percent at task# 27/50 with total 0.57 mins
+
+Processing the 340th image (T15RXQ_S2B_2019349_20191215T165709)
+Finished 76.92 percent at task# 6/50 with total 3.87 mins
+
+Processing the 76th image (T15RXQ_S2A_2017141_20170521T164321)
+Finished 86.67 percent at task# 19/50 with total 11.30 mins
+
+Processing the 284th image (T18TXM_S2A_2018341_20181207T155631)
+Finished 7.69 percent at task# 28/50 with total 0.57 mins
+
+Processing the 353th image (T15RXQ_S2B_2020031_20200131T164519)
+Finished 86.67 percent at task# 35/50 with total 10.40 mins
+
+Processing the 524th image (T18TXM_S2B_2020353_20201218T154649)
+Finished 46.15 percent at task# 9/50 with total 2.66 mins
+
+Processing the 111th image (T15RXQ_S2A_2017354_20171220T165711)
+Finished 46.15 percent at task# 12/50 with total 2.66 mins
+Finished 46.15 percent at task# 11/50 with total 2.63 mins
+
+Processing the 150th image (T15RXQ_S2B_2018101_20180411T163859)
+
+Processing the 137th image (T15RXQ_S2A_2018066_20180307T164131)
+Finished 46.15 percent at task# 13/50 with total 2.66 mins
+
+Processing the 163th image (T15RXQ_S2A_2018139_20180519T164901)
+Finished 86.67 percent at task# 36/50 with total 10.40 mins
+Finished 46.15 percent at task# 14/50 with total 2.56 mins
+
+Processing the 539th image (T18TXM_S2B_2021027_20210127T154519)
+Finished 86.67 percent at task# 18/50 with total 11.33 mins
+
+Processing the 269th image (T18TXM_S2A_2018301_20181028T155341)
+Finished 46.15 percent at task# 10/50 with total 2.65 mins
+
+Processing the 124th image (T15RXQ_S2A_2018026_20180126T165451)
+Finished 7.69 percent at task# 4/50 with total 0.63 mins
+[Warning: No SR for T15RXQ_S2A_2016260_20160916T103238] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 42th image (T15RXQ_S2A_2016269_20160925T050216)
+Finished 73.33 percent at task# 45/50 with total 9.95 mins
+
+Processing the 672th image (T18TXM_S2B_2022005_20220105T155639)
+Finished 7.69 percent at task# 5/50 with total 0.68 mins
+
+Processing the 54th image (T15RXQ_S2A_2016341_20161206T210332)
+Finished 23.08 percent at task# 23/50 with total 1.59 mins
+
+Processing the 290th image (T15RXQ_S2A_2019111_20190421T163901)
+Finished 53.85 percent at task# 46/50 with total 2.45 mins
+
+Processing the 593th image (T15RXQ_S2B_2021338_20211204T165659)
+Finished 93.33 percent at task# 32/50 with total 11.05 mins
+
+Processing the 480th image (T18TXM_S2B_2020243_20200830T153819)
+Finished 100.00 percent at task# 1/50 with total 3.27 mins
+Finished 80.00 percent at task# 44/50 with total 10.13 mins
+
+Processing the 658th image (T18TXM_S2B_2021330_20211126T155609)
+Finished 61.54 percent at task# 2/50 with total 2.84 mins
+
+Processing the 22th image (T15RXQ_S2A_2016099_20160408T000904)
+Finished 93.33 percent at task# 16/50 with total 12.21 mins
+
+Processing the 240th image (T18TXM_S2B_2018226_20180814T154859)
+Finished 86.67 percent at task# 38/50 with total 10.78 mins
+
+Processing the 569th image (T18TXM_S2A_2021102_20210412T153901)
+Finished 84.62 percent at task# 7/50 with total 4.34 mins
+
+Processing the 90th image (T15RXQ_S2A_2017251_20170908T165451)
+Finished 84.62 percent at task# 6/50 with total 4.27 mins
+
+Processing the 77th image (T15RXQ_S2A_2017151_20170531T165451)
+Finished 86.67 percent at task# 39/50 with total 10.80 mins
+
+Processing the 584th image (T18TXM_S2A_2021142_20210522T153911)
+Finished 23.08 percent at task# 22/50 with total 1.64 mins
+
+Processing the 277th image (T15RXQ_S2B_2019079_20190320T165209)
+Finished 23.08 percent at task# 21/50 with total 1.72 mins
+
+Processing the 264th image (T15RXQ_S2A_2019044_20190213T165411)
+Finished 53.85 percent at task# 9/50 with total 3.09 mins
+
+Processing the 112th image (T15RXQ_S2B_2017356_20171222T164709)
+Finished 53.85 percent at task# 14/50 with total 3.01 mins
+
+Processing the 177th image (T15RXQ_S2A_2018179_20180628T164901)
+Finished 53.85 percent at task# 11/50 with total 3.08 mins
+
+Processing the 138th image (T15RXQ_S2A_2018069_20180310T165111)
+Finished 53.85 percent at task# 12/50 with total 3.12 mins
+
+Processing the 151th image (T15RXQ_S2A_2018106_20180416T163901)
+Finished 53.85 percent at task# 10/50 with total 3.10 mins
+
+Processing the 125th image (T15RXQ_S2A_2018029_20180129T165531)
+Finished 15.38 percent at task# 25/50 with total 1.11 mins
+
+Processing the 315th image (T15RXQ_S2B_2019249_20190906T164849)
+Finished 53.85 percent at task# 13/50 with total 3.15 mins
+
+Processing the 164th image (T15RXQ_S2B_2018141_20180521T163859)
+Finished 15.38 percent at task# 29/50 with total 1.08 mins
+
+Processing the 367th image (T15RXQ_S2A_2020079_20200319T165011)
+Finished 15.38 percent at task# 30/50 with total 1.07 mins
+
+Processing the 380th image (T15RXQ_S2A_2020119_20200428T164901)
+Finished 15.38 percent at task# 28/50 with total 1.10 mins
+
+Processing the 354th image (T15RXQ_S2B_2020034_20200203T165509)
+Finished 23.08 percent at task# 24/50 with total 1.63 mins
+
+Processing the 303th image (T15RXQ_S2A_2019184_20190703T164901)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 15.38 percent at task# 26/50 with total 1.13 mins
+
+Processing the 328th image (T15RXQ_S2A_2019304_20191031T165431)
+Finished 15.38 percent at task# 27/50 with total 1.13 mins
+
+Processing the 341th image (T15RXQ_S2A_2019354_20191220T165711)
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+To get started, type doc.
+ 
+For product information, visit www.mathworks.com.
+ 
+Finished 7.69 percent at task# 3/50 with total 0.61 mins
+Finished 86.67 percent at task# 34/50 with total 10.98 mins
+
+Processing the 28th image (T15RXQ_S2A_2016161_20160609T020625)
+
+Processing the 509th image (T18TXM_S2B_2020316_20201111T155509)
+Finished 61.54 percent at task# 46/50 with total 2.80 mins
+
+Processing the 594th image (T15RXQ_S2A_2021340_20211206T164701)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 15/50 to process 13 images
+
+Processing the 183th image (T15RXQ_S2B_2018194_20180713T164859)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 8/50 to process 13 images
+
+Processing the 92th image (T15RXQ_S2A_2017261_20170918T163941)
+Finished 86.67 percent at task# 17/50 with total 11.94 mins
+Finished 23.08 percent at task# 4/50 with total 1.22 mins
+
+Processing the 43th image (T15RXQ_S2A_2016277_20161003T225216)
+
+Processing the 254th image (T18TXM_S2B_2018263_20180920T153919)
+Finished 69.23 percent at task# 2/50 with total 3.18 mins
+[Warning: No SR for T15RXQ_S2A_2016108_20160417T021339] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 24th image (T15RXQ_S2A_2016117_20160426T225236)
+Finished 15.38 percent at task# 5/50 with total 1.23 mins
+[Warning: No SR for T15RXQ_S2A_2016347_20161212T164702] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+[Warning: No SR for T15RXQ_S2A_2016350_20161215T165712] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 57th image (T15RXQ_S2A_2016357_20161222T164712)
+Finished 86.67 percent at task# 20/50 with total 11.99 mins
+
+Processing the 299th image (T18TXM_S2A_2019013_20190113T154611)
+Finished 30.77 percent at task# 23/50 with total 2.16 mins
+
+Processing the 291th image (T15RXQ_S2A_2019114_20190424T164901)
+Finished 86.67 percent at task# 41/50 with total 10.59 mins
+Finished 100.00 percent at task# 31/50 with total 11.55 mins
+
+Processing the 614th image (T18TXM_S2B_2021217_20210805T153809)
+Finished 93.33 percent at task# 33/50 with total 11.08 mins
+
+Processing the 495th image (T18TXM_S2A_2020281_20201007T155141)
+Finished 93.33 percent at task# 40/50 with total 11.17 mins
+Finished 86.67 percent at task# 43/50 with total 10.62 mins
+
+Processing the 600th image (T18TXM_S2A_2021182_20210701T153911)
+Finished 86.67 percent at task# 42/50 with total 10.62 mins
+
+Processing the 644th image (T18TXM_S2A_2021292_20211019T154251)
+
+Processing the 629th image (T18TXM_S2A_2021255_20210912T154911)
+Finished 92.31 percent at task# 7/50 with total 4.76 mins
+
+Processing the 91th image (T15RXQ_S2A_2017254_20170911T164851)
+Finished 92.31 percent at task# 6/50 with total 4.69 mins
+
+Processing the 78th image (T15RXQ_S2A_2017154_20170603T165311)
+Finished 93.33 percent at task# 19/50 with total 12.16 mins
+
+Processing the 285th image (T18TXM_S2B_2018343_20181209T154629)
+Finished 93.33 percent at task# 18/50 with total 12.17 mins
+
+Processing the 270th image (T18TXM_S2B_2018303_20181030T154359)
+Finished 93.33 percent at task# 37/50 with total 11.21 mins
+
+Processing the 555th image (T18TXM_S2B_2021067_20210308T154009)
+Finished 93.33 percent at task# 36/50 with total 11.27 mins
+
+Processing the 540th image (T18TXM_S2B_2021030_20210130T155509)
+Finished 30.77 percent at task# 22/50 with total 2.10 mins
+
+Processing the 278th image (T15RXQ_S2A_2019081_20190322T163951)
+Finished 30.77 percent at task# 21/50 with total 2.19 mins
+
+Processing the 265th image (T15RXQ_S2B_2019046_20190215T164359)
+Finished 61.54 percent at task# 10/50 with total 3.53 mins
+
+Processing the 126th image (T15RXQ_S2B_2018031_20180131T164519)
+Finished 61.54 percent at task# 14/50 with total 3.46 mins
+
+Processing the 178th image (T15RXQ_S2B_2018181_20180630T163839)
+Finished 93.33 percent at task# 35/50 with total 11.30 mins
+
+Processing the 525th image (T18TXM_S2B_2020356_20201221T155649)
+Finished 61.54 percent at task# 9/50 with total 3.57 mins
+
+Processing the 113th image (T15RXQ_S2B_2017359_20171225T165709)
+Finished 61.54 percent at task# 11/50 with total 3.54 mins
+
+Processing the 139th image (T15RXQ_S2B_2018071_20180312T164049)
+Finished 61.54 percent at task# 12/50 with total 3.58 mins
+
+Processing the 152th image (T15RXQ_S2A_2018109_20180419T164901)
+Finished 23.08 percent at task# 25/50 with total 1.58 mins
+
+Processing the 316th image (T15RXQ_S2A_2019251_20190908T163901)
+Finished 61.54 percent at task# 13/50 with total 3.62 mins
+
+Processing the 165th image (T15RXQ_S2A_2018146_20180526T163901)
+Finished 69.23 percent at task# 46/50 with total 3.17 mins
+
+Processing the 595th image (T15RXQ_S2A_2021343_20211209T165711)
+Finished 30.77 percent at task# 24/50 with total 2.09 mins
+
+Processing the 304th image (T15RXQ_S2B_2019186_20190705T163849)
+Finished 84.62 percent at task# 2/50 with total 3.54 mins
+
+Processing the 25th image (T15RXQ_S2A_2016130_20160509T201844)
+Finished 80.00 percent at task# 45/50 with total 10.87 mins
+
+Processing the 673th image (T18TXM_S2A_2022007_20220107T154631)
+Finished 23.08 percent at task# 29/50 with total 1.64 mins
+
+Processing the 368th image (T15RXQ_S2B_2020084_20200324T164839)
+Finished 23.08 percent at task# 28/50 with total 1.64 mins
+
+Processing the 355th image (T15RXQ_S2A_2020039_20200208T165441)
+Finished 23.08 percent at task# 30/50 with total 1.65 mins
+
+Processing the 381th image (T15RXQ_S2A_2020126_20200505T163901)
+Finished 23.08 percent at task# 26/50 with total 1.66 mins
+
+Processing the 329th image (T15RXQ_S2B_2019306_20191102T164439)
+Finished 23.08 percent at task# 27/50 with total 1.68 mins
+
+Processing the 342th image (T15RXQ_S2B_2019356_20191222T164709)
+Finished 100.00 percent at task# 32/50 with total 11.92 mins
+Finished 15.38 percent at task# 3/50 with total 1.15 mins
+
+Processing the 29th image (T15RXQ_S2A_2016168_20160616T125622)
+Finished 86.67 percent at task# 44/50 with total 11.03 mins
+
+Processing the 659th image (T18TXM_S2A_2021332_20211128T154611)
+Finished 38.46 percent at task# 23/50 with total 2.64 mins
+
+Processing the 292th image (T15RXQ_S2B_2019126_20190506T163849)
+Finished 30.77 percent at task# 4/50 with total 1.79 mins
+[Warning: No SR for T15RXQ_S2A_2016281_20161007T113739] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+[Warning: No SR for T15RXQ_S2A_2016288_20161014T072212] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 46th image (T15RXQ_S2A_2016298_20161024T022448)
+Finished 100.00 percent at task# 7/50 with total 5.16 mins
+Finished 100.00 percent at task# 6/50 with total 5.10 mins
+Finished 38.46 percent at task# 5/50 with total 1.79 mins
+
+Processing the 58th image (T15RXQ_S2A_2017001_20170101T165452)
+Finished 100.00 percent at task# 16/50 with total 13.07 mins
+Finished 93.33 percent at task# 38/50 with total 11.66 mins
+
+Processing the 570th image (T18TXM_S2A_2021105_20210415T154901)
+Finished 93.33 percent at task# 39/50 with total 11.66 mins
+
+Processing the 585th image (T18TXM_S2A_2021145_20210525T154911)
+Finished 76.92 percent at task# 46/50 with total 3.53 mins
+
+Processing the 596th image (T15RXQ_S2B_2021345_20211211T164659)
+Finished 92.31 percent at task# 2/50 with total 3.87 mins
+
+Processing the 26th image (T15RXQ_S2A_2016138_20160517T090742)
+Finished 69.23 percent at task# 9/50 with total 4.01 mins
+
+Processing the 114th image (T15RXQ_S2A_2017361_20171227T164711)
+Finished 69.23 percent at task# 12/50 with total 4.02 mins
+
+Processing the 153th image (T15RXQ_S2B_2018111_20180421T163859)
+Finished 69.23 percent at task# 14/50 with total 3.93 mins
+
+Processing the 179th image (T15RXQ_S2B_2018184_20180703T165009)
+Finished 69.23 percent at task# 10/50 with total 4.00 mins
+
+Processing the 127th image (T15RXQ_S2A_2018036_20180205T164451)
+Finished 7.69 percent at task# 8/50 with total 0.75 mins
+
+Processing the 93th image (T15RXQ_S2A_2017274_20171001T165311)
+Finished 7.69 percent at task# 15/50 with total 0.75 mins
+
+Processing the 184th image (T15RXQ_S2A_2018196_20180715T163901)
+Finished 38.46 percent at task# 22/50 with total 2.59 mins
+
+Processing the 279th image (T15RXQ_S2A_2019084_20190325T164931)
+Finished 38.46 percent at task# 21/50 with total 2.67 mins
+
+Processing the 266th image (T15RXQ_S2B_2019049_20190218T165339)
+Finished 69.23 percent at task# 11/50 with total 4.01 mins
+
+Processing the 140th image (T15RXQ_S2B_2018074_20180315T165029)
+Finished 69.23 percent at task# 13/50 with total 4.09 mins
+
+Processing the 166th image (T15RXQ_S2A_2018149_20180529T164901)
+Finished 30.77 percent at task# 25/50 with total 2.07 mins
+
+Processing the 317th image (T15RXQ_S2B_2019256_20190913T163859)
+Finished 93.33 percent at task# 34/50 with total 11.84 mins
+
+Processing the 510th image (T18TXM_S2A_2020318_20201113T154521)
+Finished 38.46 percent at task# 24/50 with total 2.59 mins
+
+Processing the 305th image (T15RXQ_S2B_2019189_20190708T164849)
+Finished 93.33 percent at task# 20/50 with total 12.80 mins
+
+Processing the 300th image (T18TXM_S2A_2019016_20190116T155611)
+Finished 93.33 percent at task# 17/50 with total 12.80 mins
+
+Processing the 255th image (T18TXM_S2B_2018266_20180923T154949)
+Finished 30.77 percent at task# 29/50 with total 2.09 mins
+
+Processing the 369th image (T15RXQ_S2A_2020086_20200326T163911)
+Finished 30.77 percent at task# 30/50 with total 2.09 mins
+Finished 30.77 percent at task# 28/50 with total 2.09 mins
+
+Processing the 356th image (T15RXQ_S2B_2020041_20200210T164429)
+
+Processing the 382th image (T15RXQ_S2A_2020129_20200508T164901)
+Finished 30.77 percent at task# 26/50 with total 2.10 mins
+
+Processing the 330th image (T15RXQ_S2B_2019309_20191105T165459)
+Finished 93.33 percent at task# 41/50 with total 11.39 mins
+Finished 100.00 percent at task# 33/50 with total 11.87 mins
+
+Processing the 615th image (T18TXM_S2B_2021220_20210808T154809)
+Finished 30.77 percent at task# 27/50 with total 2.12 mins
+
+Processing the 343th image (T15RXQ_S2B_2019359_20191225T165719)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 93.33 percent at task# 42/50 with total 11.44 mins
+
+Processing the 630th image (T18TXM_S2B_2021257_20210914T153809)
+Finished 93.33 percent at task# 43/50 with total 11.44 mins
+
+Processing the 645th image (T18TXM_S2A_2021295_20211022T155321)
+Finished 100.00 percent at task# 40/50 with total 11.99 mins
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 100.00 percent at task# 18/50 with total 12.93 mins
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 23.08 percent at task# 3/50 with total 1.65 mins
+[Warning: No SR for T15RXQ_S2A_2016177_20160625T225805] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 31th image (T15RXQ_S2A_2016187_20160705T222935)
+Finished 100.00 percent at task# 19/50 with total 12.96 mins
+Finished 100.00 percent at task# 37/50 with total 12.01 mins
+Finished 100.00 percent at task# 36/50 with total 12.07 mins
+Finished 100.00 percent at task# 2/50 with total 4.20 mins
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 16/50 to process 13 images
+
+Processing the 196th image (T15RXQ_S2A_2018229_20180817T164901)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+Finished 84.62 percent at task# 46/50 with total 3.89 mins
+
+Processing the 597th image (T15RXQ_S2B_2021348_20211214T165709)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 32/50 to process 13 images
+At task# 31/50 to process 13 images
+
+Processing the 404th image (T15RXQ_S2B_2020224_20200811T164849)
+
+Processing the 391th image (T15RXQ_S2A_2020176_20200624T163901)
+Finished 53.85 percent at task# 4/50 with total 2.29 mins
+
+Processing the 47th image (T15RXQ_S2A_2016302_20161028T172007)
+Finished 100.00 percent at task# 35/50 with total 12.11 mins
+Finished 46.15 percent at task# 5/50 with total 2.31 mins
+
+Processing the 59th image (T15RXQ_S2A_2017011_20170111T164641)
+Finished 76.92 percent at task# 9/50 with total 4.46 mins
+
+Processing the 115th image (T15RXQ_S2B_2018001_20180101T164659)
+Finished 46.15 percent at task# 23/50 with total 3.24 mins
+
+Processing the 293th image (T15RXQ_S2B_2019129_20190509T164849)
+Finished 76.92 percent at task# 14/50 with total 4.36 mins
+
+Processing the 180th image (T15RXQ_S2A_2018186_20180705T163901)
+Finished 76.92 percent at task# 12/50 with total 4.48 mins
+
+Processing the 154th image (T15RXQ_S2B_2018114_20180424T164859)
+Finished 76.92 percent at task# 10/50 with total 4.45 mins
+
+Processing the 128th image (T15RXQ_S2A_2018039_20180208T165441)
+Finished 76.92 percent at task# 11/50 with total 4.45 mins
+
+Processing the 141th image (T15RXQ_S2A_2018076_20180317T164021)
+Finished 86.67 percent at task# 45/50 with total 11.70 mins
+
+Processing the 674th image (T18TXM_S2A_2022010_20220110T155631)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 46.15 percent at task# 22/50 with total 3.15 mins
+
+Processing the 280th image (T15RXQ_S2B_2019086_20190327T164109)
+Finished 76.92 percent at task# 13/50 with total 4.59 mins
+
+Processing the 167th image (T15RXQ_S2B_2018151_20180531T163859)
+Finished 46.15 percent at task# 21/50 with total 3.23 mins
+
+Processing the 267th image (T15RXQ_S2A_2019051_20190220T164321)
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 93.33 percent at task# 44/50 with total 11.83 mins
+
+Processing the 660th image (T18TXM_S2A_2021335_20211201T155621)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 38.46 percent at task# 25/50 with total 2.61 mins
+
+Processing the 318th image (T15RXQ_S2A_2019264_20190921T165001)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 46.15 percent at task# 24/50 with total 3.12 mins
+
+Processing the 306th image (T15RXQ_S2A_2019201_20190720T163901)
+Finished 15.38 percent at task# 8/50 with total 1.39 mins
+
+Processing the 94th image (T15RXQ_S2A_2017281_20171008T164201)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 18/50 to process 13 images
+
+Processing the 222th image (T15RXQ_S2A_2018299_20181026T165401)
+Finished 100.00 percent at task# 38/50 with total 12.43 mins
+Finished 100.00 percent at task# 39/50 with total 12.43 mins
+Finished 15.38 percent at task# 15/50 with total 1.42 mins
+
+Processing the 185th image (T15RXQ_S2A_2018199_20180718T165111)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 33/50 to process 13 images
+
+Processing the 417th image (T15RXQ_S2A_2020256_20200912T163901)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 40/50 to process 13 images
+
+Processing the 508th image (T15RXQ_S2A_2021123_20210503T164851)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 19/50 to process 13 images
+
+Processing the 235th image (T15RXQ_S2B_2018331_20181127T164629)
+Finished 92.31 percent at task# 46/50 with total 4.26 mins
+
+Processing the 598th image (T15RXQ_S2A_2021350_20211216T164711)
+Finished 38.46 percent at task# 28/50 with total 2.65 mins
+
+Processing the 357th image (T15RXQ_S2B_2020044_20200213T165409)
+Finished 38.46 percent at task# 30/50 with total 2.65 mins
+
+Processing the 383th image (T15RXQ_S2A_2020136_20200515T163901)
+Finished 38.46 percent at task# 29/50 with total 2.65 mins
+
+Processing the 370th image (T15RXQ_S2A_2020089_20200329T164901)
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 38.46 percent at task# 26/50 with total 2.67 mins
+
+Processing the 331th image (T15RXQ_S2A_2019311_20191107T164511)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 36/50 to process 13 images
+
+Processing the 456th image (T15RXQ_S2A_2020359_20201224T165721)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 37/50 to process 13 images
+
+Processing the 469th image (T15RXQ_S2B_2021025_20210125T164559)
+Finished 38.46 percent at task# 27/50 with total 2.72 mins
+
+Processing the 344th image (T15RXQ_S2A_2019361_20191227T164711)
+Finished 38.46 percent at task# 3/50 with total 2.16 mins
+
+Processing the 32th image (T15RXQ_S2A_2016197_20160715T165502)
+Start to stack ARD Tile 15RXQ
+Finished 100.00 percent at task# 34/50 with total 12.56 mins
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 35/50 to process 13 images
+
+Processing the 443th image (T15RXQ_S2A_2020326_20201121T164621)
+Finished 100.00 percent at task# 41/50 with total 12.06 mins
+Finished 61.54 percent at task# 4/50 with total 2.80 mins
+[Warning: No SR for T15RXQ_S2A_2016311_20161106T013657] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+[Warning: No SR for T15RXQ_S2A_2016317_20161112T221429] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+[Warning: No SR for T15RXQ_S2A_2016319_20161114T170439] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 51th image (T15RXQ_S2A_2016327_20161122T210836)
+Finished 84.62 percent at task# 9/50 with total 4.92 mins
+
+Processing the 116th image (T15RXQ_S2B_2018004_20180104T165659)
+Finished 84.62 percent at task# 14/50 with total 4.82 mins
+
+Processing the 181th image (T15RXQ_S2A_2018189_20180708T164901)
+Finished 84.62 percent at task# 10/50 with total 4.90 mins
+
+Processing the 129th image (T15RXQ_S2A_2018046_20180215T164351)
+Finished 100.00 percent at task# 43/50 with total 12.12 mins
+Finished 53.85 percent at task# 5/50 with total 2.83 mins
+
+Processing the 60th image (T15RXQ_S2A_2017024_20170124T165551)
+Finished 84.62 percent at task# 12/50 with total 4.93 mins
+
+Processing the 155th image (T15RXQ_S2A_2018116_20180426T164011)
+Finished 100.00 percent at task# 20/50 with total 13.59 mins
+Finished 84.62 percent at task# 11/50 with total 4.91 mins
+
+Processing the 142th image (T15RXQ_S2A_2018079_20180320T165001)
+Finished 100.00 percent at task# 17/50 with total 13.61 mins
+Finished 53.85 percent at task# 23/50 with total 3.74 mins
+
+Processing the 294th image (T15RXQ_S2A_2019131_20190511T163901)
+Finished 7.69 percent at task# 31/50 with total 0.61 mins
+
+Processing the 392th image (T15RXQ_S2A_2020179_20200627T164901)
+Finished 7.69 percent at task# 32/50 with total 0.66 mins
+
+Processing the 405th image (T15RXQ_S2A_2020226_20200813T163901)
+Finished 53.85 percent at task# 22/50 with total 3.61 mins
+
+Processing the 281th image (T15RXQ_S2B_2019089_20190330T164859)
+Finished 53.85 percent at task# 21/50 with total 3.69 mins
+
+Processing the 268th image (T15RXQ_S2A_2019054_20190223T165301)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 100.00 percent at task# 46/50 with total 4.61 mins
+Finished 84.62 percent at task# 13/50 with total 5.07 mins
+
+Processing the 168th image (T15RXQ_S2A_2018156_20180605T163941)
+Finished 46.15 percent at task# 25/50 with total 3.05 mins
+
+Processing the 319th image (T15RXQ_S2B_2019269_20190926T165039)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 53.85 percent at task# 24/50 with total 3.57 mins
+
+Processing the 307th image (T15RXQ_S2A_2019204_20190723T164901)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 38/50 to process 13 images
+
+Processing the 482th image (T15RXQ_S2B_2021058_20210227T165139)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 39/50 to process 13 images
+
+Processing the 495th image (T15RXQ_S2A_2021090_20210331T163851)
+Finished 7.69 percent at task# 16/50 with total 0.82 mins
+
+Processing the 197th image (T15RXQ_S2B_2018231_20180819T163829)
+Finished 23.08 percent at task# 15/50 with total 1.93 mins
+
+Processing the 186th image (T15RXQ_S2B_2018201_20180720T163839)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 93.33 percent at task# 45/50 with total 12.41 mins
+
+Processing the 675th image (T18TXM_S2B_2022012_20220112T154619)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 46.15 percent at task# 28/50 with total 3.17 mins
+
+Processing the 358th image (T15RXQ_S2A_2020046_20200215T164351)
+Finished 46.15 percent at task# 29/50 with total 3.17 mins
+
+Processing the 371th image (T15RXQ_S2B_2020091_20200331T163839)
+Finished 46.15 percent at task# 26/50 with total 3.17 mins
+
+Processing the 332th image (T15RXQ_S2A_2019314_20191110T165531)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+ 
+ 
+To get started, type doc.
+To get started, type doc.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 41/50 to process 13 images
+At task# 34/50 to process 13 images
+Finished 46.15 percent at task# 30/50 with total 3.18 mins
+
+Processing the 384th image (T15RXQ_S2B_2020144_20200523T164839)
+
+Processing the 521th image (T15RXQ_S2B_2021158_20210607T164839)
+
+Processing the 430th image (T15RXQ_S2B_2020291_20201017T164309)
+Finished 7.69 percent at task# 18/50 with total 0.60 mins
+
+Processing the 223th image (T15RXQ_S2B_2018301_20181028T164409)
+Finished 7.69 percent at task# 19/50 with total 0.57 mins
+
+Processing the 236th image (T15RXQ_S2B_2018334_20181130T165639)
+ 
+To get started, type doc.
+Finished 46.15 percent at task# 3/50 with total 2.64 mins
+For product information, visit www.mathworks.com.
+ 
+[Warning: No SR for T15RXQ_S2A_2016200_20160718T165322] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 34th image (T15RXQ_S2A_2016207_20160725T164322)
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 20/50 to process 13 images
+
+Processing the 248th image (T15RXQ_S2A_2019004_20190104T165701)
+Start to stack ARD Tile 15RXQ
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 42/50 to process 13 images
+
+Processing the 534th image (T15RXQ_S2A_2021190_20210709T163901)
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 43/50 to process 13 images
+
+Processing the 547th image (T15RXQ_S2A_2021223_20210811T164901)
+Start to stack ARD Tile 15RXQ
+Finished 46.15 percent at task# 27/50 with total 3.25 mins
+
+Processing the 345th image (T15RXQ_S2A_2019364_20191230T165711)
+Finished 7.69 percent at task# 33/50 with total 0.63 mins
+
+Processing the 418th image (T15RXQ_S2A_2020259_20200915T164931)
+/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 17/50 to process 13 images
+
+Processing the 209th image (T15RXQ_S2B_2018264_20180921T165159)
+Finished 92.31 percent at task# 9/50 with total 5.35 mins
+
+Processing the 117th image (T15RXQ_S2A_2018006_20180106T165441)
+Finished 7.69 percent at task# 40/50 with total 0.65 mins
+Finished 92.31 percent at task# 14/50 with total 5.26 mins
+3839)
+
+Processing the 182th image (T15RXQ_S2B_2018191_20180710T163839)
+Finished 92.31 percent at task# 4/50 with total 3.28 mins
+[Warning: No SR for T15RXQ_S2A_2016331_20161126T010007] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+Finished 100.00 percent at task# 44/50 with total 12.55 mins
+Finished 92.31 percent at task# 10/50 with total 5.34 mins
+
+Processing the 130th image (T15RXQ_S2A_2018049_20180218T165341)
+Finished 92.31 percent at task# 12/50 with total 5.37 mins
+
+Processing the 156th image (T15RXQ_S2A_2018119_20180429T164901)
+Finished 92.31 percent at task# 11/50 with total 5.35 mins
+
+Processing the 143th image (T15RXQ_S2B_2018081_20180322T163939)
+Finished 61.54 percent at task# 5/50 with total 3.30 mins
+
+Processing the 61th image (T15RXQ_S2A_2017031_20170131T164521)
+Finished 15.38 percent at task# 31/50 with total 1.12 mins
+
+Processing the 393th image (T15RXQ_S2B_2020181_20200629T163839)
+Finished 7.69 percent at task# 37/50 with total 0.68 mins
+
+Processing the 470th image (T15RXQ_S2B_2021028_20210128T165539)
+Finished 61.54 percent at task# 23/50 with total 4.30 mins
+
+Processing the 295th image (T15RXQ_S2A_2019141_20190521T163901)
+Finished 7.69 percent at task# 36/50 with total 0.73 mins
+
+Processing the 457th image (T15RXQ_S2B_2020361_20201226T164709)
+Finished 7.69 percent at task# 35/50 with total 0.68 mins
+
+Processing the 444th image (T15RXQ_S2A_2020329_20201124T165631)
+Finished 92.31 percent at task# 13/50 with total 5.54 mins
+
+Processing the 169th image (T15RXQ_S2A_2018159_20180608T164901)
+Finished 23.08 percent at task# 8/50 with total 2.27 mins
+
+Processing the 95th image (T15RXQ_S2B_2017289_20171016T165259)
+Finished 15.38 percent at task# 32/50 with total 1.22 mins
+
+Processing the 406th image (T15RXQ_S2A_2020229_20200816T164901)
+Finished 61.54 percent at task# 22/50 with total 4.18 mins
+
+Processing the 282th image (T15RXQ_S2A_2019091_20190401T163901)
+Finished 53.85 percent at task# 25/50 with total 3.63 mins
+
+Processing the 320th image (T15RXQ_S2A_2019271_20190928T164041)
+Finished 61.54 percent at task# 21/50 with total 4.29 mins
+
+Processing the 269th image (T15RXQ_S2B_2019056_20190225T164249)
+Finished 61.54 percent at task# 24/50 with total 4.15 mins
+
+Processing the 308th image (T15RXQ_S2B_2019209_20190728T164849)
+Finished 53.85 percent at task# 29/50 with total 3.63 mins
+
+Processing the 372th image (T15RXQ_S2B_2020094_20200403T164839)
+Finished 53.85 percent at task# 28/50 with total 3.63 mins
+
+Processing the 359th image (T15RXQ_S2A_2020049_20200218T165341)
+Finished 53.85 percent at task# 26/50 with total 3.63 mins
+
+Processing the 333th image (T15RXQ_S2A_2019321_20191117T164551)
+Finished 53.85 percent at task# 30/50 with total 3.64 mins
+
+Processing the 385th image (T15RXQ_S2A_2020149_20200528T164901)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+Finished 61.54 percent at task# 3/50 with total 3.11 mins
+
+Processing the 35th image (T15RXQ_S2A_2016217_20160804T165502)
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Finished 100.00 percent at task# 9/50 with total 5.79 mins
+Finished 100.00 percent at task# 14/50 with total 5.70 mins
+Finished 100.00 percent at task# 10/50 with total 5.78 mins
+Finished 100.00 percent at task# 12/50 with total 5.81 mins
+Finished 100.00 percent at task# 11/50 with total 5.79 mins
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 44/50 to process 13 images
+
+Processing the 560th image (T15RXQ_S2B_2021255_20210912T163839)
+Finished 30.77 percent at task# 15/50 with total 2.56 mins
+
+Processing the 187th image (T15RXQ_S2B_2018204_20180723T165049)
+Finished 15.38 percent at task# 16/50 with total 1.50 mins
+
+Processing the 198th image (T15RXQ_S2B_2018234_20180822T164839)
+Finished 7.69 percent at task# 39/50 with total 0.71 mins
+
+Processing the 496th image (T15RXQ_S2A_2021093_20210403T164851)
+Finished 7.69 percent at task# 38/50 with total 0.72 mins
+
+Processing the 483th image (T15RXQ_S2A_2021060_20210301T164211)
+Finished 53.85 percent at task# 27/50 with total 3.81 mins
+
+Processing the 346th image (T15RXQ_S2B_2020004_20200104T165709)
+Finished 69.23 percent at task# 5/50 with total 3.79 mins
+
+Processing the 62th image (T15RXQ_S2A_2017041_20170210T165451)
+Finished 15.38 percent at task# 33/50 with total 1.20 mins
+
+Processing the 419th image (T15RXQ_S2B_2020261_20200917T163839)
+Finished 15.38 percent at task# 19/50 with total 1.21 mins
+
+Processing the 237th image (T15RXQ_S2A_2018336_20181202T164641)
+Finished 7.69 percent at task# 34/50 with total 0.66 mins
+
+Processing the 431th image (T15RXQ_S2B_2020294_20201020T165329)
+Finished 7.69 percent at task# 41/50 with total 0.67 mins
+
+Processing the 522th image (T15RXQ_S2A_2021160_20210609T163901)
+Finished 15.38 percent at task# 40/50 with total 1.28 mins
+
+Processing the 510th image (T15RXQ_S2B_2021128_20210508T164839)
+Finished 69.23 percent at task# 23/50 with total 4.78 mins
+
+Processing the 296th image (T15RXQ_S2B_2019146_20190526T163849)
+Finished 100.00 percent at task# 45/50 with total 13.19 mins
+Finished 100.00 percent at task# 13/50 with total 6.01 mins
+Finished 23.08 percent at task# 31/50 with total 1.68 mins
+
+Processing the 394th image (T15RXQ_S2A_2020186_20200704T163901)
+Finished 7.69 percent at task# 42/50 with total 0.71 mins
+
+Processing the 535th image (T15RXQ_S2A_2021193_20210712T164901)
+Finished 7.69 percent at task# 17/50 with total 0.72 mins
+
+Processing the 210th image (T15RXQ_S2A_2018266_20180923T164011)
+Finished 15.38 percent at task# 18/50 with total 1.38 mins
+
+Processing the 224th image (T15RXQ_S2B_2018304_20181031T165429)
+Finished 7.69 percent at task# 20/50 with total 0.77 mins
+
+Processing the 249th image (T15RXQ_S2B_2019006_20190106T164659)
+Finished 7.69 percent at task# 43/50 with total 0.76 mins
+
+Processing the 548th image (T15RXQ_S2B_2021225_20210813T163839)
+Finished 69.23 percent at task# 22/50 with total 4.67 mins
+
+Processing the 283th image (T15RXQ_S2A_2019094_20190404T165211)
+Finished 15.38 percent at task# 37/50 with total 1.31 mins
+
+Processing the 471th image (T15RXQ_S2A_2021030_20210130T164531)
+Finished 15.38 percent at task# 35/50 with total 1.26 mins
+
+Processing the 445th image (T15RXQ_S2B_2020331_20201126T164629)
+Finished 61.54 percent at task# 25/50 with total 4.10 mins
+
+Processing the 321th image (T15RXQ_S2B_2019276_20191003T164129)
+Finished 69.23 percent at task# 21/50 with total 4.79 mins
+
+Processing the 270th image (T15RXQ_S2B_2019059_20190228T165229)
+Finished 69.23 percent at task# 24/50 with total 4.60 mins
+
+Processing the 309th image (T15RXQ_S2B_2019219_20190807T164849)
+Finished 15.38 percent at task# 36/50 with total 1.37 mins
+
+Processing the 458th image (T15RXQ_S2B_2020364_20201229T165719)
+Finished 30.77 percent at task# 8/50 with total 2.90 mins
+
+Processing the 96th image (T15RXQ_S2A_2017291_20171018T165451)
+Finished 23.08 percent at task# 32/50 with total 1.87 mins
+
+Processing the 407th image (T15RXQ_S2B_2020231_20200818T163839)
+Finished 69.23 percent at task# 3/50 with total 3.60 mins
+
+Processing the 36th image (T15RXQ_S2A_2016220_20160807T165322)
+Finished 61.54 percent at task# 28/50 with total 4.22 mins
+
+Processing the 360th image (T15RXQ_S2B_2020051_20200220T164319)
+Finished 61.54 percent at task# 29/50 with total 4.21 mins
+
+Processing the 373th image (T15RXQ_S2A_2020096_20200405T163851)
+Finished 61.54 percent at task# 26/50 with total 4.22 mins
+
+Processing the 334th image (T15RXQ_S2A_2019324_20191120T165611)
+Finished 61.54 percent at task# 30/50 with total 4.23 mins
+
+Processing the 386th image (T15RXQ_S2B_2020154_20200602T164849)
+Finished 76.92 percent at task# 5/50 with total 4.26 mins
+
+Processing the 63th image (T15RXQ_S2A_2017051_20170220T164311)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023b Update 1 (23.2.0.2380103) 64-bit (glnxa64)
+                             September 11, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+Start to stack ARD Tile 15RXQ
+A total of 0604 Sentinel-2 images at /gpfs/sharedfs1/zhulab/Kexin/Sentinel-2/T15RXQ/ARDBRDF_HLSAngle
+At task# 45/50 to process 13 images
+
+Processing the 573th image (T15RXQ_S2B_2021288_20211015T165259)
+Finished 61.54 percent at task# 27/50 with total 4.43 mins
+
+Processing the 347th image (T15RXQ_S2A_2020006_20200106T164651)
+Finished 15.38 percent at task# 39/50 with total 1.38 mins
+
+Processing the 497th image (T15RXQ_S2B_2021095_20210405T163839)
+Finished 23.08 percent at task# 33/50 with total 1.81 mins
+
+Processing the 420th image (T15RXQ_S2B_2020264_20200920T164909)
+Finished 15.38 percent at task# 34/50 with total 1.25 mins
+
+Processing the 432th image (T15RXQ_S2A_2020296_20201022T164341)
+Finished 76.92 percent at task# 23/50 with total 5.32 mins
+
+Processing the 297th image (T15RXQ_S2A_2019154_20190603T164901)
+Finished 15.38 percent at task# 38/50 with total 1.40 mins
+
+Processing the 484th image (T15RXQ_S2A_2021063_20210304T165201)
+Finished 15.38 percent at task# 41/50 with total 1.27 mins
+
+Processing the 523th image (T15RXQ_S2A_2021163_20210612T164901)
+Finished 7.69 percent at task# 44/50 with total 0.73 mins
+
+Processing the 561th image (T15RXQ_S2B_2021258_20210915T164839)
+Finished 23.08 percent at task# 40/50 with total 1.92 mins
+Finished 30.77 percent at task# 31/50 with total 2.27 mins
+
+Processing the 511th image (T15RXQ_S2A_2021130_20210510T163901)
+
+Processing the 395th image (T15RXQ_S2A_2020189_20200707T164901)
+Finished 15.38 percent at task# 17/50 with total 1.30 mins
+
+Processing the 211th image (T15RXQ_S2A_2018269_20180926T165201)
+Finished 23.08 percent at task# 19/50 with total 1.95 mins
+
+Processing the 238th image (T15RXQ_S2A_2018339_20181205T165651)
+Finished 23.08 percent at task# 16/50 with total 2.31 mins
+
+Processing the 199th image (T15RXQ_S2A_2018236_20180824T163901)
+Finished 38.46 percent at task# 15/50 with total 3.39 mins
+
+Processing the 188th image (T15RXQ_S2A_2018206_20180725T163901)
+Finished 15.38 percent at task# 42/50 with total 1.35 mins
+
+Processing the 536th image (T15RXQ_S2B_2021195_20210714T163839)
+Finished 76.92 percent at task# 22/50 with total 5.26 mins
+
+Processing the 284th image (T15RXQ_S2B_2019096_20190406T163839)
+Finished 23.08 percent at task# 35/50 with total 1.87 mins
+
+Processing the 446th image (T15RXQ_S2B_2020334_20201129T165649)
+Finished 15.38 percent at task# 20/50 with total 1.41 mins
+
+Processing the 250th image (T15RXQ_S2B_2019009_20190109T165659)
+Finished 15.38 percent at task# 43/50 with total 1.39 mins
+
+Processing the 549th image (T15RXQ_S2B_2021228_20210816T164839)
+Finished 76.92 percent at task# 3/50 with total 4.08 mins
+[Warning: No SR for T15RXQ_S2A_2016227_20160814T164322] 
+[> In stackS2ARD2Linev2 (line 437)
+In batchStackS2ARD2Line (line 61)] 
+
+Processing the 38th image (T15RXQ_S2A_2016238_20160825T203032)
+Finished 69.23 percent at task# 25/50 with total 4.70 mins
+
+Processing the 322th image (T15RXQ_S2A_2019281_20191008T164201)
+Finished 23.08 percent at task# 37/50 with total 1.94 mins
+
+Processing the 472th image (T15RXQ_S2A_2021033_20210202T165521)
+Finished 76.92 percent at task# 24/50 with total 5.19 mins
+
+Processing the 310th image (T15RXQ_S2A_2019224_20190812T164901)
+Finished 76.92 percent at task# 21/50 with total 5.41 mins
+
+Processing the 271th image (T15RXQ_S2A_2019061_20190302T164211)
+Finished 69.23 percent at task# 26/50 with total 4.72 mins
+
+Processing the 335th image (T15RXQ_S2A_2019331_20191127T164631)
+Finished 69.23 percent at task# 29/50 with total 4.72 mins
+
+Processing the 374th image (T15RXQ_S2A_2020099_20200408T164851)
+Finished 69.23 percent at task# 28/50 with total 4.73 mins
+
+Processing the 361th image (T15RXQ_S2A_2020056_20200225T164251)
+Finished 23.08 percent at task# 18/50 with total 2.14 mins
+
+Processing the 225th image (T15RXQ_S2A_2018306_20181102T164441)
+Finished 69.23 percent at task# 30/50 with total 4.74 mins
+
+Processing the 387th image (T15RXQ_S2A_2020156_20200604T163901)
+Finished 23.08 percent at task# 36/50 with total 2.04 mins
+
+Processing the 459th image (T15RXQ_S2A_2020366_20201231T164711)
+Finished 84.62 percent at task# 5/50 with total 4.74 mins
+
+Processing the 64th image (T15RXQ_S2A_2017054_20170223T165311)
+Finished 38.46 percent at task# 8/50 with total 3.56 mins
+
+Processing the 97th image (T15RXQ_S2A_2017294_20171021T165331)
+Finished 30.77 percent at task# 32/50 with total 2.50 mins
+
+Processing the 408th image (T15RXQ_S2B_2020234_20200821T164849)
+Finished 69.23 percent at task# 27/50 with total 4.94 mins
+
+Processing the 348th image (T15RXQ_S2B_2020011_20200111T164649)
+Finished 84.62 percent at task# 23/50 with total 5.85 mins
+
+Processing the 298th image (T15RXQ_S2B_2019159_20190608T164849)
+Finished 23.08 percent at task# 39/50 with total 1.98 mins
+
+Processing the 498th image (T15RXQ_S2B_2021098_20210408T164839)
+Finished 23.08 percent at task# 34/50 with total 1.85 mins
+
+Processing the 433th image (T15RXQ_S2A_2020299_20201025T165401)
+Finished 30.77 percent at task# 33/50 with total 2.44 mins
+
+Processing the 421th image (T15RXQ_S2A_2020266_20200922T164021)
+Finished 23.08 percent at task# 41/50 with total 1.89 mins
+
+Processing the 524th image (T15RXQ_S2B_2021165_20210614T163839)
+Finished 7.69 percent at task# 45/50 with total 0.70 mins
+
+Processing the 574th image (T15RXQ_S2A_2021290_20211017T164311)
+Finished 84.62 percent at task# 22/50 with total 5.73 mins
+
+Processing the 285th image (T15RXQ_S2B_2019099_20190409T164849)
+Finished 23.08 percent at task# 38/50 with total 2.05 mins
+
+Processing the 485th image (T15RXQ_S2B_2021065_20210306T164049)
+Finished 92.31 percent at task# 3/50 with total 4.55 mins
+
+Processing the 39th image (T15RXQ_S2A_2016241_20160828T194718)
+Finished 84.62 percent at task# 24/50 with total 5.65 mins
+
+Processing the 311th image (T15RXQ_S2B_2019226_20190814T163849)
+Finished 76.92 percent at task# 25/50 with total 5.17 mins
+
+Processing the 323th image (T15RXQ_S2A_2019284_20191011T165231)
+Finished 15.38 percent at task# 44/50 with total 1.39 mins
+
+Processing the 562th image (T15RXQ_S2A_2021260_20210917T163941)
+Finished 38.46 percent at task# 31/50 with total 2.90 mins
+
+Processing the 396th image (T15RXQ_S2B_2020204_20200722T164849)
+Finished 84.62 percent at task# 21/50 with total 5.89 mins
+
+Processing the 272th image (T15RXQ_S2A_2019064_20190305T165151)
+Finished 30.77 percent at task# 40/50 with total 2.61 mins
+
+Processing the 512th image (T15RXQ_S2A_2021133_20210513T164901)
+Finished 76.92 percent at task# 26/50 with total 5.24 mins
+
+Processing the 336th image (T15RXQ_S2A_2019334_20191130T165641)
+Finished 76.92 percent at task# 28/50 with total 5.24 mins
+
+Processing the 362th image (T15RXQ_S2A_2020059_20200228T165231)
+Finished 23.08 percent at task# 17/50 with total 2.00 mins
+
+Processing the 212th image (T15RXQ_S2B_2018271_20180928T164339)
+Finished 76.92 percent at task# 29/50 with total 5.25 mins
+
+Processing the 375th image (T15RXQ_S2B_2020104_20200413T164839)
+Finished 76.92 percent at task# 30/50 with total 5.26 mins
+
+Processing the 388th image (T15RXQ_S2A_2020159_20200607T164901)
+Finished 92.31 percent at task# 5/50 with total 5.26 mins
+
+Processing the 65th image (T15RXQ_S2A_2017061_20170302T164311)
+Finished 30.77 percent at task# 35/50 with total 2.52 mins
+
+Processing the 447th image (T15RXQ_S2A_2020336_20201201T164651)
+Finished 23.08 percent at task# 42/50 with total 2.04 mins
+
+Processing the 537th image (T15RXQ_S2B_2021198_20210717T164849)
+Finished 30.77 percent at task# 37/50 with total 2.62 mins
+
+Processing the 473th image (T15RXQ_S2B_2021035_20210204T164459)
+Finished 23.08 percent at task# 43/50 with total 2.09 mins
+
+Processing the 550th image (T15RXQ_S2A_2021230_20210818T163901)
+Finished 30.77 percent at task# 19/50 with total 2.72 mins
+
+Processing the 239th image (T15RXQ_S2B_2018344_20181210T165659)
+Finished 23.08 percent at task# 20/50 with total 2.12 mins
+
+Processing the 251th image (T15RXQ_S2A_2019011_20190111T164641)
+Finished 30.77 percent at task# 16/50 with total 3.12 mins
+
+Processing the 200th image (T15RXQ_S2A_2018239_20180827T164851)
+Finished 46.15 percent at task# 15/50 with total 4.19 mins
+
+Processing the 189th image (T15RXQ_S2A_2018209_20180728T164901)
+Finished 38.46 percent at task# 32/50 with total 3.19 mins
+
+Processing the 409th image (T15RXQ_S2A_2020236_20200823T163901)
+Finished 30.77 percent at task# 36/50 with total 2.76 mins
+
+Processing the 460th image (T15RXQ_S2A_2021003_20210103T165711)
+Finished 92.31 percent at task# 23/50 with total 6.40 mins
+
+Processing the 299th image (T15RXQ_S2A_2019161_20190610T163901)
+Finished 46.15 percent at task# 8/50 with total 4.34 mins
+
+Processing the 98th image (T15RXQ_S2B_2017296_20171023T165439)
+Finished 30.77 percent at task# 18/50 with total 2.97 mins
+
+Processing the 226th image (T15RXQ_S2A_2018309_20181105T165501)
+Finished 76.92 percent at task# 27/50 with total 5.59 mins
+
+Processing the 349th image (T15RXQ_S2A_2020016_20200116T164631)
+Finished 100.00 percent at task# 3/50 with total 5.08 mins
+Finished 92.31 percent at task# 22/50 with total 6.34 mins
+
+Processing the 286th image (T15RXQ_S2A_2019101_20190411T163901)
+Finished 84.62 percent at task# 25/50 with total 5.78 mins
+
+Processing the 324th image (T15RXQ_S2A_2019291_20191018T164311)
+Finished 30.77 percent at task# 34/50 with total 2.54 mins
+
+Processing the 434th image (T15RXQ_S2B_2020301_20201027T164409)
+Finished 92.31 percent at task# 24/50 with total 6.27 mins
+
+Processing the 312th image (T15RXQ_S2A_2019231_20190819T163901)
+Finished 30.77 percent at task# 39/50 with total 2.70 mins
+
+Processing the 499th image (T15RXQ_S2A_2021100_20210410T163851)
+Finished 38.46 percent at task# 33/50 with total 3.14 mins
+
+Processing the 422th image (T15RXQ_S2A_2020269_20200925T165041)
+Finished 30.77 percent at task# 41/50 with total 2.58 mins
+
+Processing the 525th image (T15RXQ_S2B_2021168_20210617T164839)
+Finished 15.38 percent at task# 45/50 with total 1.40 mins
+
+Processing the 575th image (T15RXQ_S2A_2021293_20211020T165331)
+Finished 100.00 percent at task# 5/50 with total 5.76 mins
+Finished 30.77 percent at task# 38/50 with total 2.74 mins
+
+Processing the 486th image (T15RXQ_S2B_2021068_20210309T165029)
+Finished 46.15 percent at task# 31/50 with total 3.57 mins
+
+Processing the 397th image (T15RXQ_S2A_2020206_20200724T163901)
+Finished 92.31 percent at task# 21/50 with total 6.56 mins
+
+Processing the 273th image (T15RXQ_S2B_2019069_20190310T165119)
+Finished 84.62 percent at task# 28/50 with total 5.86 mins
+
+Processing the 363th image (T15RXQ_S2B_2020061_20200301T164119)
+Finished 84.62 percent at task# 26/50 with total 5.87 mins
+
+Processing the 337th image (T15RXQ_S2B_2019336_20191202T164639)
+Finished 23.08 percent at task# 44/50 with total 2.12 mins
+
+Processing the 563th image (T15RXQ_S2A_2021263_20210920T165001)
+Finished 84.62 percent at task# 29/50 with total 5.88 mins
+
+Processing the 376th image (T15RXQ_S2A_2020106_20200415T163901)
+Finished 84.62 percent at task# 30/50 with total 5.91 mins
+
+Processing the 389th image (T15RXQ_S2A_2020166_20200614T163901)
+Finished 38.46 percent at task# 35/50 with total 3.17 mins
+
+Processing the 448th image (T15RXQ_S2A_2020339_20201204T165701)
+Finished 38.46 percent at task# 40/50 with total 3.31 mins
+
+Processing the 513th image (T15RXQ_S2B_2021135_20210515T163839)
+Finished 30.77 percent at task# 42/50 with total 2.72 mins
+
+Processing the 538th image (T15RXQ_S2A_2021200_20210719T163901)
+Finished 38.46 percent at task# 37/50 with total 3.28 mins
+
+Processing the 474th image (T15RXQ_S2B_2021038_20210207T165449)
+Finished 30.77 percent at task# 43/50 with total 2.75 mins
+
+Processing the 551th image (T15RXQ_S2A_2021233_20210821T164901)
+Finished 30.77 percent at task# 17/50 with total 2.78 mins
+
+Processing the 213th image (T15RXQ_S2B_2018274_20181001T165109)
+Finished 38.46 percent at task# 19/50 with total 3.42 mins
+
+Processing the 240th image (T15RXQ_S2A_2018346_20181212T164701)
+Finished 30.77 percent at task# 20/50 with total 2.86 mins
+
+Processing the 252th image (T15RXQ_S2A_2019014_20190114T165641)
+Finished 53.85 percent at task# 15/50 with total 4.89 mins
+
+Processing the 190th image (T15RXQ_S2B_2018214_20180802T164839)
+Finished 38.46 percent at task# 16/50 with total 3.85 mins
+
+Processing the 201th image (T15RXQ_S2B_2018244_20180901T165119)
+Finished 100.00 percent at task# 23/50 with total 6.98 mins
+Finished 46.15 percent at task# 32/50 with total 3.85 mins
+
+Processing the 410th image (T15RXQ_S2A_2020239_20200826T164901)
+Finished 38.46 percent at task# 36/50 with total 3.44 mins
+
+Processing the 461th image (T15RXQ_S2B_2021005_20210105T164659)
+Finished 84.62 percent at task# 27/50 with total 6.18 mins
+
+Processing the 350th image (T15RXQ_S2A_2020019_20200119T165621)
+Finished 53.85 percent at task# 8/50 with total 4.98 mins
+
+Processing the 99th image (T15RXQ_S2A_2017301_20171028T164411)
+Finished 100.00 percent at task# 22/50 with total 6.83 mins
+Finished 92.31 percent at task# 25/50 with total 6.27 mins
+
+Processing the 325th image (T15RXQ_S2A_2019294_20191021T165351)
+Finished 100.00 percent at task# 24/50 with total 6.75 mins
+Finished 38.46 percent at task# 18/50 with total 3.63 mins
+
+Processing the 227th image (T15RXQ_S2B_2018311_20181107T164459)
+Finished 100.00 percent at task# 21/50 with total 7.03 mins
+Finished 92.31 percent at task# 26/50 with total 6.38 mins
+
+Processing the 338th image (T15RXQ_S2A_2019341_20191207T164701)
+Finished 92.31 percent at task# 28/50 with total 6.38 mins
+
+Processing the 364th image (T15RXQ_S2A_2020069_20200309T165121)
+Finished 38.46 percent at task# 34/50 with total 3.21 mins
+
+Processing the 435th image (T15RXQ_S2B_2020304_20201030T165429)
+Finished 92.31 percent at task# 29/50 with total 6.40 mins
+
+Processing the 377th image (T15RXQ_S2A_2020109_20200418T164901)
+Finished 38.46 percent at task# 39/50 with total 3.34 mins
+
+Processing the 500th image (T15RXQ_S2A_2021103_20210413T164851)
+Finished 92.31 percent at task# 30/50 with total 6.41 mins
+
+Processing the 390th image (T15RXQ_S2B_2020171_20200619T163839)
+Finished 38.46 percent at task# 41/50 with total 3.24 mins
+
+Processing the 526th image (T15RXQ_S2A_2021170_20210619T163901)
+Finished 53.85 percent at task# 31/50 with total 4.18 mins
+
+Processing the 398th image (T15RXQ_S2A_2020209_20200727T164901)
+Finished 46.15 percent at task# 33/50 with total 3.83 mins
+
+Processing the 423th image (T15RXQ_S2B_2020271_20200927T163949)
+Finished 23.08 percent at task# 45/50 with total 2.08 mins
+
+Processing the 576th image (T15RXQ_S2B_2021295_20211022T164339)
+Finished 38.46 percent at task# 38/50 with total 3.43 mins
+
+Processing the 487th image (T15RXQ_S2A_2021070_20210311T164111)
+Finished 46.15 percent at task# 35/50 with total 3.83 mins
+
+Processing the 449th image (T15RXQ_S2B_2020341_20201206T164659)
+Finished 30.77 percent at task# 44/50 with total 2.88 mins
+
+Processing the 564th image (T15RXQ_S2B_2021265_20210922T163909)
+Finished 38.46 percent at task# 42/50 with total 3.41 mins
+
+Processing the 539th image (T15RXQ_S2A_2021203_20210722T164901)
+Finished 46.15 percent at task# 40/50 with total 4.05 mins
+
+Processing the 514th image (T15RXQ_S2B_2021138_20210518T164839)
+Finished 38.46 percent at task# 43/50 with total 3.46 mins
+
+Processing the 552th image (T15RXQ_S2B_2021235_20210823T163839)
+Finished 46.15 percent at task# 37/50 with total 4.00 mins
+
+Processing the 475th image (T15RXQ_S2A_2021040_20210209T164431)
+Finished 92.31 percent at task# 27/50 with total 6.72 mins
+
+Processing the 351th image (T15RXQ_S2B_2020021_20200121T164609)
+Finished 46.15 percent at task# 19/50 with total 4.10 mins
+
+Processing the 241th image (T15RXQ_S2A_2018349_20181215T165711)
+Finished 100.00 percent at task# 25/50 with total 6.82 mins
+Finished 38.46 percent at task# 17/50 with total 3.52 mins
+
+Processing the 214th image (T15RXQ_S2A_2018276_20181003T164121)
+Finished 38.46 percent at task# 20/50 with total 3.56 mins
+
+Processing the 253th image (T15RXQ_S2B_2019016_20190116T164629)
+Finished 53.85 percent at task# 32/50 with total 4.57 mins
+
+Processing the 411th image (T15RXQ_S2B_2020241_20200828T163839)
+Finished 61.54 percent at task# 8/50 with total 5.67 mins
+
+Processing the 100th image (T15RXQ_S2B_2017306_20171102T164429)
+Finished 46.15 percent at task# 16/50 with total 4.60 mins
+
+Processing the 202th image (T15RXQ_S2A_2018246_20180903T163901)
+Finished 61.54 percent at task# 15/50 with total 5.70 mins
+
+Processing the 191th image (T15RXQ_S2A_2018216_20180804T163901)
+Finished 46.15 percent at task# 36/50 with total 4.20 mins
+
+Processing the 462th image (T15RXQ_S2B_2021008_20210108T165659)
+Finished 46.15 percent at task# 18/50 with total 4.39 mins
+
+Processing the 228th image (T15RXQ_S2B_2018314_20181110T165519)
+Finished 100.00 percent at task# 26/50 with total 6.99 mins
+Finished 100.00 percent at task# 28/50 with total 7.00 mins
+Finished 100.00 percent at task# 29/50 with total 7.03 mins
+Finished 100.00 percent at task# 30/50 with total 7.04 mins
+Finished 46.15 percent at task# 39/50 with total 4.06 mins
+Finished 46.15 percent at task# 34/50 with total 3.92 mins
+
+Processing the 436th image (T15RXQ_S2A_2020306_20201101T164441)
+
+Processing the 501th image (T15RXQ_S2B_2021105_20210415T163839)
+Finished 61.54 percent at task# 31/50 with total 4.87 mins
+
+Processing the 399th image (T15RXQ_S2B_2020211_20200729T163839)
+Finished 46.15 percent at task# 41/50 with total 3.95 mins
+
+Processing the 527th image (T15RXQ_S2A_2021173_20210622T164901)
+Finished 53.85 percent at task# 33/50 with total 4.57 mins
+
+Processing the 424th image (T15RXQ_S2B_2020274_20200930T165019)
+Finished 30.77 percent at task# 45/50 with total 2.81 mins
+
+Processing the 577th image (T15RXQ_S2B_2021298_20211025T165359)
+Finished 46.15 percent at task# 38/50 with total 4.16 mins
+
+Processing the 488th image (T15RXQ_S2A_2021073_20210314T165051)
+Finished 53.85 percent at task# 35/50 with total 4.51 mins
+
+Processing the 450th image (T15RXQ_S2B_2020344_20201209T165709)
+Finished 38.46 percent at task# 44/50 with total 3.61 mins
+
+Processing the 565th image (T15RXQ_S2B_2021268_20210925T164939)
+Finished 46.15 percent at task# 42/50 with total 4.13 mins
+
+Processing the 540th image (T15RXQ_S2B_2021205_20210724T163839)
+Finished 53.85 percent at task# 40/50 with total 4.77 mins
+
+Processing the 515th image (T15RXQ_S2A_2021140_20210520T163901)
+Finished 100.00 percent at task# 27/50 with total 7.41 mins
+Finished 53.85 percent at task# 37/50 with total 4.70 mins
+
+Processing the 476th image (T15RXQ_S2A_2021043_20210212T165421)
+Finished 46.15 percent at task# 43/50 with total 4.18 mins
+
+Processing the 553th image (T15RXQ_S2B_2021238_20210826T164839)
+Finished 53.85 percent at task# 19/50 with total 4.83 mins
+
+Processing the 242th image (T15RXQ_S2B_2018351_20181217T164709)
+Finished 46.15 percent at task# 17/50 with total 4.22 mins
+
+Processing the 215th image (T15RXQ_S2A_2018279_20181006T165151)
+Finished 46.15 percent at task# 20/50 with total 4.26 mins
+
+Processing the 254th image (T15RXQ_S2B_2019019_20190119T165629)
+Finished 61.54 percent at task# 32/50 with total 5.25 mins
+
+Processing the 412th image (T15RXQ_S2B_2020244_20200831T164849)
+Finished 69.23 percent at task# 8/50 with total 6.41 mins
+
+Processing the 101th image (T15RXQ_S2A_2017311_20171107T165451)
+Finished 53.85 percent at task# 16/50 with total 5.35 mins
+
+Processing the 203th image (T15RXQ_S2A_2018249_20180906T164851)
+Finished 53.85 percent at task# 36/50 with total 4.92 mins
+
+Processing the 463th image (T15RXQ_S2A_2021010_20210110T164651)
+Finished 53.85 percent at task# 18/50 with total 5.08 mins
+
+Processing the 229th image (T15RXQ_S2A_2018316_20181112T164531)
+Finished 69.23 percent at task# 15/50 with total 6.49 mins
+
+Processing the 192th image (T15RXQ_S2A_2018219_20180807T164901)
+Finished 53.85 percent at task# 39/50 with total 4.72 mins
+
+Processing the 502th image (T15RXQ_S2B_2021108_20210418T164839)
+Finished 53.85 percent at task# 34/50 with total 4.59 mins
+
+Processing the 437th image (T15RXQ_S2A_2020309_20201104T165501)
+Finished 69.23 percent at task# 31/50 with total 5.53 mins
+
+Processing the 400th image (T15RXQ_S2B_2020214_20200801T164849)
+Finished 53.85 percent at task# 41/50 with total 4.63 mins
+
+Processing the 528th image (T15RXQ_S2B_2021175_20210624T163839)
+Finished 53.85 percent at task# 38/50 with total 4.82 mins
+
+Processing the 489th image (T15RXQ_S2B_2021075_20210316T163929)
+Finished 38.46 percent at task# 45/50 with total 3.50 mins
+
+Processing the 578th image (T15RXQ_S2A_2021300_20211027T164411)
+Finished 61.54 percent at task# 33/50 with total 5.28 mins
+
+Processing the 425th image (T15RXQ_S2A_2020276_20201002T164131)
+Finished 61.54 percent at task# 35/50 with total 5.18 mins
+
+Processing the 451th image (T15RXQ_S2A_2020346_20201211T164701)
+Finished 53.85 percent at task# 42/50 with total 4.84 mins
+
+Processing the 541th image (T15RXQ_S2B_2021208_20210727T164849)
+Finished 46.15 percent at task# 44/50 with total 4.34 mins
+
+Processing the 566th image (T15RXQ_S2A_2021270_20210927T164051)
+Finished 53.85 percent at task# 17/50 with total 4.84 mins
+
+Processing the 216th image (T15RXQ_S2B_2018281_20181008T164159)
+Finished 61.54 percent at task# 40/50 with total 5.49 mins
+
+Processing the 516th image (T15RXQ_S2A_2021143_20210523T164901)
+Finished 53.85 percent at task# 20/50 with total 4.91 mins
+
+Processing the 255th image (T15RXQ_S2A_2019021_20190121T164611)
+Finished 53.85 percent at task# 43/50 with total 4.90 mins
+
+Processing the 554th image (T15RXQ_S2A_2021240_20210828T163901)
+Finished 61.54 percent at task# 19/50 with total 5.54 mins
+
+Processing the 243th image (T15RXQ_S2B_2018354_20181220T165719)
+Finished 61.54 percent at task# 37/50 with total 5.52 mins
+
+Processing the 477th image (T15RXQ_S2B_2021045_20210214T164359)
+Finished 69.23 percent at task# 32/50 with total 6.01 mins
+
+Processing the 413th image (T15RXQ_S2A_2020246_20200902T163901)
+Finished 76.92 percent at task# 8/50 with total 7.12 mins
+
+Processing the 102th image (T15RXQ_S2A_2017314_20171110T165521)
+Finished 61.54 percent at task# 16/50 with total 6.11 mins
+
+Processing the 204th image (T15RXQ_S2B_2018251_20180908T163829)
+Finished 61.54 percent at task# 18/50 with total 5.81 mins
+
+Processing the 230th image (T15RXQ_S2A_2018319_20181115T165541)
+Finished 61.54 percent at task# 36/50 with total 5.71 mins
+
+Processing the 464th image (T15RXQ_S2A_2021013_20210113T165651)
+Finished 76.92 percent at task# 15/50 with total 7.25 mins
+
+Processing the 193th image (T15RXQ_S2B_2018221_20180809T163829)
+Finished 61.54 percent at task# 39/50 with total 5.46 mins
+
+Processing the 503th image (T15RXQ_S2A_2021110_20210420T163851)
+Finished 61.54 percent at task# 34/50 with total 5.35 mins
+
+Processing the 438th image (T15RXQ_S2B_2020311_20201106T164509)
+Finished 76.92 percent at task# 31/50 with total 6.28 mins
+
+Processing the 401th image (T15RXQ_S2A_2020216_20200803T163901)
+Finished 61.54 percent at task# 41/50 with total 5.38 mins
+
+Processing the 529th image (T15RXQ_S2B_2021178_20210627T164839)
+Finished 46.15 percent at task# 45/50 with total 4.31 mins
+
+Processing the 579th image (T15RXQ_S2A_2021303_20211030T165431)
+Finished 61.54 percent at task# 38/50 with total 5.65 mins
+
+Processing the 490th image (T15RXQ_S2B_2021078_20210319T164919)
+Finished 69.23 percent at task# 35/50 with total 5.97 mins
+
+Processing the 452th image (T15RXQ_S2A_2020349_20201214T165711)
+Finished 69.23 percent at task# 33/50 with total 6.15 mins
+
+Processing the 426th image (T15RXQ_S2B_2020281_20201007T164109)
+Finished 61.54 percent at task# 42/50 with total 5.54 mins
+
+Processing the 542th image (T15RXQ_S2A_2021210_20210729T163901)
+Finished 61.54 percent at task# 43/50 with total 5.58 mins
+
+Processing the 555th image (T15RXQ_S2A_2021243_20210831T164901)
+Finished 69.23 percent at task# 40/50 with total 6.21 mins
+
+Processing the 517th image (T15RXQ_S2B_2021145_20210525T163839)
+Finished 53.85 percent at task# 44/50 with total 5.12 mins
+
+Processing the 567th image (T15RXQ_S2A_2021273_20210930T165111)
+Finished 61.54 percent at task# 20/50 with total 5.64 mins
+
+Processing the 256th image (T15RXQ_S2A_2019024_20190124T165601)
+Finished 61.54 percent at task# 17/50 with total 5.63 mins
+
+Processing the 217th image (T15RXQ_S2B_2018284_20181011T165219)
+Finished 69.23 percent at task# 19/50 with total 6.31 mins
+
+Processing the 244th image (T15RXQ_S2A_2018356_20181222T164711)
+Finished 69.23 percent at task# 37/50 with total 6.27 mins
+
+Processing the 478th image (T15RXQ_S2B_2021048_20210217T165339)
+Finished 76.92 percent at task# 32/50 with total 6.73 mins
+
+Processing the 414th image (T15RXQ_S2A_2020249_20200905T164901)
+Finished 84.62 percent at task# 8/50 with total 7.84 mins
+
+Processing the 103th image (T15RXQ_S2B_2017316_20171112T164519)
+Finished 69.23 percent at task# 18/50 with total 6.55 mins
+
+Processing the 231th image (T15RXQ_S2B_2018321_20181117T164549)
+Finished 84.62 percent at task# 15/50 with total 7.96 mins
+
+Processing the 194th image (T15RXQ_S2B_2018224_20180812T164839)
+Finished 69.23 percent at task# 36/50 with total 6.45 mins
+
+Processing the 465th image (T15RXQ_S2B_2021015_20210115T164639)
+Finished 69.23 percent at task# 16/50 with total 6.94 mins
+
+Processing the 205th image (T15RXQ_S2B_2018254_20180911T165159)
+Finished 69.23 percent at task# 39/50 with total 6.15 mins
+
+Processing the 504th image (T15RXQ_S2A_2021113_20210423T164851)
+Finished 84.62 percent at task# 31/50 with total 6.94 mins
+
+Processing the 402th image (T15RXQ_S2A_2020219_20200806T164901)
+Finished 69.23 percent at task# 34/50 with total 6.02 mins
+
+Processing the 439th image (T15RXQ_S2B_2020314_20201109T165529)
+Finished 69.23 percent at task# 41/50 with total 6.11 mins
+
+Processing the 530th image (T15RXQ_S2A_2021180_20210629T163901)
+Finished 69.23 percent at task# 38/50 with total 6.38 mins
+Finished 53.85 percent at task# 45/50 with total 5.05 mins
+
+Processing the 491th image (T15RXQ_S2A_2021080_20210321T163951)
+
+Processing the 580th image (T15RXQ_S2B_2021305_20211101T164439)
+Finished 76.92 percent at task# 35/50 with total 6.68 mins
+
+Processing the 453th image (T15RXQ_S2B_2020351_20201216T164709)
+Finished 69.23 percent at task# 42/50 with total 6.28 mins
+Finished 76.92 percent at task# 33/50 with total 6.90 mins
+
+Processing the 427th image (T15RXQ_S2B_2020284_20201010T165129)
+
+Processing the 543th image (T15RXQ_S2A_2021213_20210801T164901)
+Finished 76.92 percent at task# 40/50 with total 6.96 mins
+
+Processing the 518th image (T15RXQ_S2B_2021148_20210528T164839)
+Finished 69.23 percent at task# 43/50 with total 6.34 mins
+
+Processing the 556th image (T15RXQ_S2B_2021245_20210902T163839)
+Finished 61.54 percent at task# 44/50 with total 5.89 mins
+
+Processing the 568th image (T15RXQ_S2B_2021275_20211002T164029)
+Finished 69.23 percent at task# 17/50 with total 6.40 mins
+
+Processing the 218th image (T15RXQ_S2A_2018286_20181013T164231)
+Finished 69.23 percent at task# 20/50 with total 6.46 mins
+
+Processing the 257th image (T15RXQ_S2B_2019026_20190126T164549)
+Finished 76.92 percent at task# 19/50 with total 7.11 mins
+
+Processing the 245th image (T15RXQ_S2A_2018359_20181225T165711)
+Finished 76.92 percent at task# 37/50 with total 7.07 mins
+
+Processing the 479th image (T15RXQ_S2A_2021050_20210219T164331)
+Finished 84.62 percent at task# 32/50 with total 7.52 mins
+
+Processing the 415th image (T15RXQ_S2B_2020251_20200907T163839)
+Finished 92.31 percent at task# 8/50 with total 8.66 mins
+
+Processing the 104th image (T15RXQ_S2B_2017319_20171115T165539)
+Finished 76.92 percent at task# 34/50 with total 6.76 mins
+
+Processing the 440th image (T15RXQ_S2A_2020316_20201111T164531)
+Finished 76.92 percent at task# 36/50 with total 7.24 mins
+
+Processing the 466th image (T15RXQ_S2B_2021018_20210118T165629)
+Finished 92.31 percent at task# 31/50 with total 7.68 mins
+
+Processing the 403th image (T15RXQ_S2B_2020221_20200808T163839)
+Finished 76.92 percent at task# 39/50 with total 6.92 mins
+
+Processing the 505th image (T15RXQ_S2B_2021115_20210425T163829)
+Finished 92.31 percent at task# 15/50 with total 8.82 mins
+
+Processing the 195th image (T15RXQ_S2A_2018226_20180814T163901)
+Finished 76.92 percent at task# 18/50 with total 7.44 mins
+
+Processing the 232th image (T15RXQ_S2B_2018324_20181120T165609)
+Finished 76.92 percent at task# 16/50 with total 7.79 mins
+
+Processing the 206th image (T15RXQ_S2A_2018256_20180913T163901)
+Finished 76.92 percent at task# 41/50 with total 6.90 mins
+
+Processing the 531th image (T15RXQ_S2A_2021183_20210702T164901)
+Finished 84.62 percent at task# 35/50 with total 7.41 mins
+
+Processing the 454th image (T15RXQ_S2B_2020354_20201219T165719)
+Finished 76.92 percent at task# 38/50 with total 7.12 mins
+
+Processing the 492th image (T15RXQ_S2A_2021083_20210324T164931)
+Finished 61.54 percent at task# 45/50 with total 5.83 mins
+
+Processing the 581th image (T15RXQ_S2B_2021308_20211104T165459)
+Finished 76.92 percent at task# 42/50 with total 7.05 mins
+
+Processing the 544th image (T15RXQ_S2B_2021215_20210803T163839)
+Finished 84.62 percent at task# 33/50 with total 7.69 mins
+
+Processing the 428th image (T15RXQ_S2A_2020286_20201012T164231)
+Finished 76.92 percent at task# 43/50 with total 7.11 mins
+
+Processing the 557th image (T15RXQ_S2B_2021248_20210905T164839)
+Finished 84.62 percent at task# 40/50 with total 7.73 mins
+
+Processing the 519th image (T15RXQ_S2A_2021150_20210530T163901)
+Finished 76.92 percent at task# 17/50 with total 7.12 mins
+
+Processing the 219th image (T15RXQ_S2A_2018289_20181016T165251)
+Finished 76.92 percent at task# 20/50 with total 7.22 mins
+
+Processing the 258th image (T15RXQ_S2B_2019029_20190129T165539)
+Finished 69.23 percent at task# 44/50 with total 6.70 mins
+
+Processing the 569th image (T15RXQ_S2B_2021278_20211005T165049)
+Finished 84.62 percent at task# 19/50 with total 7.88 mins
+
+Processing the 246th image (T15RXQ_S2B_2018364_20181230T165719)
+Finished 100.00 percent at task# 8/50 with total 9.37 mins
+Finished 84.62 percent at task# 37/50 with total 7.89 mins
+
+Processing the 480th image (T15RXQ_S2A_2021053_20210222T165311)
+Finished 92.31 percent at task# 32/50 with total 8.36 mins
+
+Processing the 416th image (T15RXQ_S2B_2020254_20200910T164849)
+Finished 100.00 percent at task# 31/50 with total 8.39 mins
+Finished 84.62 percent at task# 34/50 with total 7.47 mins
+
+Processing the 441th image (T15RXQ_S2A_2020319_20201114T165551)
+Finished 84.62 percent at task# 39/50 with total 7.64 mins
+
+Processing the 506th image (T15RXQ_S2B_2021118_20210428T164839)
+Finished 84.62 percent at task# 36/50 with total 7.99 mins
+
+Processing the 467th image (T15RXQ_S2A_2021020_20210120T164621)
+Finished 84.62 percent at task# 18/50 with total 8.17 mins
+
+Processing the 233th image (T15RXQ_S2A_2018326_20181122T164611)
+Finished 84.62 percent at task# 41/50 with total 7.66 mins
+
+Processing the 532th image (T15RXQ_S2B_2021185_20210704T163839)
+Finished 100.00 percent at task# 15/50 with total 9.69 mins
+Finished 84.62 percent at task# 16/50 with total 8.64 mins
+
+Processing the 207th image (T15RXQ_S2A_2018259_20180916T164921)
+Finished 84.62 percent at task# 38/50 with total 7.86 mins
+
+Processing the 493th image (T15RXQ_S2B_2021085_20210326T163839)
+Finished 92.31 percent at task# 35/50 with total 8.15 mins
+
+Processing the 455th image (T15RXQ_S2A_2020356_20201221T164711)
+Finished 69.23 percent at task# 45/50 with total 6.63 mins
+
+Processing the 582th image (T15RXQ_S2A_2021310_20211106T164511)
+Finished 84.62 percent at task# 42/50 with total 7.83 mins
+Finished 92.31 percent at task# 33/50 with total 8.45 mins
+
+Processing the 545th image (T15RXQ_S2B_2021218_20210806T164839)
+
+Processing the 429th image (T15RXQ_S2A_2020289_20201015T165301)
+Finished 84.62 percent at task# 17/50 with total 7.84 mins
+
+Processing the 220th image (T15RXQ_S2B_2018291_20181018T164309)
+Finished 84.62 percent at task# 43/50 with total 7.89 mins
+
+Processing the 558th image (T15RXQ_S2A_2021250_20210907T163901)
+Finished 92.31 percent at task# 40/50 with total 8.53 mins
+
+Processing the 520th image (T15RXQ_S2A_2021153_20210602T164901)
+Finished 84.62 percent at task# 20/50 with total 8.02 mins
+
+Processing the 259th image (T15RXQ_S2A_2019031_20190131T164521)
+Finished 92.31 percent at task# 19/50 with total 8.63 mins
+
+Processing the 247th image (T15RXQ_S2A_2019001_20190101T164701)
+Finished 76.92 percent at task# 44/50 with total 7.54 mins
+
+Processing the 570th image (T15RXQ_S2A_2021280_20211007T164201)
+Finished 100.00 percent at task# 32/50 with total 9.12 mins
+Finished 92.31 percent at task# 37/50 with total 8.69 mins
+
+Processing the 481th image (T15RXQ_S2B_2021055_20210224T164159)
+Finished 92.31 percent at task# 34/50 with total 8.22 mins
+
+Processing the 442th image (T15RXQ_S2B_2020324_20201119T165609)
+Finished 92.31 percent at task# 39/50 with total 8.37 mins
+
+Processing the 507th image (T15RXQ_S2A_2021120_20210430T163901)
+Finished 92.31 percent at task# 36/50 with total 8.75 mins
+
+Processing the 468th image (T15RXQ_S2A_2021023_20210123T165611)
+Finished 92.31 percent at task# 18/50 with total 8.88 mins
+
+Processing the 234th image (T15RXQ_S2A_2018329_20181125T165621)
+Finished 100.00 percent at task# 35/50 with total 8.85 mins
+Finished 92.31 percent at task# 41/50 with total 8.43 mins
+
+Processing the 533th image (T15RXQ_S2B_2021188_20210707T164849)
+Finished 92.31 percent at task# 38/50 with total 8.57 mins
+
+Processing the 494th image (T15RXQ_S2B_2021088_20210329T164839)
+Finished 92.31 percent at task# 16/50 with total 9.43 mins
+
+Processing the 208th image (T15RXQ_S2B_2018261_20180918T163929)
+Finished 76.92 percent at task# 45/50 with total 7.38 mins
+
+Processing the 583th image (T15RXQ_S2A_2021313_20211109T165521)
+Finished 100.00 percent at task# 33/50 with total 9.16 mins
+Finished 92.31 percent at task# 42/50 with total 8.56 mins
+
+Processing the 546th image (T15RXQ_S2A_2021220_20210808T163901)
+Finished 92.31 percent at task# 43/50 with total 8.61 mins
+
+Processing the 559th image (T15RXQ_S2A_2021253_20210910T164901)
+Finished 100.00 percent at task# 40/50 with total 9.25 mins
+Finished 92.31 percent at task# 17/50 with total 8.65 mins
+
+Processing the 221th image (T15RXQ_S2B_2018294_20181021T165329)
+Finished 100.00 percent at task# 19/50 with total 9.36 mins
+Finished 84.62 percent at task# 44/50 with total 8.29 mins
+
+Processing the 571th image (T15RXQ_S2A_2021283_20211010T165221)
+Finished 92.31 percent at task# 20/50 with total 8.83 mins
+
+Processing the 260th image (T15RXQ_S2A_2019034_20190203T165511)
+Finished 100.00 percent at task# 39/50 with total 9.02 mins
+Finished 100.00 percent at task# 34/50 with total 8.89 mins
+Finished 100.00 percent at task# 37/50 with total 9.39 mins
+Finished 100.00 percent at task# 36/50 with total 9.46 mins
+Finished 100.00 percent at task# 38/50 with total 9.20 mins
+Finished 100.00 percent at task# 41/50 with total 9.07 mins
+Finished 100.00 percent at task# 18/50 with total 9.69 mins
+Finished 84.62 percent at task# 45/50 with total 8.02 mins
+
+Processing the 584th image (T15RXQ_S2B_2021315_20211111T164529)
+Finished 100.00 percent at task# 42/50 with total 9.19 mins
+Finished 100.00 percent at task# 43/50 with total 9.21 mins
+Finished 100.00 percent at task# 16/50 with total 10.20 mins
+Finished 92.31 percent at task# 44/50 with total 8.84 mins
+
+Processing the 572th image (T15RXQ_S2B_2021285_20211012T164139)
+Finished 100.00 percent at task# 17/50 with total 9.42 mins
+Finished 100.00 percent at task# 20/50 with total 9.58 mins
+Finished 92.31 percent at task# 45/50 with total 8.55 mins
+
+Processing the 585th image (T15RXQ_S2B_2021318_20211114T165549)
+Finished 100.00 percent at task# 44/50 with total 9.39 mins
+Finished 100.00 percent at task# 45/50 with total 9.07 mins

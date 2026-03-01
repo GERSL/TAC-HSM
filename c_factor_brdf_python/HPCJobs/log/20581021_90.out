@@ -1,0 +1,36 @@
+cn653
+#######################################################
+Working on appending ideal solar angles on the table
+ci: 90
+cn: 200
+raw: /gpfs/sharedfs1/zhulab/Yang/GlobalGreeningData/LandsatData/Reflectance/
+des: /gpfs/sharedfs1/zhulab/Kexin/ProjectGlobalResilience/LandsatData/
+target: SurfaceReflectanceAngles
+***********************************************************
+Working for plot_0089001_0090000.csv
+File saved as plot_0089001_0090000_brdf.csv
+***********************************************************
+Working for plot_0289001_0290000.csv
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+Warning: the degree cloest to the inclination {81.800000} was used for the high altitude
+File saved as plot_0289001_0290000_brdf.csv
+***********************************************************
+Working for plot_0489001_0490000.csv
+File saved as plot_0489001_0490000_brdf.csv
+***********************************************************
+Working for plot_0689001_0690000.csv
+File saved as plot_0689001_0690000_brdf.csv
+***********************************************************
+Working for plot_0889001_0890000.csv
+File saved as plot_0889001_0890000_brdf.csv

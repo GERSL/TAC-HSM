@@ -1,0 +1,16 @@
+name: landsat_gee
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.23
+  - pandas>=1.5
+  - geopandas>=0.13
+  - shapely>=2.0
+  - fiona>=1.9
+  - pyproj>=3.5
+  - rtree>=1.0
+  - click>=8.0
+  - pip
+  - pip:
+      - earthengine-api>=0.1.390

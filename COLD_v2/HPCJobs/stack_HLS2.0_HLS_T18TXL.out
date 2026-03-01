@@ -1,0 +1,262 @@
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+Loading matlab/R2024b
+  Loading requirement: pre-module post-module
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 36/50 to process 20 images
+[Warning: Error for HLS.S30.T18TXL.2022215T154819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18505198/slurm_script: line 22: 489413 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505198.batch. Some of the step tasks have been OOM Killed.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXL.2022225T154819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2020311T155451.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Error for HLS.S30.T18TXL.2022240T154821.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+[Warning: Error for HLS.S30.T18TXL.2020313T154449.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 43/50 to process 20 images
+[Warning: Error for HLS.S30.T18TXL.2022125T154809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2020321T155531.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 41/50 to process 20 images
+/var/spool/slurm/job18505252/slurm_script: line 22: 2752336 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505252.batch. Some of the step tasks have been OOM Killed.
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 44/50 to process 20 images
+[Warning: Error for HLS.S30.T18TXL.2020323T154539.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 23/50 to process 20 images
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 24/50 to process 20 images
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXL.2020326T155549.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 29/50 to process 20 images
+[Warning: Error for HLS.S30.T18TXL.2023187T153819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 32/50 to process 20 images
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 31/50 to process 20 images
+[Warning: Error for HLS.S30.T18TXL.2020331T155611.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2024 The MathWorks, Inc.
+             R2024b Update 1 (24.2.0.2740171) 64-bit (glnxa64)
+                             September 20, 2024
+
+[Warning: Error for HLS.S30.T18TXL.2020063T154039.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Error for HLS.S30.T18TXL.2021130T154809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+Start to stack ARD Tile 18TXL
+/var/spool/slurm/job18505233/slurm_script: line 22: 1798333 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505233.batch. Some of the step tasks have been OOM Killed.
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 30/50 to process 20 images
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+/var/spool/slurm/job18505269/slurm_script: line 22: 2752697 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505269.batch. Some of the step tasks have been OOM Killed.
+Start to stack ARD Tile 18TXL
+[Warning: Error for HLS.S30.T18TXL.2021302T154401.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2020068T154101.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2021180T154809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2021132T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18505239/slurm_script: line 22: 1545615 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505239.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/job18505220/slurm_script: line 22: 1542852 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505220.batch. Some of the step tasks have been OOM Killed.
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 42/50 to process 20 images
+[Warning: Error for HLS.S30.T18TXL.2021182T153911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2021185T154911.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 50/50 to process -19 images
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 35/50 to process 20 images
+[Warning: Error for HLS.S30.T18TXL.2021187T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2021190T154819.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18505237/slurm_script: line 22: 1545608 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505237.batch. Some of the step tasks have been OOM Killed.
+A total of 0961 not processed HLS images at /gpfs/sharedfs1/zhulab/Kexin/DataHLSv2.0/
+At task# 49/50 to process 1 images
+[Warning: Error for HLS.S30.T18TXL.2024365T155559.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022062T154039.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022067T154111.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18505236/slurm_script: line 22: 1545623 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505236.batch. Some of the step tasks have been OOM Killed.
+[Warning: Error for HLS.S30.T18TXL.2022070T155051.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022072T153929.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+Finished 5.00 percent at task# 33/50 with total 3.23 mins
+Finished 5.00 percent at task# 9/50 with total 4.69 mins
+/var/spool/slurm/job18505197/slurm_script: line 22: 2441302 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505197.batch. Some of the step tasks have been OOM Killed.
+Finished 5.00 percent at task# 28/50 with total 3.80 mins
+Finished 5.00 percent at task# 27/50 with total 3.81 mins
+/var/spool/slurm/job18505235/slurm_script: line 22: 104074 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505235.batch. Some of the step tasks have been OOM Killed.
+Finished 5.00 percent at task# 41/50 with total 3.44 mins
+Finished 35.00 percent at task# 38/50 with total 4.18 mins
+/var/spool/slurm/job18505254/slurm_script: line 22: 385444 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505254.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/job18505234/slurm_script: line 22: 104069 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505234.batch. Some of the step tasks have been OOM Killed.
+Finished 5.00 percent at task# 42/50 with total 3.41 mins
+Finished 5.00 percent at task# 31/50 with total 3.96 mins
+Finished 5.00 percent at task# 24/50 with total 4.07 mins
+Finished 5.00 percent at task# 44/50 with total 4.30 mins
+/var/spool/slurm/job18505221/slurm_script: line 22: 1542871 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505221.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/job18505270/slurm_script: line 22: 722847 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505270.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/job18505238/slurm_script: line 22: 1545633 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505238.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/job18505267/slurm_script: line 22: 1076136 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505267.batch. Some of the step tasks have been OOM Killed.
+Finished 10.00 percent at task# 33/50 with total 6.25 mins
+Finished 10.00 percent at task# 42/50 with total 6.63 mins
+/var/spool/slurm/job18505268/slurm_script: line 22: 105027 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505268.batch. Some of the step tasks have been OOM Killed.
+/var/spool/slurm/job18505249/slurm_script: line 22: 2442210 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505249.batch. Some of the step tasks have been OOM Killed.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+[Warning: Error for HLS.L30.T18TXL.2022074T153313.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2022026T153326.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022075T154909.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022077T154001.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022080T154941.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2022099T152655.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022102T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2022105T153919.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022105T154809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2022106T153307.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2022107T152655.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022107T153811.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022110T154941.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022112T153809.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022117T153821.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.S30.T18TXL.2022120T154821.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+[Warning: Error for HLS.L30.T18TXL.2022121T153912.v2.0] 
+[> In stackHLSv2Line (line 380)
+In batchStackHLSv2Line (line 73)] 
+/var/spool/slurm/job18505250/slurm_script: line 22: 1799066 Killed                  matlab -nodisplay -nosplash -singleCompThread -r "batchStackHLSv2Line('task',$SLURM_ARRAY_TASK_ID, 'ntasks',$SLURM_ARRAY_TASK_MAX,'ARDTiles','18TXL','resolution',30,'sensor','HLS');exit"
+slurmstepd: error: Detected 1 oom_kill event in StepId=18505250.batch. Some of the step tasks have been OOM Killed.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+slurmstepd: error: *** JOB 18505251 ON cn539 CANCELLED AT 2025-07-21T10:27:00 DUE TO TIME LIMIT ***

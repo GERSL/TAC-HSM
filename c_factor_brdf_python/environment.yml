@@ -1,0 +1,10 @@
+name: landsat_brdf
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.23
+  - pandas>=1.5
+  - scipy>=1.10
+  - click>=8.0
+  - pysolar>=0.11
