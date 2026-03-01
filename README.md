@@ -18,7 +18,6 @@ By integrating field datasets with satellite TAC time series, we provide mechani
 ---
 
 ## Repository Structure
-
 ```plaintext
 TAC-HSM/
 ├── COLD_v2/                       # Harmonic model for time series fitting (analysis)
@@ -41,7 +40,8 @@ TAC-HSM/
 └── README.md                       # Project overview (this file) Legacy notes / additional documentation
 ```
 
-
+Note: All scripts were tested with MATLAB R2023b and Python 3.10. Dependent Python packages are listed in ./GEE-LandsatTimeSeries/environment.yml and ./c_factor_brdf_python/environment.yml
+  
 ---
 
 ## Workflow Overview
