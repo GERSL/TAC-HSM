@@ -44,7 +44,7 @@ TAC-HSM/
 ├── LICENSE                         # MIT license
 ├── CONTRIBUTING.md                 # Contribution and reuse policy
 └── README.md                       # Project overview (this file) Legacy notes / additional documentation
-
+```
 
 ---
 
@@ -79,7 +79,6 @@ TAC-HSM/
 
 ---
 This project is licensed under the MIT License. See the LICENSE file for details.
-
 
 
 ---
