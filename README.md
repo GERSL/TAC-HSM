@@ -36,11 +36,6 @@ TAC-HSM/
 ├── c_factor_brdf_python/          # BRDF correction (c-factor approach) implemented in Python (preprocessing)
 ├── enhancedTAC_gap_filling_test/  # Experiments/tests results for HSM_TAC_Correlation
 │
-├── runTAC_Landsat_FieldSample.m               # MATLAB driver: TAC pipeline for field sample set
-├── runTAC_Landsat_FieldSample_conseGapTest.m  # MATLAB driver: consecutive-gap sensitivity tests (field samples)
-├── runTAC_Landsat_allSample.m                 # MATLAB driver: TAC pipeline for all samples
-├── runTAC_Landsat_allSample_conseGapTest.m    # MATLAB driver: consecutive-gap sensitivity tests (all samples)
-│
 ├── LICENSE                         # MIT license
 ├── CONTRIBUTING.md                 # Contribution and reuse policy
 └── README.md                       # Project overview (this file) Legacy notes / additional documentation
