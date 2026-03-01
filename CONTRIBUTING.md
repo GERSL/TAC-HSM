@@ -1,6 +1,6 @@
-# Contributing to TAC--HSM
+# Contributing to TAC-HSM
 
-Thank you for your interest in contributing to **TAC--HSM**.
+Thank you for your interest in contributing to **TAC-HSM**.
 
 This repository supports research linking **satellite-derived Temporal
 Autocorrelation (TAC)** with **Hydraulic Safety Margin (HSM)** to assess
