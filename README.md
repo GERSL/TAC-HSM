@@ -21,7 +21,7 @@ By integrating field datasets with satellite TAC time series, we provide mechani
 ```plaintext
 TAC-HSM/
 ├── COLD_v2/                       # Harmonic model for time series fitting (analysis)
-├── ClimateData/                   # Google drive for ERA5-Land data (for RFmodel inputs)
+├── ClimateData/                   # ERA5-Land data stored in the Google drive (for RFmodel inputs)
 ├── Data/                          # Project data directory (satellite + hydraulic traits)
 ├── ForestCover/                   # Forest cover maps and tables (preprocessing)
 ├── GEE-LandsatTimeSeries/         # Google Earth Engine workflows for Landsat time-series extraction (downloading)
