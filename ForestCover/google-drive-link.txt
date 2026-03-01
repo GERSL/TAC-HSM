@@ -1,1 +1,2 @@
-
+This link contains tree cover maps as the output of /TAC-HSM/RFmodel/downloadFCmaps.m: 
+https://drive.google.com/file/d/1Vj9l_-T2tYoBSgLwaxltwu81xJgdmacB/view?usp=sharing
