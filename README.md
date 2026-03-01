@@ -46,11 +46,11 @@ TAC-HSM/
 └── README.md                       # Project overview (this file) Legacy notes / additional documentation
 ```
 
+
 ---
 
 ## Workflow Overview
 
----
 1. Satellite Time-Series Processing
 - Landsat surface reflectance and TOA reflectance extraction via GEE
 - BRDF correction
@@ -72,26 +72,21 @@ TAC-HSM/
 - Regression model evaluation with AIC
 - Figure generation
 
-
 ---
 
 ## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 ---
 
 ## Contributing
-
----
 Please see CONTRIBUTING.md for reuse guidelines, maintenance plans, and contribution standards.
 
-
 ---
 
-## Citation
 
----
-If you use this repository in academic work, please cite: 
+
+
