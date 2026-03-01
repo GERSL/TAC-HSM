@@ -21,43 +21,78 @@ By integrating field datasets with satellite TAC time series, we provide mechani
 
 ```plaintext
 TAC-HSM/
-├── data/                       # Input datasets (not tracked in Git if large)
-│   ├── Hydraulic_traits_dataset_TAVARES_et_al_2023.csv
-│   ├── Plot_data_TAVARES_et_al_2023.csv
-│   ├── enhancedTAC.csv
-│   └── README_data.md          # Notes on data sources, formats, and preprocessing
+├── COLD_v2/                       # Harmonic model for time series fitting (analysis)
+├── Data/                          # Project data directory (satellite + hydraulic traits)
+├── ForestCover/                   # Forest cover maps and tables (preprocessing)
+├── GEE-LandsatTimeSeries/         # Google Earth Engine workflows for Landsat time-series extraction (downloading)
+├── HPCJobs/                       # HPC batch/SLURM job scripts for large-scale processing
+├── HSM_TAC_Correlation/           # Linking TAC metrics with HSM (core analysis)
+├── Input/                         # Input tables (samples/coordinates/lookup tables used by pipelines)
+├── L57_L89_Harmonization/         # Harmonization workflows across Landsat 5/7/8/9 to enhance data consistency (preprocessing)
+├── Others/                        # Other supporting scripts
+├── Plot/                          # Plotting/figure scripts (paper figures, diagnostics)
+├── RFmodel/                       # Random Forest for excluding climate autocorrelation's impact on TAC (analysis)
+├── TAC/                           # TAC computation code (analysis)
+├── c_factor_brdf_python/          # BRDF correction (c-factor approach) implemented in Python (preprocessing)
+├── enhancedTAC_gap_filling_test/  # Experiments/tests results for HSM_TAC_Correlation
 │
-├── scripts/                    # Analysis scripts
-│   ├── matlab/                 # MATLAB code
-│   │   ├── R2_bootstrap.m
-│   │   ├── HSM_TAC_regression.m
-│   │   └── plot_geospatial.m
-│   │
-│   └── python/                 # Python code
-│       ├── plot_relationships.py
-│       ├── preprocess_data.py
-│       └── utils.py
+├── runTAC_Landsat_FieldSample.m               # MATLAB driver: TAC pipeline for field sample set
+├── runTAC_Landsat_FieldSample_conseGapTest.m  # MATLAB driver: consecutive-gap sensitivity tests (field samples)
+├── runTAC_Landsat_allSample.m                 # MATLAB driver: TAC pipeline for all samples
+├── runTAC_Landsat_allSample_conseGapTest.m    # MATLAB driver: consecutive-gap sensitivity tests (all samples)
 │
-├── results/                    # Processed outputs
-│   ├── regression_results.csv
-│   ├── bootstrap_R2_summary.csv
-│   └── model_selection_AIC.csv
-│
-├── figures/                    # Figures for paper / presentations
-│   ├── Fig1_TAC_HSM_relationship.png
-│   ├── Fig2_R2_heatmap.png
-│   └── example_relationship.png
-│
-├── docs/                       # Documentation, notes, manuscripts
-│   ├── methods_notes.md
-│   └── references.bib
-│
-├── .gitignore                  # Ignore temp/large files (e.g., *.mat, *.asv, __pycache__/)
-├── LICENSE                     # License file (MIT/Apache 2.0/etc.)
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project overview
-└── CITATION.cff                # Citation metadata for GitHub
-
-└── README.md # Project overview
+├── LICENSE                         # MIT license
+├── CONTRIBUTING.md                 # Contribution and reuse policy
+└── README.md                       # Project overview (this file) Legacy notes / additional documentation
 
 
+---
+
+## Workflow Overview
+
+---
+1. Satellite Time-Series Processing
+- Landsat surface reflectance and TOA reflectance extraction via GEE
+- BRDF correction
+- Cross-sensor harmonization
+
+2. Observed TAC Computation
+- Harmonic modeling (COLD framework)
+- Residual extraction (detrend and deseasonality)
+- Compositing and gap-filling
+- Lag-1 TAC calculation
+
+3. Enhanced TAC Computation
+- Prepare predictor and response variables for random forest models
+- Random forest regression model training and validating
+- Calculate enhanced TAC
+
+4. TAC-HSM Correlation Analysis
+- Link spatial-aggregated TAC with plot-level HSM 
+- Regression model evaluation with AIC
+- Figure generation
+
+
+---
+
+## License
+
+---
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+---
+
+## Contributing
+
+---
+Please see CONTRIBUTING.md for reuse guidelines, maintenance plans, and contribution standards.
+
+
+---
+
+## Citation
+
+---
+If you use this repository in academic work, please cite: 
