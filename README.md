@@ -79,9 +79,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-
----
-
 ## Contributing
 Please see CONTRIBUTING.md for reuse guidelines, maintenance plans, and contribution standards.
 
