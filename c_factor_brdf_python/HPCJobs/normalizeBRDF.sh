@@ -17,4 +17,4 @@ conda activate BRDF_HLS
 
 echo $SLURMD_NODENAME # display the node name
 cd /home/kes20012/c_factor_brdf_python/
-python normalizeBRDF_L5_2000_2013.py --ci=$SLURM_ARRAY_TASK_ID --cn=$SLURM_ARRAY_TASK_MAX
+python normalizeBRDF.py --ci=$SLURM_ARRAY_TASK_ID --cn=$SLURM_ARRAY_TASK_MAX
