@@ -1,0 +1,54 @@
+TAC–HSM Processing Pipeline
+--------------------------------------------------------------------------------------------------------------------------------
+Author: Kexin Song
+Last Updated: 2026-03-01
+
+This document outlines the sequential workflow used to generate TAC metrics, enhanced TAC, and HSM comparisons.
+All steps must be executed in order.
+---------------------------------------------------------------------------------------------------------------------------------
+# 1) Python step: Download Landsat Time Series
+run authenticateGEE.ipynb
+python GEE-LandsatTimeseries/downloadLandsatTS.py --datalevel sr
+python GEE-LandsatTimeseries/downloadLandsatTS.py --datalevel toa
+
+
+# 2) Python step: Perform BRDF correction
+python c_factor_brdf_python/addAnglesToSurfaceReflectance.py --help
+python c_factor_brdf_python/normalizeBRDF.py --help
+
+
+# 3) MATLAB step: Cross-sensor harmonization
+matlab L57_L89_Harmonization/prepareHarmonizedL78.m
+matlab L57_L89_Harmonization/runTIFSinglePixel.m
+
+
+# 4) MATLAB step: Calculate observed TAC
+matlab TAC/runTAC_Landsat_allSample.m
+matlab TAC/runTAC_Landsat_FieldSample.m
+
+
+# 5) MATLAB step: Estimate enhanced TAC using random forest regression 
+## Download and access forest cover for the sample points
+matlab RFmodel/downloadFCmaps.m
+matlab RFmodel/extractFC.m
+
+## Prepare training data for the random forest regression model
+matlab RFmodel/preparePredictorVariables.m
+matlab RFmodel/prepareReponseVariable.m
+
+## Model training
+matlab RFmodel/trainRFmodel.m
+
+## Prepare input variables for the field samples 
+matlab RFmodel/preparePredictorVariables.m
+
+## Obtain enhanced TAC by factoring out the impact of climate autocorrelation
+matalb RFmodel/obtainEnhancedTAC_FieldSample.m
+
+
+# 5) MATLAB step: Compare TAC with HSM and display results
+matlab HSM_TAC_Correlation/calculateAIC_HSM_OneMinusTAC.m
+matlab HSM_TAC_Correlation/plot/displayRegressionPlot_EVI2_reverse_conseGap1.m
+matlab HSM_TAC_Correlation/plot/displayFixedEffectRegressionPlot_EVI2_reverse.m
+matlab HSM_TAC_Correlation/plot/plotHeatMap_AIC.m
+
