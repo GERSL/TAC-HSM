@@ -45,7 +45,8 @@ Note: All scripts were tested with MATLAB R2023b and Python 3.11. Dependent Pyth
   
 ---
 
-## Workflow Overview
+## Workflow Overview 
+(More instructions can be found in the run_pipeline.txt)
 
 1. Satellite Time-Series Processing
 - Landsat surface reflectance and TOA reflectance extraction via GEE
