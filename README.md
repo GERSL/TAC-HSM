@@ -35,6 +35,7 @@ TAC-HSM/
 ├── TAC/                           # TAC computation code (analysis)
 ├── c_factor_brdf_python/          # BRDF correction (c-factor approach) implemented in Python (preprocessing)
 ├── enhancedTAC_gap_filling_test/  # Experiments/tests results for HSM_TAC_Correlation
+├── Tests/                         # Simple test csv file and test.m for estimating TAC
 │
 ├── LICENSE                         # MIT license
 ├── CONTRIBUTING.md                 # Contribution and reuse policy
@@ -69,6 +70,7 @@ Note: All scripts were tested with MATLAB R2023b and Python 3.11. Dependent Pyth
 - Regression model evaluation with AIC
 - Figure generation
 
+Download ./Tests for an example run!
 ---
 
 ## License
