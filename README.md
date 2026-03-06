@@ -42,7 +42,9 @@ TAC-HSM/
 └── README.md                       # Project overview (this file) Legacy notes / additional documentation
 ```
 
-Note: All scripts were tested with MATLAB R2023b and Python 3.11. Dependent Python packages are listed in ./GEE-LandsatTimeSeries/environment.yml and ./c_factor_brdf_python/environment.yml
+Note: All scripts were tested with MATLAB R2023b and Python 3.11. 
+To download time series data from GEE, please install the dependent packages in ./GEE-LandsatTimeSeries/environment.yml 
+To conduct c-factor BRDF correction, please install the dependent packages in ./c_factor_brdf_python/environment.yml
   
 ---
 
