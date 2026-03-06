@@ -70,7 +70,7 @@ Note: All scripts were tested with MATLAB R2023b and Python 3.11. Dependent Pyth
 - Regression model evaluation with AIC
 - Figure generation
 
-### Download ./Tests[https://github.com/GERSL/TAC-HSM/tree/main/Tests] for an example run!
+### Download [./Tests](https://github.com/GERSL/TAC-HSM/tree/main/Tests) for an example run!
 ---
 
 ## License
