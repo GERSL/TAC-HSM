@@ -470,8 +470,7 @@ function TAC_record_change = autoTAC_sample(sensor,plot_data, varargin)
             
 
             if savefig
-                folderpath_TACplot = fullfile('/gpfs/sharedfs1/zhulab/SCRATCH/kes20012/ProjectTACValidation/Figure',[sensor,composite_interval]);
-                % folderpath_TACplot = fullfile('C:\Users\kes20012\OneDrive - University of Connecticut\Documents\TACResilienceValidation\Figures\',[sensor,'_harmonized']);
+                folderpath_TACplot = fullfile('.figures\');
                 if ~exist(folderpath_TACplot)
                     mkdir(folderpath_TACplot);
                 end
@@ -506,17 +505,6 @@ function TAC_record_change = autoTAC_sample(sensor,plot_data, varargin)
         clear TT3
         end  % end of isempty(rec_cg)
     end   % end of ~any(line_t_j,'all')
-
-            
-   % %% Save results
-   %  folderpath_TACResults = fullfile('/gpfs/sharedfs1/zhulab/SCRATCH/kes20012/ProjectTACValidation/',['TACResults_',datestr(now, 'yyyy-mm-dd')],[sensor,'_',composite_interval]);
-   %  if ~exist(folderpath_TACResults)
-   %      mkdir(folderpath_TACResults);
-   %  end
-   %  filepath_rcg = fullfile(folderpath_TACResults, sprintf('TAC_record_change_plot%03d.mat', plotid)); % r: row
-   %  save([filepath_rcg, '.part'] ,'TAC_record_change'); % save as .part
-   %  clear rec_cg;
-   %  movefile([filepath_rcg, '.part'], filepath_rcg);  % and then rename it as normal format
                 
 end   % end of function
 
