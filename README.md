@@ -70,7 +70,7 @@ Note: All scripts were tested with MATLAB R2023b and Python 3.11. Dependent Pyth
 - Regression model evaluation with AIC
 - Figure generation
 
-Download ./Tests for an example run!
+### Download ./Tests for an example run!
 ---
 
 ## License
