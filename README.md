@@ -7,11 +7,11 @@ This repository hosts code, data workflows, and figures for investigating the ec
 ## 📖 Background
 
 - **Resilience Indicator (TAC):**  
-  TAC is widely used as a proxy for ecosystem resilience. Increas in TAC values suggest reduced recovery speed and greater risk of tipping points.  
+  TAC is widely used as a proxy for ecosystem resilience. An increase in TAC values suggests reduced recovery speed and a greater risk of tipping points.  
 - **Resistance Trait (HSM):**  
   HSM is calculated from field hydraulic traits, e.g., the difference between the minimum observed stem water potential (Pmin) and the xylem pressure at 50% conductivity loss (P50).  
 - **Climate water deficit (CWD):**  
-  Long-term water excess (precipitation – evapotranspiration) influences how resistance translates into resilience.  
+  CWD, defined as the Long-term actual evapotranspiration minus precipitation, jointly influences the relationship between resistance and resilience.  
 
 By integrating field datasets with satellite TAC time series, we provide mechanistic evidence linking resistance and resilience, and test how this relationship varies with hydrological background.
 
