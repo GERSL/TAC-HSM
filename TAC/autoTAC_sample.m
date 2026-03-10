@@ -42,8 +42,8 @@ function TAC_record_change = autoTAC_sample(sensor,plot_data, varargin)
 
     % close all;
 
-    addpath('/home/kes20012/COLD_v2/CCD');
-    addpath('/home/kes20012/COLD_v2/Export');
+    addpath(fullfile(fileparts(pwd),'COLD_v2/CCD'));
+    addpath(fullfile(fileparts(pwd),'COLD_v2/Export'));
     
     p = inputParser;
     addParameter(p,'task', 1); % 1st task
@@ -470,7 +470,7 @@ function TAC_record_change = autoTAC_sample(sensor,plot_data, varargin)
             
 
             if savefig
-                folderpath_TACplot = fullfile('.figures\');
+                folderpath_TACplot = fullfile('.\figures');
                 if ~exist(folderpath_TACplot)
                     mkdir(folderpath_TACplot);
                 end
