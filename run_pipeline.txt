@@ -46,7 +46,7 @@ matlab RFmodel/preparePredictorVariables.m
 matalb RFmodel/obtainEnhancedTAC_FieldSample.m
 
 
-# 5) MATLAB step: Compare TAC with HSM and display results
+# 6) MATLAB step: Compare TAC with HSM and display results
 matlab HSM_TAC_Correlation/calculateAIC_HSM_OneMinusTAC.m
 matlab HSM_TAC_Correlation/plot/displayRegressionPlot_EVI2_reverse_conseGap1.m
 matlab HSM_TAC_Correlation/plot/displayFixedEffectRegressionPlot_EVI2_reverse.m
