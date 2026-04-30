@@ -1,5 +1,5 @@
 # TAC–HSM 
-[![DOI](https://doi.org/10.5281/zenodo.19907314)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19907314.svg)](https://doi.org/10.5281/zenodo.19907314)
 
 This repository hosts code, data workflows, and figures for investigating the ecophysiological relationship between **lag-1 Temporal Autocorrelation (TAC)** derived from satellite vegetation indices and **Hydraulic Safety Margin (HSM)** measured in the field. The project examines how **resistance** (indicated by HSM) and **resilience** (recovery speed, indicated by 1-TAC) are linked across Amazonian forests.
 
